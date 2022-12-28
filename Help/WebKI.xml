@@ -1,0 +1,657 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+
+  <HelpKINode Title="AudioDevicesChange event" Url="html/2d47269e-2f89-0c8c-9c80-16f1e3361eb9.htm" />
+  <HelpKINode Title="AudioEndPoint enumeration member" Url="html/7790bb6b-d145-5d2e-4c06-aefc274610d4.htm" />
+  <HelpKINode Title="Binding field" Url="html/0b7da39d-108c-691d-afe3-cbad1b31cc47.htm" />
+  <HelpKINode Title="Binding field" Url="html/79a60bad-6464-cb00-3e5d-fbd1a01be8d7.htm" />
+  <HelpKINode Title="Binding field" Url="html/fea15145-1f87-4415-2a4b-1238e439d974.htm" />
+  <HelpKINode Title="CBinding class" Url="html/5f231e0a-7b45-813b-1858-726216d093bd.htm" />
+  <HelpKINode Title="CBinding class" Url="html/db74826b-5c28-3678-ad9c-e15a69cc6456.htm" />
+  <HelpKINode Title="CBinding class">
+    <HelpKINode Title="about CBinding class" Url="html/5f231e0a-7b45-813b-1858-726216d093bd.htm" />
+    <HelpKINode Title="all members" Url="html/db74826b-5c28-3678-ad9c-e15a69cc6456.htm" />
+    <HelpKINode Title="methods" Url="html/2998ed82-3c68-befe-6506-440dadf79bd0.htm" />
+    <HelpKINode Title="properties" Url="html/9ad50eb8-2b66-3c1f-9998-86476940c7d1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CBinding.Define method" Url="html/0666dc80-8d1a-c297-a8eb-8a552adf864e.htm" />
+  <HelpKINode Title="CBinding.IsBound property" Url="html/36d8068c-2a6c-ebf3-1072-615aaa397ef7.htm" />
+  <HelpKINode Title="CBinding.Remove method" Url="html/c3e8f502-4330-05d8-a4fe-45b7ef34458b.htm" />
+  <HelpKINode Title="cccCLASS_CUSTOM enumeration member" Url="html/4de6e1c5-ac42-35f9-959d-0c53a9dd5614.htm" />
+  <HelpKINode Title="cccCLASS_FADER enumeration member" Url="html/4de6e1c5-ac42-35f9-959d-0c53a9dd5614.htm" />
+  <HelpKINode Title="cccCLASS_LIST enumeration member" Url="html/4de6e1c5-ac42-35f9-959d-0c53a9dd5614.htm" />
+  <HelpKINode Title="cccCLASS_MASK enumeration member" Url="html/4de6e1c5-ac42-35f9-959d-0c53a9dd5614.htm" />
+  <HelpKINode Title="cccCLASS_METER enumeration member" Url="html/4de6e1c5-ac42-35f9-959d-0c53a9dd5614.htm" />
+  <HelpKINode Title="cccCLASS_NUMBER enumeration member" Url="html/4de6e1c5-ac42-35f9-959d-0c53a9dd5614.htm" />
+  <HelpKINode Title="cccCLASS_SLIDER enumeration member" Url="html/4de6e1c5-ac42-35f9-959d-0c53a9dd5614.htm" />
+  <HelpKINode Title="cccCLASS_SWITCH enumeration member" Url="html/4de6e1c5-ac42-35f9-959d-0c53a9dd5614.htm" />
+  <HelpKINode Title="cccCLASS_TIME enumeration member" Url="html/4de6e1c5-ac42-35f9-959d-0c53a9dd5614.htm" />
+  <HelpKINode Title="CControl class" Url="html/04f33719-0e1f-f7fe-8a87-7969439e0d00.htm" />
+  <HelpKINode Title="CControl class" Url="html/ce4402e3-f42c-169d-045d-c5aed32b0657.htm" />
+  <HelpKINode Title="CControl class">
+    <HelpKINode Title="about CControl class" Url="html/ce4402e3-f42c-169d-045d-c5aed32b0657.htm" />
+    <HelpKINode Title="all members" Url="html/04f33719-0e1f-f7fe-8a87-7969439e0d00.htm" />
+    <HelpKINode Title="constructor" Url="html/95071a55-268a-0da5-72e9-d56f0b2fcba7.htm" />
+    <HelpKINode Title="fields" Url="html/c294bc0b-299c-7578-2f12-1f8e4f89af49.htm" />
+    <HelpKINode Title="methods" Url="html/70680bad-83c8-359f-c607-9b1b6da78fb7.htm" />
+    <HelpKINode Title="properties" Url="html/aad98501-edf4-2ab7-5f70-8b7918b70173.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CControl.Binding field" Url="html/fea15145-1f87-4415-2a4b-1238e439d974.htm" />
+  <HelpKINode Title="CControl.CControl constructor" Url="html/95071a55-268a-0da5-72e9-d56f0b2fcba7.htm" />
+  <HelpKINode Title="CControl.ControlClass property" Url="html/fec8e624-2013-dee4-9b0b-edc305452632.htm" />
+  <HelpKINode Title="CControl.ControlClassConstants enumeration" Url="html/4de6e1c5-ac42-35f9-959d-0c53a9dd5614.htm" />
+  <HelpKINode Title="CControl.ControlType property" Url="html/d526d74f-3005-4f04-7884-abf31d2cfd3a.htm" />
+  <HelpKINode Title="CControl.ControlTypeConstants enumeration" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="CControl.CtrlItems property" Url="html/505f8abd-89df-a050-b115-a49de479e2aa.htm" />
+  <HelpKINode Title="CControl.Dispose method" Url="html/684cd54d-0717-24ba-1dc8-25b4b2527219.htm" />
+  <HelpKINode Title="CControl.Enabled property" Url="html/04bc7b8b-0bf7-af89-ddb4-deb6caae664c.htm" />
+  <HelpKINode Title="CControl.ID property" Url="html/3a1073dc-0523-46f7-38f8-6e8829bbccd3.htm" />
+  <HelpKINode Title="CControl.Index property" Url="html/bcfd27d9-bbb5-03d8-30ce-14218ebf8863.htm" />
+  <HelpKINode Title="CControl.IsValid property" Url="html/491380bc-ad0d-0b1b-39d7-eb1fbfa60afe.htm" />
+  <HelpKINode Title="CControl.Key field" Url="html/34cafd63-a38d-c6aa-b1a7-2c828c639390.htm" />
+  <HelpKINode Title="CControl.LongName property" Url="html/7ad52020-d562-8614-21ab-d870b1329caa.htm" />
+  <HelpKINode Title="CControl.Max property" Url="html/3076540d-47b7-f51a-51e4-e7bd68740672.htm" />
+  <HelpKINode Title="CControl.Min property" Url="html/ef6b345a-3971-4a66-12ed-2c9db612aef0.htm" />
+  <HelpKINode Title="CControl.Parent property" Url="html/b452324f-d62d-cc80-fda7-0af07018b25d.htm" />
+  <HelpKINode Title="CControl.ShortName property" Url="html/bf9c6712-c59f-0138-072b-bfdf78e78ea6.htm" />
+  <HelpKINode Title="CControl.Steps property" Url="html/71ad2794-7fa9-c2be-2bd5-5927199e4284.htm" />
+  <HelpKINode Title="CControl.Tag property" Url="html/1b2a8509-5bdd-3d1a-16b5-f7b60fb51552.htm" />
+  <HelpKINode Title="CControl.ToString method" Url="html/be0a84bb-bb31-fc5a-1fb4-c6727a8e04a7.htm" />
+  <HelpKINode Title="CControl.UniformValue property" Url="html/1b61cd0d-3581-0c27-2caf-63f66525deea.htm" />
+  <HelpKINode Title="CControl.Value property" Url="html/f7a37d1f-54a9-2e8d-928b-8abfef5bd9a3.htm" />
+  <HelpKINode Title="CCoreAudio class" Url="html/6eec4327-822f-ed21-d59d-fb366ba3bd8e.htm" />
+  <HelpKINode Title="CCoreAudio class" Url="html/74643bd4-005b-f642-46d9-f87383f145cd.htm" />
+  <HelpKINode Title="CCoreAudio class">
+    <HelpKINode Title="about CCoreAudio class" Url="html/74643bd4-005b-f642-46d9-f87383f145cd.htm" />
+    <HelpKINode Title="all members" Url="html/6eec4327-822f-ed21-d59d-fb366ba3bd8e.htm" />
+    <HelpKINode Title="constructor" Url="html/f6121823-de80-9f02-7ffc-6bae77420be3.htm" />
+    <HelpKINode Title="properties" Url="html/a060782c-3dc1-6eab-7c52-6d0260216440.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CCoreAudio.CControl class" Url="html/3e84f01f-e2b0-2cd4-a9f8-6cbbebe55dfb.htm" />
+  <HelpKINode Title="CCoreAudio.CControl class" Url="html/4edc0662-1da8-95c6-bf21-d3718e8b6386.htm" />
+  <HelpKINode Title="CCoreAudio.CControl class">
+    <HelpKINode Title="about CCoreAudio.CControl class" Url="html/3e84f01f-e2b0-2cd4-a9f8-6cbbebe55dfb.htm" />
+    <HelpKINode Title="all members" Url="html/4edc0662-1da8-95c6-bf21-d3718e8b6386.htm" />
+    <HelpKINode Title="methods" Url="html/d21820d8-df33-2a89-413b-cbe14ac9b397.htm" />
+    <HelpKINode Title="properties" Url="html/0fafaf3f-f701-4982-d1c0-c2cda44332c7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CCoreAudio.CControl.CControlLoudness class" Url="html/dde4f816-1a09-147a-973e-e957f8fdfb50.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlLoudness class" Url="html/f4393b6b-5921-0c41-2b36-461da627109c.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlLoudness class">
+    <HelpKINode Title="about CCoreAudio.CControl.CControlLoudness class" Url="html/f4393b6b-5921-0c41-2b36-461da627109c.htm" />
+    <HelpKINode Title="all members" Url="html/dde4f816-1a09-147a-973e-e957f8fdfb50.htm" />
+    <HelpKINode Title="events" Url="html/75db8c53-0d19-141c-581a-ad310b9b6b74.htm" />
+    <HelpKINode Title="fields" Url="html/c5f3cdc1-0421-94bf-6b62-1e56b54dd2fe.htm" />
+    <HelpKINode Title="properties" Url="html/7bb455cb-c2a2-994e-d141-79ff3af0e538.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CCoreAudio.CControl.CControlLoudness.Loudness property" Url="html/f681d55e-246e-87b5-7b59-a378bf020811.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlLoudness.UniformValue property" Url="html/c86693b1-f2bd-6842-a5d6-6df99b88ef78.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlMute class" Url="html/352a56b1-65f2-4215-b0e4-47000ddd7862.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlMute class" Url="html/51ff5cbd-0d20-3eec-8b2f-90b5d96cd3c2.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlMute class">
+    <HelpKINode Title="about CCoreAudio.CControl.CControlMute class" Url="html/51ff5cbd-0d20-3eec-8b2f-90b5d96cd3c2.htm" />
+    <HelpKINode Title="all members" Url="html/352a56b1-65f2-4215-b0e4-47000ddd7862.htm" />
+    <HelpKINode Title="events" Url="html/74782aea-cc80-9746-b35e-f89f71f6c87e.htm" />
+    <HelpKINode Title="fields" Url="html/039cc4e1-7778-2253-6426-a54013e7521e.htm" />
+    <HelpKINode Title="properties" Url="html/ca36a34c-12dc-7a2f-c106-6777dbc96161.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CCoreAudio.CControl.CControlMute.Mute property" Url="html/9df0f9b5-2880-dda5-5019-f9755fc12117.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlMute.UniformValue property" Url="html/51e83a46-58de-4fdf-a1f5-f4f8febdb612.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlObject class" Url="html/2fb868a3-b87a-2464-9be1-040ac73b754f.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlObject class" Url="html/9b90778d-67b9-c4cf-962b-fa0bf8fee1ba.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlObject class">
+    <HelpKINode Title="about CCoreAudio.CControl.CControlObject class" Url="html/9b90778d-67b9-c4cf-962b-fa0bf8fee1ba.htm" />
+    <HelpKINode Title="all members" Url="html/2fb868a3-b87a-2464-9be1-040ac73b754f.htm" />
+    <HelpKINode Title="events" Url="html/76ddb38f-5e42-9e23-1f0e-1d84e2167442.htm" />
+    <HelpKINode Title="fields" Url="html/3a895eaf-ea5b-86e4-72a6-0f2e2946a8a4.htm" />
+    <HelpKINode Title="properties" Url="html/11af6cb4-b2ca-e291-57d7-3710c64e23ce.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CCoreAudio.CControl.CControlObject.Binding field" Url="html/0b7da39d-108c-691d-afe3-cbad1b31cc47.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlObject.ControlChanged event" Url="html/85792590-a089-597a-5e3b-fa8b0cdd5b8c.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlObject.ControlChangedEventHandler delegate" Url="html/c6f426a5-2dc1-5753-a25b-4b716ec43a5c.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlObject.Name property" Url="html/59e2e2b7-f78e-98a7-6621-5850d3a08478.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlObject.Parent property" Url="html/217581b3-9abe-af30-843e-660b7ab3a6f9.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlPeakMeter class" Url="html/1f8aa70f-133a-392f-197b-e98efc7b794b.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlPeakMeter class" Url="html/f4b889eb-73c0-78d8-bfea-d41e767789d4.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlPeakMeter class">
+    <HelpKINode Title="about CCoreAudio.CControl.CControlPeakMeter class" Url="html/f4b889eb-73c0-78d8-bfea-d41e767789d4.htm" />
+    <HelpKINode Title="all members" Url="html/1f8aa70f-133a-392f-197b-e98efc7b794b.htm" />
+    <HelpKINode Title="events" Url="html/2854d3f2-d898-7ec6-3b15-906aed5fd208.htm" />
+    <HelpKINode Title="fields" Url="html/08bea950-7e09-1cfd-99c9-be3eedadc6b2.htm" />
+    <HelpKINode Title="properties" Url="html/1e7b4b0c-1a9e-141e-7b73-e3a004c5c7e5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CCoreAudio.CControl.CControlPeakMeter.Channels property" Url="html/2a86be2c-e8c9-d036-79c3-bce4498147cc.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlPeakMeter.PeakLevel property" Url="html/3f0483c5-5607-a7b7-f69b-46221f259c74.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlPeakMeter.UniformValue property" Url="html/0cecbb5b-e92f-797d-1904-991ef64ee45e.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlVolume class" Url="html/865c3b2b-1fa6-dbdc-1469-9e64267d9d9c.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlVolume class" Url="html/ccad9870-1dcc-4a77-b63b-0acd18889093.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlVolume class">
+    <HelpKINode Title="about CCoreAudio.CControl.CControlVolume class" Url="html/ccad9870-1dcc-4a77-b63b-0acd18889093.htm" />
+    <HelpKINode Title="all members" Url="html/865c3b2b-1fa6-dbdc-1469-9e64267d9d9c.htm" />
+    <HelpKINode Title="events" Url="html/2d3096d1-2d98-1246-6c9a-3e75a0270871.htm" />
+    <HelpKINode Title="fields" Url="html/8be38908-ad42-fec7-f88a-0ebe5e1eab87.htm" />
+    <HelpKINode Title="properties" Url="html/5314d495-742f-e199-cbe7-cb678addcea1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CCoreAudio.CControl.CControlVolume.Channels property" Url="html/4171f5d6-aca5-a6b7-95e0-347a8e9dcc10.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlVolume.Max property" Url="html/fcdca0fd-b8ef-7e39-62a8-c33cfa26493d.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlVolume.Min property" Url="html/136cf847-c17f-7741-7990-b4631e30d930.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlVolume.Steps property" Url="html/a391779d-3410-3b60-a350-2725f4ff0421.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlVolume.UniformValue property" Url="html/3a97d8a2-0acb-cc94-465f-0273039d2efd.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.CControlVolume.Volume property" Url="html/e7261ab9-a782-741b-4918-4a0e0e0c0e66.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.Control property" Url="html/0520f2ca-c3d5-5bb6-2b4f-1770525bf92f.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.ControlLoudness property" Url="html/a8c5d7ba-305d-34f0-e7cb-9a0afadcc331.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.ControlMute property" Url="html/6c231ea5-9b8a-712a-51a4-2913213827cf.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.ControlPeakMeter property" Url="html/caf4bb80-2017-4db7-a35e-9a33d590db41.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.ControlType property" Url="html/e6598e9f-a255-29b5-667a-14b6ffa19974.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.ControlTypeConstants enumeration" Url="html/7790bb6b-d145-5d2e-4c06-aefc274610d4.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.ControlTypeName property" Url="html/6de2209e-5996-1371-3fc5-904526324e0d.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.ControlVolume property" Url="html/695153d3-77b9-1195-d8aa-6d59891da0f2.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.Name property" Url="html/f728ce4a-e564-4582-b55e-7b47483fc7cf.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.Parent property" Url="html/dc4499e1-8208-87b8-9c9c-8adf99c6b763.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.SubControls property" Url="html/ca574629-c03b-8c05-2b0e-d12d55882081.htm" />
+  <HelpKINode Title="CCoreAudio.CControl.ToString method" Url="html/ff6f3aaf-2534-3f36-8a09-c227cd50e735.htm" />
+  <HelpKINode Title="CCoreAudio.CCoreAudio constructor" Url="html/f6121823-de80-9f02-7ffc-6bae77420be3.htm" />
+  <HelpKINode Title="CCoreAudio.CLine class" Url="html/548e012c-ee2e-e6ac-b113-c61e5cdbc166.htm" />
+  <HelpKINode Title="CCoreAudio.CLine class" Url="html/af9565a4-9b0a-6f60-ca14-e341da44022a.htm" />
+  <HelpKINode Title="CCoreAudio.CLine class">
+    <HelpKINode Title="about CCoreAudio.CLine class" Url="html/af9565a4-9b0a-6f60-ca14-e341da44022a.htm" />
+    <HelpKINode Title="all members" Url="html/548e012c-ee2e-e6ac-b113-c61e5cdbc166.htm" />
+    <HelpKINode Title="constructor" Url="html/9cc62312-02bb-d6a8-34b0-5483f1153fe1.htm" />
+    <HelpKINode Title="methods" Url="html/24d626ac-fb2f-840e-d1b3-2f335386ee22.htm" />
+    <HelpKINode Title="properties" Url="html/27f50e13-4857-07fc-4889-6f7db13ae74b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CCoreAudio.CLine.CLine constructor" Url="html/9cc62312-02bb-d6a8-34b0-5483f1153fe1.htm" />
+  <HelpKINode Title="CCoreAudio.CLine.Controls property" Url="html/26657b64-7c10-bf6f-db65-6ab73c758928.htm" />
+  <HelpKINode Title="CCoreAudio.CLine.LineType property" Url="html/a889cbd1-b357-4880-6e23-47c037ea7399.htm" />
+  <HelpKINode Title="CCoreAudio.CLine.Name property" Url="html/907f8edd-284b-94aa-e166-f5268df7b843.htm" />
+  <HelpKINode Title="CCoreAudio.CLine.Parent property" Url="html/026a0799-5cc0-bbde-b1e2-1c97a3bab890.htm" />
+  <HelpKINode Title="CCoreAudio.CLine.ToString method" Url="html/9695a6d9-d455-224c-4384-6db05e48919c.htm" />
+  <HelpKINode Title="CCoreAudio.CMixer class" Url="html/dd8d2f68-9222-172f-ecc5-882a1866b3b3.htm" />
+  <HelpKINode Title="CCoreAudio.CMixer class" Url="html/f0cb41ce-9ae7-d651-1a68-be5b14ec5d41.htm" />
+  <HelpKINode Title="CCoreAudio.CMixer class">
+    <HelpKINode Title="about CCoreAudio.CMixer class" Url="html/f0cb41ce-9ae7-d651-1a68-be5b14ec5d41.htm" />
+    <HelpKINode Title="all members" Url="html/dd8d2f68-9222-172f-ecc5-882a1866b3b3.htm" />
+    <HelpKINode Title="events" Url="html/40605f67-a5e4-6bb9-558f-67e0464bfe9c.htm" />
+    <HelpKINode Title="methods" Url="html/0d57d9e8-0e31-df11-fbf3-cad02937d49d.htm" />
+    <HelpKINode Title="properties" Url="html/ca49902a-065f-57f7-88e8-f0b5df5f60f9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CCoreAudio.CMixer.DataFlow property" Url="html/87bf250c-4806-36e4-13a8-831304923f7f.htm" />
+  <HelpKINode Title="CCoreAudio.CMixer.DeviceName property" Url="html/4f97a0b6-0d13-ca1a-f2a0-ebc8a9c1b790.htm" />
+  <HelpKINode Title="CCoreAudio.CMixer.Enabled property" Url="html/55fc2573-a87d-0ff2-029c-a5b670ee8615.htm" />
+  <HelpKINode Title="CCoreAudio.CMixer.Line property" Url="html/fabd3b60-63d2-de1b-3a4f-43f9bf737faa.htm" />
+  <HelpKINode Title="CCoreAudio.CMixer.Lines property" Url="html/b85d0a08-5eb2-733d-7a8b-bd38dc732037.htm" />
+  <HelpKINode Title="CCoreAudio.CMixer.Mute property" Url="html/85158cb1-c9c1-9a2a-3fe1-449b090f043e.htm" />
+  <HelpKINode Title="CCoreAudio.CMixer.Name property" Url="html/3fde33bf-0fe9-f8fe-2c0b-4533901a3420.htm" />
+  <HelpKINode Title="CCoreAudio.CMixer.PeakMeter property" Url="html/3b9e648a-33ec-880e-ca7c-4a133fad060e.htm" />
+  <HelpKINode Title="CCoreAudio.CMixer.Selected property" Url="html/3dbfb747-efeb-3c91-7026-1c670e5ce921.htm" />
+  <HelpKINode Title="CCoreAudio.CMixer.SessionChanged event" Url="html/95f9678c-8366-a9bf-b270-0e6044eeede7.htm" />
+  <HelpKINode Title="CCoreAudio.CMixer.SessionChangedEventHandler delegate" Url="html/37d84ef8-e92e-e14d-6f47-39bfdb6c7a9f.htm" />
+  <HelpKINode Title="CCoreAudio.CMixer.Sessions property" Url="html/795c8179-e542-43ad-4f45-df105921ee14.htm" />
+  <HelpKINode Title="CCoreAudio.CMixer.ToString method" Url="html/95704610-c0be-16cc-b726-bc3f08db0a40.htm" />
+  <HelpKINode Title="CCoreAudio.CMixer.Volume property" Url="html/8766ae53-b216-6dae-11cc-7e9eee7d1f25.htm" />
+  <HelpKINode Title="CCoreAudio.CSession class" Url="html/1141a860-c90a-e32b-575d-682b1b81813a.htm" />
+  <HelpKINode Title="CCoreAudio.CSession class" Url="html/d1ab850a-d91f-1f67-2c7b-1fc66cdc6e65.htm" />
+  <HelpKINode Title="CCoreAudio.CSession class">
+    <HelpKINode Title="about CCoreAudio.CSession class" Url="html/d1ab850a-d91f-1f67-2c7b-1fc66cdc6e65.htm" />
+    <HelpKINode Title="all members" Url="html/1141a860-c90a-e32b-575d-682b1b81813a.htm" />
+    <HelpKINode Title="constructor" Url="html/a77d5592-5ecc-086e-3583-fcfd065f9308.htm" />
+    <HelpKINode Title="events" Url="html/cefa1887-aa28-6e68-a9a5-6df83838d1a6.htm" />
+    <HelpKINode Title="methods" Url="html/6d82a44c-bce7-0985-72b3-b2a26a24fe89.htm" />
+    <HelpKINode Title="properties" Url="html/21eb9d7c-b572-5529-f65f-39ab471935c1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CCoreAudio.CSession.ControlMute property" Url="html/faf31cdb-d63d-7d91-56c3-6c570516d3d9.htm" />
+  <HelpKINode Title="CCoreAudio.CSession.ControlPeakMeter property" Url="html/ea9975af-2fb3-0bbc-6dc8-2bea04c37d2a.htm" />
+  <HelpKINode Title="CCoreAudio.CSession.ControlVolume property" Url="html/a489b10c-01c7-c74e-5534-3e82c969ce42.htm" />
+  <HelpKINode Title="CCoreAudio.CSession.CSession constructor" Url="html/a77d5592-5ecc-086e-3583-fcfd065f9308.htm" />
+  <HelpKINode Title="CCoreAudio.CSession.Disconnected event" Url="html/b56bfc4b-e630-fbbf-29c7-6070cb0708df.htm" />
+  <HelpKINode Title="CCoreAudio.CSession.DisconnectedEventHandler delegate" Url="html/9be2c221-4d85-ed96-fe08-b6d304e49908.htm" />
+  <HelpKINode Title="CCoreAudio.CSession.Line property" Url="html/c76d4d61-fa9a-7803-c31b-87b2c46b237a.htm" />
+  <HelpKINode Title="CCoreAudio.CSession.Name property" Url="html/24b57a73-e83a-e913-5691-7b241d3dacf5.htm" />
+  <HelpKINode Title="CCoreAudio.CSession.NameChanged event" Url="html/018cdee4-4c85-3594-134d-ab3b936fe8dc.htm" />
+  <HelpKINode Title="CCoreAudio.CSession.NameChangedEventHandler delegate" Url="html/abb3d4ed-120f-3c1d-b43a-ff41f396a6c0.htm" />
+  <HelpKINode Title="CCoreAudio.CSession.StateChanged event" Url="html/2070683f-1245-0db8-44dd-d92ef4851b9f.htm" />
+  <HelpKINode Title="CCoreAudio.CSession.StateChangedEventHandler delegate" Url="html/b17544c7-73f8-8e8b-0ea4-d21ea17039de.htm" />
+  <HelpKINode Title="CCoreAudio.CSession.ToString method" Url="html/77b2c0d0-a755-095b-d2c0-26e2bb8e9cd0.htm" />
+  <HelpKINode Title="CCoreAudio.Mixers property" Url="html/3b9b66ee-1f37-74fa-f7b9-283e1ff2e65c.htm" />
+  <HelpKINode Title="CCoreAudio.RequiresCoreAudio property" Url="html/57907d52-2057-7f9b-1269-94ce0f2930b6.htm" />
+  <HelpKINode Title="CCtrlItem class" Url="html/a9d78ab0-0b81-cbbb-288d-a185160dc5bd.htm" />
+  <HelpKINode Title="CCtrlItem class" Url="html/cb7cd989-35dc-a2ef-3a99-5db34a72ef74.htm" />
+  <HelpKINode Title="CCtrlItem class">
+    <HelpKINode Title="about CCtrlItem class" Url="html/a9d78ab0-0b81-cbbb-288d-a185160dc5bd.htm" />
+    <HelpKINode Title="all members" Url="html/cb7cd989-35dc-a2ef-3a99-5db34a72ef74.htm" />
+    <HelpKINode Title="constructor" Url="html/11c22778-aed6-58bf-3717-f35151d4e3a1.htm" />
+    <HelpKINode Title="fields" Url="html/ea5d2d53-a399-30dd-5dce-611b07de0646.htm" />
+    <HelpKINode Title="methods" Url="html/a3ebbbb9-d066-d77e-1ad0-7ff8765714f8.htm" />
+    <HelpKINode Title="properties" Url="html/41181043-d5ab-ee13-bbbd-71f9eda21819.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CCtrlItem.Binding field" Url="html/79a60bad-6464-cb00-3e5d-fbd1a01be8d7.htm" />
+  <HelpKINode Title="CCtrlItem.CCtrlItem constructor" Url="html/11c22778-aed6-58bf-3717-f35151d4e3a1.htm" />
+  <HelpKINode Title="CCtrlItem.Dispose method" Url="html/2da7b7e0-bef6-59a0-99b4-bd359c600df7.htm" />
+  <HelpKINode Title="CCtrlItem.Index property" Url="html/ce5da435-9549-56fe-4d77-8e0aa25305a4.htm" />
+  <HelpKINode Title="CCtrlItem.ItemName property" Url="html/827d0017-9cc5-63eb-dc3c-815a96af7767.htm" />
+  <HelpKINode Title="CCtrlItem.Key field" Url="html/2833c51a-5e43-066e-42f7-ec197710604e.htm" />
+  <HelpKINode Title="CCtrlItem.Parent property" Url="html/18a818d5-c312-3b64-0236-16f0d2895683.htm" />
+  <HelpKINode Title="CCtrlItem.Tag property" Url="html/d23b8754-c30b-ec3b-6752-0093425c57ef.htm" />
+  <HelpKINode Title="CCtrlItem.ToString method" Url="html/534cfbc1-629d-97d6-a49c-a8e879a4b7e1.htm" />
+  <HelpKINode Title="CCtrlItem.UniformValue property" Url="html/30cb133c-7fcd-1e44-ab84-11f1b5b8d003.htm" />
+  <HelpKINode Title="CCtrlItem.Value property" Url="html/f656dba5-9586-da35-4973-803bc300bf93.htm" />
+  <HelpKINode Title="Changed event" Url="html/e4e48a86-9db9-3422-6dba-8b7be2e47fd8.htm" />
+  <HelpKINode Title="Channels property" Url="html/2a86be2c-e8c9-d036-79c3-bce4498147cc.htm" />
+  <HelpKINode Title="Channels property" Url="html/4171f5d6-aca5-a6b7-95e0-347a8e9dcc10.htm" />
+  <HelpKINode Title="Channels property" Url="html/c3deb204-75a0-48ea-809f-1f1b5d791546.htm" />
+  <HelpKINode Title="CLine class" Url="html/b2474cea-b317-9450-07eb-16fc42d604e4.htm" />
+  <HelpKINode Title="CLine class" Url="html/bf57fb1a-0424-7ad7-385d-5f67993a9f37.htm" />
+  <HelpKINode Title="CLine class">
+    <HelpKINode Title="about CLine class" Url="html/b2474cea-b317-9450-07eb-16fc42d604e4.htm" />
+    <HelpKINode Title="all members" Url="html/bf57fb1a-0424-7ad7-385d-5f67993a9f37.htm" />
+    <HelpKINode Title="fields" Url="html/530651ba-a31e-24de-ea3d-62c01c58d26a.htm" />
+    <HelpKINode Title="methods" Url="html/bbf10a2e-c3f3-f96f-f8a4-c7112cf31466.htm" />
+    <HelpKINode Title="properties" Url="html/1d41eefe-18f5-fd7b-a4f0-d654238e5a04.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CLine.Channels property" Url="html/c3deb204-75a0-48ea-809f-1f1b5d791546.htm" />
+  <HelpKINode Title="CLine.ComponentType property" Url="html/fa8f6f15-8638-08f4-374c-7712a6d01c74.htm" />
+  <HelpKINode Title="CLine.ComponentTypeConstants enumeration" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="CLine.ConnectedTo property" Url="html/054bcfee-0c02-33bb-6ec3-c0f8ba5cc2eb.htm" />
+  <HelpKINode Title="CLine.Controls property" Url="html/2240d349-fee5-a3e5-c178-b465dac40dd1.htm" />
+  <HelpKINode Title="CLine.ControlsByClass method" Url="html/8d8c5fae-3394-3001-a80f-680d6baa3a31.htm" />
+  <HelpKINode Title="CLine.ControlsByType method" Url="html/b963d9cc-048a-f840-360b-3270b95c931d.htm" />
+  <HelpKINode Title="CLine.DestinationID property" Url="html/b707819c-499e-978c-144b-7921d4eb8004.htm" />
+  <HelpKINode Title="CLine.Dispose method" Url="html/9e8fec67-3da1-5434-5871-d04959e89df2.htm" />
+  <HelpKINode Title="CLine.ID property" Url="html/ee9a2b02-13cf-4b9e-7ab9-6409f35b68d6.htm" />
+  <HelpKINode Title="CLine.Index property" Url="html/3addc3e0-35e6-4fa9-1c69-b7bd6bf88965.htm" />
+  <HelpKINode Title="CLine.Key field" Url="html/1560c708-ffc3-5726-860a-b5e1e4a1e651.htm" />
+  <HelpKINode Title="CLine.LineType property" Url="html/b24de8a0-aa4f-fd92-e681-204dd3fdac70.htm" />
+  <HelpKINode Title="CLine.LineTypeConstants enumeration" Url="html/50e1aa79-421a-10d3-445b-3d1e84786c8c.htm" />
+  <HelpKINode Title="CLine.LongName property" Url="html/16998070-b952-e47d-61b9-305f9d72bc03.htm" />
+  <HelpKINode Title="CLine.Parent property" Url="html/d3f0a115-449b-4ed7-70c8-6d63ff903447.htm" />
+  <HelpKINode Title="CLine.ShortName property" Url="html/2411c49f-e144-3283-8c7e-66697e6401a9.htm" />
+  <HelpKINode Title="CLine.Tag property" Url="html/88b4ff49-baa2-677b-f81a-5c67e50803d1.htm" />
+  <HelpKINode Title="CLine.ToString method" Url="html/c250e716-2b63-ef3f-51f3-8addf2fda025.htm" />
+  <HelpKINode Title="CMixer class" Url="html/51bb94c6-abaa-22b8-efb7-135ac1345ad5.htm" />
+  <HelpKINode Title="CMixer class" Url="html/595e238f-d4cc-0d89-63a3-2657cf406a04.htm" />
+  <HelpKINode Title="CMixer class">
+    <HelpKINode Title="about CMixer class" Url="html/595e238f-d4cc-0d89-63a3-2657cf406a04.htm" />
+    <HelpKINode Title="all members" Url="html/51bb94c6-abaa-22b8-efb7-135ac1345ad5.htm" />
+    <HelpKINode Title="fields" Url="html/dfbe5672-7223-f664-05d9-8ab0b9a6accd.htm" />
+    <HelpKINode Title="methods" Url="html/1e21ad9c-99fb-85bc-a253-3302ff338bfe.htm" />
+    <HelpKINode Title="properties" Url="html/52838fcd-2f4f-a038-bcb3-f2b27dac1c7f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CMixer.DeviceName property" Url="html/8a72140f-910d-8718-472f-a3893ff68343.htm" />
+  <HelpKINode Title="CMixer.Dispose method" Url="html/a4cb06d3-2913-9042-3a15-7969d4bc1000.htm" />
+  <HelpKINode Title="CMixer.DriverVersion property" Url="html/0f9043f4-6ae8-7e94-de9f-69a8beb624fb.htm" />
+  <HelpKINode Title="CMixer.ID property" Url="html/579fe255-0776-836c-eb57-d0fa5f0f3652.htm" />
+  <HelpKINode Title="CMixer.Index property" Url="html/9024a7ff-5f54-54b0-f1f7-6190d08e03cd.htm" />
+  <HelpKINode Title="CMixer.Key field" Url="html/ec38eab5-42b7-5eda-b92f-2ee3e56cf139.htm" />
+  <HelpKINode Title="CMixer.Lines property" Url="html/857cfc87-7d0b-a686-dff9-11101ecdb94e.htm" />
+  <HelpKINode Title="CMixer.LinesByComponentType method" Url="html/dbee9e0d-d5c0-5c7c-ecf6-afb0605061c9.htm" />
+  <HelpKINode Title="CMixer.LinesByConnection method" Url="html/c6e13c4a-7a09-8f0b-bf6f-5a27453ab7c5.htm" />
+  <HelpKINode Title="CMixer.LinesByLineType method" Url="html/85d523a3-60a5-3fac-5be3-1ef7ff4bc8ea.htm" />
+  <HelpKINode Title="CMixer.ManufacturerID property" Url="html/8475ebb2-9da1-5bd1-e470-5ea1eb2938b9.htm" />
+  <HelpKINode Title="CMixer.mixerHandler property" Url="html/b65d6e4f-b2cc-b06a-4bb8-9285ca823fd4.htm" />
+  <HelpKINode Title="CMixer.ProductID property" Url="html/22d56e52-1b6c-0498-194c-3ff1e108665f.htm" />
+  <HelpKINode Title="CMixer.Tag property" Url="html/27810269-9851-0e48-040c-30ddd5c87cc4.htm" />
+  <HelpKINode Title="CMixer.ToString method" Url="html/ca7fb917-fcb4-9cf2-771b-7a5511aee52f.htm" />
+  <HelpKINode Title="CMixerPro class" Url="html/2e51a6c1-58f7-aeb9-c889-1d9e9077a780.htm" />
+  <HelpKINode Title="CMixerPro class" Url="html/803d5ec9-41d4-fc11-4300-56868f748992.htm" />
+  <HelpKINode Title="CMixerPro class">
+    <HelpKINode Title="about CMixerPro class" Url="html/803d5ec9-41d4-fc11-4300-56868f748992.htm" />
+    <HelpKINode Title="all members" Url="html/2e51a6c1-58f7-aeb9-c889-1d9e9077a780.htm" />
+    <HelpKINode Title="constructor" Url="html/4685a3bd-6f4e-e050-c6c3-47f78ead23f4.htm" />
+    <HelpKINode Title="events" Url="html/9f5ae890-3edb-410d-3fc1-1e3792594878.htm" />
+    <HelpKINode Title="methods" Url="html/f1d175d0-d843-1280-ab42-052567fba0d5.htm" />
+    <HelpKINode Title="properties" Url="html/53fe3bf6-2bc0-0f25-5acc-83211aa45de5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CMixerPro.AudioDevicesChange event" Url="html/2d47269e-2f89-0c8c-9c80-16f1e3361eb9.htm" />
+  <HelpKINode Title="CMixerPro.AudioDevicesChangeEventHandler delegate" Url="html/6cc1330c-2d88-9b36-821e-f7b841012897.htm" />
+  <HelpKINode Title="CMixerPro.Changed event" Url="html/e4e48a86-9db9-3422-6dba-8b7be2e47fd8.htm" />
+  <HelpKINode Title="CMixerPro.ChangedEventHandler delegate" Url="html/5e1afb00-11ca-6c9d-fe0e-bad94bd78614.htm" />
+  <HelpKINode Title="CMixerPro.CMixerPro constructor" Url="html/4685a3bd-6f4e-e050-c6c3-47f78ead23f4.htm" />
+  <HelpKINode Title="CMixerPro.Dispose method" Url="html/64ac66ef-faf8-ff0a-2ef8-4fc36975551e.htm" />
+  <HelpKINode Title="CMixerPro.Mixers property" Url="html/bd802ff4-7103-3f15-594d-93fba041c022.htm" />
+  <HelpKINode Title="CMixerPro.Tag property" Url="html/2da3b03d-8c6f-92a6-a8f3-95247787b20f.htm" />
+  <HelpKINode Title="CMixerPro.Version property" Url="html/3b9ac737-22ae-aee0-30c1-72be683463cb.htm" />
+  <HelpKINode Title="ComponentType property" Url="html/fa8f6f15-8638-08f4-374c-7712a6d01c74.htm" />
+  <HelpKINode Title="ConnectedTo property" Url="html/054bcfee-0c02-33bb-6ec3-c0f8ba5cc2eb.htm" />
+  <HelpKINode Title="Control property" Url="html/0520f2ca-c3d5-5bb6-2b4f-1770525bf92f.htm" />
+  <HelpKINode Title="ControlChanged event" Url="html/85792590-a089-597a-5e3b-fa8b0cdd5b8c.htm" />
+  <HelpKINode Title="ControlClass property" Url="html/fec8e624-2013-dee4-9b0b-edc305452632.htm" />
+  <HelpKINode Title="ControlLoudness property" Url="html/a8c5d7ba-305d-34f0-e7cb-9a0afadcc331.htm" />
+  <HelpKINode Title="ControlMute property" Url="html/6c231ea5-9b8a-712a-51a4-2913213827cf.htm" />
+  <HelpKINode Title="ControlMute property" Url="html/faf31cdb-d63d-7d91-56c3-6c570516d3d9.htm" />
+  <HelpKINode Title="ControlPeakMeter property" Url="html/caf4bb80-2017-4db7-a35e-9a33d590db41.htm" />
+  <HelpKINode Title="ControlPeakMeter property" Url="html/ea9975af-2fb3-0bbc-6dc8-2bea04c37d2a.htm" />
+  <HelpKINode Title="Controls class" Url="html/1bd54d70-c5b1-511a-f182-c007b45a31d5.htm" />
+  <HelpKINode Title="Controls class" Url="html/c75cc59c-4767-ecb2-cd05-51e0cdfc3eea.htm" />
+  <HelpKINode Title="Controls class">
+    <HelpKINode Title="about Controls class" Url="html/c75cc59c-4767-ecb2-cd05-51e0cdfc3eea.htm" />
+    <HelpKINode Title="all members" Url="html/1bd54d70-c5b1-511a-f182-c007b45a31d5.htm" />
+    <HelpKINode Title="methods" Url="html/f67915c5-7bad-bb51-7801-df96b2873421.htm" />
+    <HelpKINode Title="properties" Url="html/26b4c468-70d7-923a-865b-2ef441ab2f2e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Controls property" Url="html/2240d349-fee5-a3e5-c178-b465dac40dd1.htm" />
+  <HelpKINode Title="Controls property" Url="html/26657b64-7c10-bf6f-db65-6ab73c758928.htm" />
+  <HelpKINode Title="Controls.CopyTo method" Url="html/089a5203-0c19-9a69-395d-b605eb75cdd8.htm" />
+  <HelpKINode Title="Controls.Count property" Url="html/ee75f8ce-2d30-2db6-47e3-13df679b5437.htm" />
+  <HelpKINode Title="Controls.Dispose method" Url="html/ab6bed44-5570-e3fd-96dc-5260b40c8480.htm" />
+  <HelpKINode Title="Controls.GetEnumerator method" Url="html/698d32cc-67ba-c30e-db61-255d7e38d159.htm" />
+  <HelpKINode Title="Controls.IsSynchronized property" Url="html/c071ac08-a3cb-f78c-d3c7-fa8294b775b6.htm" />
+  <HelpKINode Title="Controls.Item property" Url="html/a8137c77-51ff-ca74-ecf6-2720faa176ef.htm" />
+  <HelpKINode Title="Controls.SyncRoot property" Url="html/53162945-d62d-c6ec-71f7-6225e72d0e96.htm" />
+  <HelpKINode Title="ControlsByClass method" Url="html/8d8c5fae-3394-3001-a80f-680d6baa3a31.htm" />
+  <HelpKINode Title="ControlsByType method" Url="html/b963d9cc-048a-f840-360b-3270b95c931d.htm" />
+  <HelpKINode Title="ControlType property" Url="html/d526d74f-3005-4f04-7884-abf31d2cfd3a.htm" />
+  <HelpKINode Title="ControlType property" Url="html/e6598e9f-a255-29b5-667a-14b6ffa19974.htm" />
+  <HelpKINode Title="ControlTypeName property" Url="html/6de2209e-5996-1371-3fc5-904526324e0d.htm" />
+  <HelpKINode Title="ControlVolume property" Url="html/695153d3-77b9-1195-d8aa-6d59891da0f2.htm" />
+  <HelpKINode Title="ControlVolume property" Url="html/a489b10c-01c7-c74e-5534-3e82c969ce42.htm" />
+  <HelpKINode Title="CopyTo method" Url="html/089a5203-0c19-9a69-395d-b605eb75cdd8.htm" />
+  <HelpKINode Title="CopyTo method" Url="html/98f0bd97-a91e-8a44-3031-f23d83706e8b.htm" />
+  <HelpKINode Title="CopyTo method" Url="html/b823696e-d7a9-c0aa-a424-1a8f9cce8568.htm" />
+  <HelpKINode Title="CopyTo method" Url="html/d98c871d-c062-bb4d-b41b-412e8c11c889.htm" />
+  <HelpKINode Title="CoreAudioControl property" Url="html/8487f649-1281-a447-eeb3-8b1d428ed1dd.htm" />
+  <HelpKINode Title="Count property" Url="html/4a53d59b-ae29-532a-09df-ae149905bcc6.htm" />
+  <HelpKINode Title="Count property" Url="html/95a43abb-8813-c4c4-a9c1-5d32155c1818.htm" />
+  <HelpKINode Title="Count property" Url="html/9903ca81-af4f-f3f9-b420-736b438fea10.htm" />
+  <HelpKINode Title="Count property" Url="html/ee75f8ce-2d30-2db6-47e3-13df679b5437.htm" />
+  <HelpKINode Title="ctcDST_DIGITAL enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcDST_FIRST enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcDST_HEADPHONES enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcDST_LAST enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcDST_LINE enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcDST_MONITOR enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcDST_SPEAKERS enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcDST_TELEPHONE enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcDST_UNDEFINED enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcDST_VOICEIN enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcDST_WAVEIN enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcSRC_ANALOG enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcSRC_AUXILIARY enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcSRC_COMPACTDISC enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcSRC_DIGITAL enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcSRC_FIRST enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcSRC_LAST enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcSRC_LINE enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcSRC_MICROPHONE enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcSRC_PCSPEAKER enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcSRC_SYNTHESIZER enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcSRC_TELEPHONE enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcSRC_UNDEFINED enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="ctcSRC_WAVEOUT enumeration member" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="CtrlItems class" Url="html/13c44edc-2405-eda0-fef4-76d19cf6a338.htm" />
+  <HelpKINode Title="CtrlItems class" Url="html/7a893c2d-4076-c769-db17-0306f9773f2d.htm" />
+  <HelpKINode Title="CtrlItems class">
+    <HelpKINode Title="about CtrlItems class" Url="html/13c44edc-2405-eda0-fef4-76d19cf6a338.htm" />
+    <HelpKINode Title="all members" Url="html/7a893c2d-4076-c769-db17-0306f9773f2d.htm" />
+    <HelpKINode Title="constructor" Url="html/6e16d700-2f2b-f51c-7596-531dac012905.htm" />
+    <HelpKINode Title="methods" Url="html/9f9ce264-0b44-170e-6648-904445e817ea.htm" />
+    <HelpKINode Title="properties" Url="html/c412a1cf-1639-f5ff-d3f2-d6039b29e921.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CtrlItems property" Url="html/505f8abd-89df-a050-b115-a49de479e2aa.htm" />
+  <HelpKINode Title="CtrlItems.CopyTo method" Url="html/98f0bd97-a91e-8a44-3031-f23d83706e8b.htm" />
+  <HelpKINode Title="CtrlItems.Count property" Url="html/95a43abb-8813-c4c4-a9c1-5d32155c1818.htm" />
+  <HelpKINode Title="CtrlItems.CtrlItems constructor" Url="html/6e16d700-2f2b-f51c-7596-531dac012905.htm" />
+  <HelpKINode Title="CtrlItems.Dispose method" Url="html/bea7e1c9-1e97-67e3-73a8-c6c54a94b899.htm" />
+  <HelpKINode Title="CtrlItems.GetEnumerator method" Url="html/2902a684-73b8-dc62-1b83-aa447f28b38b.htm" />
+  <HelpKINode Title="CtrlItems.IsSynchronized property" Url="html/921fa598-e5e5-aabb-6fcc-a451198cffd7.htm" />
+  <HelpKINode Title="CtrlItems.Item property" Url="html/ad02c655-5055-dccd-24ec-e936cbd95a37.htm" />
+  <HelpKINode Title="CtrlItems.Remove method" Url="html/c2360fe3-8663-cfe2-b65f-9975251d9a12.htm" />
+  <HelpKINode Title="CtrlItems.SyncRoot property" Url="html/c3fc6a50-5c46-1014-0803-3fa721d248d0.htm" />
+  <HelpKINode Title="ctrltcBASS enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcBOOLEAN enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcBOOLEANMETER enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcBUTTON enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcCUSTOM enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcDECIBELS enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcEQUALIZER enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcFADER enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcLOUDNESS enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcMICROTIME enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcMILLITIME enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcMIXER enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcMONO enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcMULTIPLESELECT enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcMUTE enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcMUX enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcONOFF enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcPAN enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcPEAKMETER enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcPERCENT enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcQSOUNDPAN enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcSIGNED enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcSIGNEDMETER enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcSINGLESELECT enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcSLIDER enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcSTEREOENH enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcTREBLE enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcUNSIGNED enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcUNSIGNEDMETER enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="ctrltcVOLUME enumeration member" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="DataFlow property" Url="html/87bf250c-4806-36e4-13a8-831304923f7f.htm" />
+  <HelpKINode Title="Define method" Url="html/0666dc80-8d1a-c297-a8eb-8a552adf864e.htm" />
+  <HelpKINode Title="DestinationID property" Url="html/b707819c-499e-978c-144b-7921d4eb8004.htm" />
+  <HelpKINode Title="DeviceName property" Url="html/4f97a0b6-0d13-ca1a-f2a0-ebc8a9c1b790.htm" />
+  <HelpKINode Title="DeviceName property" Url="html/8a72140f-910d-8718-472f-a3893ff68343.htm" />
+  <HelpKINode Title="Disconnected event" Url="html/b56bfc4b-e630-fbbf-29c7-6070cb0708df.htm" />
+  <HelpKINode Title="Dispose method" Url="html/2da7b7e0-bef6-59a0-99b4-bd359c600df7.htm" />
+  <HelpKINode Title="Dispose method" Url="html/3eda6fde-ee9d-e355-956f-a5221d1ad097.htm" />
+  <HelpKINode Title="Dispose method" Url="html/64ac66ef-faf8-ff0a-2ef8-4fc36975551e.htm" />
+  <HelpKINode Title="Dispose method" Url="html/684cd54d-0717-24ba-1dc8-25b4b2527219.htm" />
+  <HelpKINode Title="Dispose method" Url="html/9ac38625-5ed7-129d-ee1b-18e36893ffcf.htm" />
+  <HelpKINode Title="Dispose method" Url="html/9e8fec67-3da1-5434-5871-d04959e89df2.htm" />
+  <HelpKINode Title="Dispose method" Url="html/a4cb06d3-2913-9042-3a15-7969d4bc1000.htm" />
+  <HelpKINode Title="Dispose method" Url="html/ab6bed44-5570-e3fd-96dc-5260b40c8480.htm" />
+  <HelpKINode Title="Dispose method" Url="html/bea7e1c9-1e97-67e3-73a8-c6c54a94b899.htm" />
+  <HelpKINode Title="DriverVersion property" Url="html/0f9043f4-6ae8-7e94-de9f-69a8beb624fb.htm" />
+  <HelpKINode Title="Enabled property" Url="html/04bc7b8b-0bf7-af89-ddb4-deb6caae664c.htm" />
+  <HelpKINode Title="Enabled property" Url="html/55fc2573-a87d-0ff2-029c-a5b670ee8615.htm" />
+  <HelpKINode Title="GetEnumerator method" Url="html/2902a684-73b8-dc62-1b83-aa447f28b38b.htm" />
+  <HelpKINode Title="GetEnumerator method" Url="html/698d32cc-67ba-c30e-db61-255d7e38d159.htm" />
+  <HelpKINode Title="GetEnumerator method" Url="html/b1f7aa40-3f44-5d32-082a-34de4aae99fe.htm" />
+  <HelpKINode Title="GetEnumerator method" Url="html/ff4d4700-f08d-e9c7-572b-9708b2893d49.htm" />
+  <HelpKINode Title="ID property" Url="html/3a1073dc-0523-46f7-38f8-6e8829bbccd3.htm" />
+  <HelpKINode Title="ID property" Url="html/579fe255-0776-836c-eb57-d0fa5f0f3652.htm" />
+  <HelpKINode Title="ID property" Url="html/ee9a2b02-13cf-4b9e-7ab9-6409f35b68d6.htm" />
+  <HelpKINode Title="Index property" Url="html/3addc3e0-35e6-4fa9-1c69-b7bd6bf88965.htm" />
+  <HelpKINode Title="Index property" Url="html/9024a7ff-5f54-54b0-f1f7-6190d08e03cd.htm" />
+  <HelpKINode Title="Index property" Url="html/bcfd27d9-bbb5-03d8-30ce-14218ebf8863.htm" />
+  <HelpKINode Title="Index property" Url="html/ce5da435-9549-56fe-4d77-8e0aa25305a4.htm" />
+  <HelpKINode Title="IntegralChanges property" Url="html/85140d73-baa8-0ad4-d22c-d88dc205bffb.htm" />
+  <HelpKINode Title="IsBound property" Url="html/36d8068c-2a6c-ebf3-1072-615aaa397ef7.htm" />
+  <HelpKINode Title="IsSynchronized property" Url="html/4df011d5-46ae-7fff-bde9-ca61fcc53074.htm" />
+  <HelpKINode Title="IsSynchronized property" Url="html/921fa598-e5e5-aabb-6fcc-a451198cffd7.htm" />
+  <HelpKINode Title="IsSynchronized property" Url="html/c071ac08-a3cb-f78c-d3c7-fa8294b775b6.htm" />
+  <HelpKINode Title="IsSynchronized property" Url="html/d9916ef7-0a8b-ea02-fab4-a158d51f1fb2.htm" />
+  <HelpKINode Title="IsValid property" Url="html/491380bc-ad0d-0b1b-39d7-eb1fbfa60afe.htm" />
+  <HelpKINode Title="Item property" Url="html/a8137c77-51ff-ca74-ecf6-2720faa176ef.htm" />
+  <HelpKINode Title="Item property" Url="html/ad02c655-5055-dccd-24ec-e936cbd95a37.htm" />
+  <HelpKINode Title="Item property" Url="html/c9810d78-fcfa-41bf-f278-0c252a5b1522.htm" />
+  <HelpKINode Title="Item property" Url="html/ff76d165-adb8-6a85-be48-cf3c8c351c0e.htm" />
+  <HelpKINode Title="ItemName property" Url="html/827d0017-9cc5-63eb-dc3c-815a96af7767.htm" />
+  <HelpKINode Title="Key field" Url="html/1560c708-ffc3-5726-860a-b5e1e4a1e651.htm" />
+  <HelpKINode Title="Key field" Url="html/2833c51a-5e43-066e-42f7-ec197710604e.htm" />
+  <HelpKINode Title="Key field" Url="html/34cafd63-a38d-c6aa-b1a7-2c828c639390.htm" />
+  <HelpKINode Title="Key field" Url="html/ec38eab5-42b7-5eda-b92f-2ee3e56cf139.htm" />
+  <HelpKINode Title="Line property" Url="html/c76d4d61-fa9a-7803-c31b-87b2c46b237a.htm" />
+  <HelpKINode Title="Line property" Url="html/fabd3b60-63d2-de1b-3a4f-43f9bf737faa.htm" />
+  <HelpKINode Title="Lines class" Url="html/1daa6217-58d7-19bd-17a3-5387941c9d0b.htm" />
+  <HelpKINode Title="Lines class" Url="html/eb304611-1363-764e-3e89-54c36ca30119.htm" />
+  <HelpKINode Title="Lines class">
+    <HelpKINode Title="about Lines class" Url="html/eb304611-1363-764e-3e89-54c36ca30119.htm" />
+    <HelpKINode Title="all members" Url="html/1daa6217-58d7-19bd-17a3-5387941c9d0b.htm" />
+    <HelpKINode Title="methods" Url="html/cc087488-98f3-17b3-0282-02966cef9505.htm" />
+    <HelpKINode Title="properties" Url="html/d46de561-3fcb-a5f2-3a5f-2060adfab9e6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Lines property" Url="html/857cfc87-7d0b-a686-dff9-11101ecdb94e.htm" />
+  <HelpKINode Title="Lines property" Url="html/b85d0a08-5eb2-733d-7a8b-bd38dc732037.htm" />
+  <HelpKINode Title="Lines.CopyTo method" Url="html/d98c871d-c062-bb4d-b41b-412e8c11c889.htm" />
+  <HelpKINode Title="Lines.Count property" Url="html/4a53d59b-ae29-532a-09df-ae149905bcc6.htm" />
+  <HelpKINode Title="Lines.Dispose method" Url="html/3eda6fde-ee9d-e355-956f-a5221d1ad097.htm" />
+  <HelpKINode Title="Lines.GetEnumerator method" Url="html/ff4d4700-f08d-e9c7-572b-9708b2893d49.htm" />
+  <HelpKINode Title="Lines.IsSynchronized property" Url="html/4df011d5-46ae-7fff-bde9-ca61fcc53074.htm" />
+  <HelpKINode Title="Lines.Item property" Url="html/ff76d165-adb8-6a85-be48-cf3c8c351c0e.htm" />
+  <HelpKINode Title="Lines.SyncRoot property" Url="html/64acaa9d-308a-d43d-ebb0-af7f9a7df516.htm" />
+  <HelpKINode Title="LinesByComponentType method" Url="html/dbee9e0d-d5c0-5c7c-ecf6-afb0605061c9.htm" />
+  <HelpKINode Title="LinesByConnection method" Url="html/c6e13c4a-7a09-8f0b-bf6f-5a27453ab7c5.htm" />
+  <HelpKINode Title="LinesByLineType method" Url="html/85d523a3-60a5-3fac-5be3-1ef7ff4bc8ea.htm" />
+  <HelpKINode Title="LineType property" Url="html/a889cbd1-b357-4880-6e23-47c037ea7399.htm" />
+  <HelpKINode Title="LineType property" Url="html/b24de8a0-aa4f-fd92-e681-204dd3fdac70.htm" />
+  <HelpKINode Title="LongName property" Url="html/16998070-b952-e47d-61b9-305f9d72bc03.htm" />
+  <HelpKINode Title="LongName property" Url="html/7ad52020-d562-8614-21ab-d870b1329caa.htm" />
+  <HelpKINode Title="Loudness property" Url="html/f681d55e-246e-87b5-7b59-a378bf020811.htm" />
+  <HelpKINode Title="ltcDestination enumeration member" Url="html/50e1aa79-421a-10d3-445b-3d1e84786c8c.htm" />
+  <HelpKINode Title="ltcSource enumeration member" Url="html/50e1aa79-421a-10d3-445b-3d1e84786c8c.htm" />
+  <HelpKINode Title="ManufacturerID property" Url="html/8475ebb2-9da1-5bd1-e470-5ea1eb2938b9.htm" />
+  <HelpKINode Title="Max property" Url="html/3076540d-47b7-f51a-51e4-e7bd68740672.htm" />
+  <HelpKINode Title="Max property" Url="html/fcdca0fd-b8ef-7e39-62a8-c33cfa26493d.htm" />
+  <HelpKINode Title="Min property" Url="html/136cf847-c17f-7741-7990-b4631e30d930.htm" />
+  <HelpKINode Title="Min property" Url="html/ef6b345a-3971-4a66-12ed-2c9db612aef0.htm" />
+  <HelpKINode Title="mixerHandler property" Url="html/b65d6e4f-b2cc-b06a-4bb8-9285ca823fd4.htm" />
+  <HelpKINode Title="Mixers class" Url="html/8cadd0f7-eede-ed29-1249-f1353a0085b9.htm" />
+  <HelpKINode Title="Mixers class" Url="html/d2a7cd1b-ccc5-fca5-b45e-6caca5865d84.htm" />
+  <HelpKINode Title="Mixers class">
+    <HelpKINode Title="about Mixers class" Url="html/d2a7cd1b-ccc5-fca5-b45e-6caca5865d84.htm" />
+    <HelpKINode Title="all members" Url="html/8cadd0f7-eede-ed29-1249-f1353a0085b9.htm" />
+    <HelpKINode Title="methods" Url="html/15e645ea-a5e4-8023-ccf7-161c0a15726d.htm" />
+    <HelpKINode Title="properties" Url="html/f295aa58-a614-f139-bc6c-c428d57433e2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Mixers property" Url="html/3b9b66ee-1f37-74fa-f7b9-283e1ff2e65c.htm" />
+  <HelpKINode Title="Mixers property" Url="html/bd802ff4-7103-3f15-594d-93fba041c022.htm" />
+  <HelpKINode Title="Mixers.CopyTo method" Url="html/b823696e-d7a9-c0aa-a424-1a8f9cce8568.htm" />
+  <HelpKINode Title="Mixers.Count property" Url="html/9903ca81-af4f-f3f9-b420-736b438fea10.htm" />
+  <HelpKINode Title="Mixers.Dispose method" Url="html/9ac38625-5ed7-129d-ee1b-18e36893ffcf.htm" />
+  <HelpKINode Title="Mixers.GetEnumerator method" Url="html/b1f7aa40-3f44-5d32-082a-34de4aae99fe.htm" />
+  <HelpKINode Title="Mixers.IsSynchronized property" Url="html/d9916ef7-0a8b-ea02-fab4-a158d51f1fb2.htm" />
+  <HelpKINode Title="Mixers.Item property" Url="html/c9810d78-fcfa-41bf-f278-0c252a5b1522.htm" />
+  <HelpKINode Title="Mixers.SyncRoot property" Url="html/6a5230e4-6cd5-3cba-b7ff-b6e234beba59.htm" />
+  <HelpKINode Title="Mute property" Url="html/85158cb1-c9c1-9a2a-3fe1-449b090f043e.htm" />
+  <HelpKINode Title="Mute property" Url="html/9df0f9b5-2880-dda5-5019-f9755fc12117.htm" />
+  <HelpKINode Title="Name property" Url="html/24b57a73-e83a-e913-5691-7b241d3dacf5.htm" />
+  <HelpKINode Title="Name property" Url="html/3fde33bf-0fe9-f8fe-2c0b-4533901a3420.htm" />
+  <HelpKINode Title="Name property" Url="html/59e2e2b7-f78e-98a7-6621-5850d3a08478.htm" />
+  <HelpKINode Title="Name property" Url="html/907f8edd-284b-94aa-e166-f5268df7b843.htm" />
+  <HelpKINode Title="Name property" Url="html/f728ce4a-e564-4582-b55e-7b47483fc7cf.htm" />
+  <HelpKINode Title="NameChanged event" Url="html/018cdee4-4c85-3594-134d-ab3b936fe8dc.htm" />
+  <HelpKINode Title="NMixerProNET namespace" Url="html/f6f328f0-55ff-7ac6-e063-3ec59001b078.htm" />
+  <HelpKINode Title="NMixerProNET.CBinding class" Url="html/5f231e0a-7b45-813b-1858-726216d093bd.htm" />
+  <HelpKINode Title="NMixerProNET.CBinding class" Url="html/db74826b-5c28-3678-ad9c-e15a69cc6456.htm" />
+  <HelpKINode Title="NMixerProNET.CControl class" Url="html/04f33719-0e1f-f7fe-8a87-7969439e0d00.htm" />
+  <HelpKINode Title="NMixerProNET.CControl class" Url="html/ce4402e3-f42c-169d-045d-c5aed32b0657.htm" />
+  <HelpKINode Title="NMixerProNET.CControl.ControlClassConstants enumeration" Url="html/4de6e1c5-ac42-35f9-959d-0c53a9dd5614.htm" />
+  <HelpKINode Title="NMixerProNET.CControl.ControlTypeConstants enumeration" Url="html/668562b7-aa34-eae6-ec27-c1e631c1fe5a.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio class" Url="html/6eec4327-822f-ed21-d59d-fb366ba3bd8e.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio class" Url="html/74643bd4-005b-f642-46d9-f87383f145cd.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CControl class" Url="html/3e84f01f-e2b0-2cd4-a9f8-6cbbebe55dfb.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CControl class" Url="html/4edc0662-1da8-95c6-bf21-d3718e8b6386.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CControl.CControlLoudness class" Url="html/dde4f816-1a09-147a-973e-e957f8fdfb50.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CControl.CControlLoudness class" Url="html/f4393b6b-5921-0c41-2b36-461da627109c.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CControl.CControlMute class" Url="html/352a56b1-65f2-4215-b0e4-47000ddd7862.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CControl.CControlMute class" Url="html/51ff5cbd-0d20-3eec-8b2f-90b5d96cd3c2.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CControl.CControlObject class" Url="html/2fb868a3-b87a-2464-9be1-040ac73b754f.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CControl.CControlObject class" Url="html/9b90778d-67b9-c4cf-962b-fa0bf8fee1ba.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CControl.CControlObject.ControlChangedEventHandler delegate" Url="html/c6f426a5-2dc1-5753-a25b-4b716ec43a5c.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CControl.CControlPeakMeter class" Url="html/1f8aa70f-133a-392f-197b-e98efc7b794b.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CControl.CControlPeakMeter class" Url="html/f4b889eb-73c0-78d8-bfea-d41e767789d4.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CControl.CControlVolume class" Url="html/865c3b2b-1fa6-dbdc-1469-9e64267d9d9c.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CControl.CControlVolume class" Url="html/ccad9870-1dcc-4a77-b63b-0acd18889093.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CControl.ControlTypeConstants enumeration" Url="html/7790bb6b-d145-5d2e-4c06-aefc274610d4.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CLine class" Url="html/548e012c-ee2e-e6ac-b113-c61e5cdbc166.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CLine class" Url="html/af9565a4-9b0a-6f60-ca14-e341da44022a.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CMixer class" Url="html/dd8d2f68-9222-172f-ecc5-882a1866b3b3.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CMixer class" Url="html/f0cb41ce-9ae7-d651-1a68-be5b14ec5d41.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CMixer.SessionChangedEventHandler delegate" Url="html/37d84ef8-e92e-e14d-6f47-39bfdb6c7a9f.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CSession class" Url="html/1141a860-c90a-e32b-575d-682b1b81813a.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CSession class" Url="html/d1ab850a-d91f-1f67-2c7b-1fc66cdc6e65.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CSession.DisconnectedEventHandler delegate" Url="html/9be2c221-4d85-ed96-fe08-b6d304e49908.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CSession.NameChangedEventHandler delegate" Url="html/abb3d4ed-120f-3c1d-b43a-ff41f396a6c0.htm" />
+  <HelpKINode Title="NMixerProNET.CCoreAudio.CSession.StateChangedEventHandler delegate" Url="html/b17544c7-73f8-8e8b-0ea4-d21ea17039de.htm" />
+  <HelpKINode Title="NMixerProNET.CCtrlItem class" Url="html/a9d78ab0-0b81-cbbb-288d-a185160dc5bd.htm" />
+  <HelpKINode Title="NMixerProNET.CCtrlItem class" Url="html/cb7cd989-35dc-a2ef-3a99-5db34a72ef74.htm" />
+  <HelpKINode Title="NMixerProNET.CLine class" Url="html/b2474cea-b317-9450-07eb-16fc42d604e4.htm" />
+  <HelpKINode Title="NMixerProNET.CLine class" Url="html/bf57fb1a-0424-7ad7-385d-5f67993a9f37.htm" />
+  <HelpKINode Title="NMixerProNET.CLine.ComponentTypeConstants enumeration" Url="html/b68c5195-e41b-f669-121f-a21f72af6a48.htm" />
+  <HelpKINode Title="NMixerProNET.CLine.LineTypeConstants enumeration" Url="html/50e1aa79-421a-10d3-445b-3d1e84786c8c.htm" />
+  <HelpKINode Title="NMixerProNET.CMixer class" Url="html/51bb94c6-abaa-22b8-efb7-135ac1345ad5.htm" />
+  <HelpKINode Title="NMixerProNET.CMixer class" Url="html/595e238f-d4cc-0d89-63a3-2657cf406a04.htm" />
+  <HelpKINode Title="NMixerProNET.CMixerPro class" Url="html/2e51a6c1-58f7-aeb9-c889-1d9e9077a780.htm" />
+  <HelpKINode Title="NMixerProNET.CMixerPro class" Url="html/803d5ec9-41d4-fc11-4300-56868f748992.htm" />
+  <HelpKINode Title="NMixerProNET.CMixerPro.AudioDevicesChangeEventHandler delegate" Url="html/6cc1330c-2d88-9b36-821e-f7b841012897.htm" />
+  <HelpKINode Title="NMixerProNET.CMixerPro.ChangedEventHandler delegate" Url="html/5e1afb00-11ca-6c9d-fe0e-bad94bd78614.htm" />
+  <HelpKINode Title="NMixerProNET.Controls class" Url="html/1bd54d70-c5b1-511a-f182-c007b45a31d5.htm" />
+  <HelpKINode Title="NMixerProNET.Controls class" Url="html/c75cc59c-4767-ecb2-cd05-51e0cdfc3eea.htm" />
+  <HelpKINode Title="NMixerProNET.CtrlItems class" Url="html/13c44edc-2405-eda0-fef4-76d19cf6a338.htm" />
+  <HelpKINode Title="NMixerProNET.CtrlItems class" Url="html/7a893c2d-4076-c769-db17-0306f9773f2d.htm" />
+  <HelpKINode Title="NMixerProNET.Lines class" Url="html/1daa6217-58d7-19bd-17a3-5387941c9d0b.htm" />
+  <HelpKINode Title="NMixerProNET.Lines class" Url="html/eb304611-1363-764e-3e89-54c36ca30119.htm" />
+  <HelpKINode Title="NMixerProNET.Mixers class" Url="html/8cadd0f7-eede-ed29-1249-f1353a0085b9.htm" />
+  <HelpKINode Title="NMixerProNET.Mixers class" Url="html/d2a7cd1b-ccc5-fca5-b45e-6caca5865d84.htm" />
+  <HelpKINode Title="NMixerProNET.VolumeFader class" Url="html/5649a7f1-90cc-1847-ae10-9a7891d999df.htm" />
+  <HelpKINode Title="NMixerProNET.VolumeFader class" Url="html/ee77dc33-88b9-cb59-deab-cf66d84ba5b7.htm" />
+  <HelpKINode Title="Orientation property" Url="html/0039fa6b-ce6a-9180-266f-ca86553ce382.htm" />
+  <HelpKINode Title="Parent property" Url="html/026a0799-5cc0-bbde-b1e2-1c97a3bab890.htm" />
+  <HelpKINode Title="Parent property" Url="html/18a818d5-c312-3b64-0236-16f0d2895683.htm" />
+  <HelpKINode Title="Parent property" Url="html/217581b3-9abe-af30-843e-660b7ab3a6f9.htm" />
+  <HelpKINode Title="Parent property" Url="html/b452324f-d62d-cc80-fda7-0af07018b25d.htm" />
+  <HelpKINode Title="Parent property" Url="html/d3f0a115-449b-4ed7-70c8-6d63ff903447.htm" />
+  <HelpKINode Title="Parent property" Url="html/dc4499e1-8208-87b8-9c9c-8adf99c6b763.htm" />
+  <HelpKINode Title="Part enumeration member" Url="html/7790bb6b-d145-5d2e-4c06-aefc274610d4.htm" />
+  <HelpKINode Title="PeakLevel property" Url="html/3f0483c5-5607-a7b7-f69b-46221f259c74.htm" />
+  <HelpKINode Title="PeakLevel property" Url="html/dd7c7c71-bedb-9df1-fdd8-86d228bb95b9.htm" />
+  <HelpKINode Title="PeakMeter property" Url="html/3b9e648a-33ec-880e-ca7c-4a133fad060e.htm" />
+  <HelpKINode Title="ProductID property" Url="html/22d56e52-1b6c-0498-194c-3ff1e108665f.htm" />
+  <HelpKINode Title="Remove method" Url="html/c2360fe3-8663-cfe2-b65f-9975251d9a12.htm" />
+  <HelpKINode Title="Remove method" Url="html/c3e8f502-4330-05d8-a4fe-45b7ef34458b.htm" />
+  <HelpKINode Title="RequiresCoreAudio property" Url="html/57907d52-2057-7f9b-1269-94ce0f2930b6.htm" />
+  <HelpKINode Title="Selected property" Url="html/3dbfb747-efeb-3c91-7026-1c670e5ce921.htm" />
+  <HelpKINode Title="Session enumeration member" Url="html/7790bb6b-d145-5d2e-4c06-aefc274610d4.htm" />
+  <HelpKINode Title="SessionChanged event" Url="html/95f9678c-8366-a9bf-b270-0e6044eeede7.htm" />
+  <HelpKINode Title="Sessions property" Url="html/795c8179-e542-43ad-4f45-df105921ee14.htm" />
+  <HelpKINode Title="ShortName property" Url="html/2411c49f-e144-3283-8c7e-66697e6401a9.htm" />
+  <HelpKINode Title="ShortName property" Url="html/bf9c6712-c59f-0138-072b-bfdf78e78ea6.htm" />
+  <HelpKINode Title="StateChanged event" Url="html/2070683f-1245-0db8-44dd-d92ef4851b9f.htm" />
+  <HelpKINode Title="Steps property" Url="html/71ad2794-7fa9-c2be-2bd5-5927199e4284.htm" />
+  <HelpKINode Title="Steps property" Url="html/a391779d-3410-3b60-a350-2725f4ff0421.htm" />
+  <HelpKINode Title="SubControls property" Url="html/ca574629-c03b-8c05-2b0e-d12d55882081.htm" />
+  <HelpKINode Title="SyncRoot property" Url="html/53162945-d62d-c6ec-71f7-6225e72d0e96.htm" />
+  <HelpKINode Title="SyncRoot property" Url="html/64acaa9d-308a-d43d-ebb0-af7f9a7df516.htm" />
+  <HelpKINode Title="SyncRoot property" Url="html/6a5230e4-6cd5-3cba-b7ff-b6e234beba59.htm" />
+  <HelpKINode Title="SyncRoot property" Url="html/c3fc6a50-5c46-1014-0803-3fa721d248d0.htm" />
+  <HelpKINode Title="Tag property" Url="html/1b2a8509-5bdd-3d1a-16b5-f7b60fb51552.htm" />
+  <HelpKINode Title="Tag property" Url="html/27810269-9851-0e48-040c-30ddd5c87cc4.htm" />
+  <HelpKINode Title="Tag property" Url="html/2da3b03d-8c6f-92a6-a8f3-95247787b20f.htm" />
+  <HelpKINode Title="Tag property" Url="html/88b4ff49-baa2-677b-f81a-5c67e50803d1.htm" />
+  <HelpKINode Title="Tag property" Url="html/d23b8754-c30b-ec3b-6752-0093425c57ef.htm" />
+  <HelpKINode Title="TickStyle property" Url="html/42bc833f-9931-c6b0-3d18-edd7b2b29e4c.htm" />
+  <HelpKINode Title="ToString method" Url="html/534cfbc1-629d-97d6-a49c-a8e879a4b7e1.htm" />
+  <HelpKINode Title="ToString method" Url="html/77b2c0d0-a755-095b-d2c0-26e2bb8e9cd0.htm" />
+  <HelpKINode Title="ToString method" Url="html/95704610-c0be-16cc-b726-bc3f08db0a40.htm" />
+  <HelpKINode Title="ToString method" Url="html/9695a6d9-d455-224c-4384-6db05e48919c.htm" />
+  <HelpKINode Title="ToString method" Url="html/be0a84bb-bb31-fc5a-1fb4-c6727a8e04a7.htm" />
+  <HelpKINode Title="ToString method" Url="html/c250e716-2b63-ef3f-51f3-8addf2fda025.htm" />
+  <HelpKINode Title="ToString method" Url="html/ca7fb917-fcb4-9cf2-771b-7a5511aee52f.htm" />
+  <HelpKINode Title="ToString method" Url="html/ff6f3aaf-2534-3f36-8a09-c227cd50e735.htm" />
+  <HelpKINode Title="UniformValue property" Url="html/0cecbb5b-e92f-797d-1904-991ef64ee45e.htm" />
+  <HelpKINode Title="UniformValue property" Url="html/1b61cd0d-3581-0c27-2caf-63f66525deea.htm" />
+  <HelpKINode Title="UniformValue property" Url="html/30cb133c-7fcd-1e44-ab84-11f1b5b8d003.htm" />
+  <HelpKINode Title="UniformValue property" Url="html/3a97d8a2-0acb-cc94-465f-0273039d2efd.htm" />
+  <HelpKINode Title="UniformValue property" Url="html/51e83a46-58de-4fdf-a1f5-f4f8febdb612.htm" />
+  <HelpKINode Title="UniformValue property" Url="html/c86693b1-f2bd-6842-a5d6-6df99b88ef78.htm" />
+  <HelpKINode Title="Value property" Url="html/f656dba5-9586-da35-4973-803bc300bf93.htm" />
+  <HelpKINode Title="Value property" Url="html/f7a37d1f-54a9-2e8d-928b-8abfef5bd9a3.htm" />
+  <HelpKINode Title="Version property" Url="html/3b9ac737-22ae-aee0-30c1-72be683463cb.htm" />
+  <HelpKINode Title="Volume property" Url="html/8766ae53-b216-6dae-11cc-7e9eee7d1f25.htm" />
+  <HelpKINode Title="Volume property" Url="html/e7261ab9-a782-741b-4918-4a0e0e0c0e66.htm" />
+  <HelpKINode Title="VolumeFader class" Url="html/5649a7f1-90cc-1847-ae10-9a7891d999df.htm" />
+  <HelpKINode Title="VolumeFader class" Url="html/ee77dc33-88b9-cb59-deab-cf66d84ba5b7.htm" />
+  <HelpKINode Title="VolumeFader class">
+    <HelpKINode Title="about VolumeFader class" Url="html/5649a7f1-90cc-1847-ae10-9a7891d999df.htm" />
+    <HelpKINode Title="all members" Url="html/ee77dc33-88b9-cb59-deab-cf66d84ba5b7.htm" />
+    <HelpKINode Title="constructor" Url="html/ab35d67d-9d7c-b094-3c0b-4420ac443bcf.htm" />
+    <HelpKINode Title="properties" Url="html/a9b7a02f-f9a6-85e3-2143-080d191cbbe0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VolumeFader.CoreAudioControl property" Url="html/8487f649-1281-a447-eeb3-8b1d428ed1dd.htm" />
+  <HelpKINode Title="VolumeFader.IntegralChanges property" Url="html/85140d73-baa8-0ad4-d22c-d88dc205bffb.htm" />
+  <HelpKINode Title="VolumeFader.Orientation property" Url="html/0039fa6b-ce6a-9180-266f-ca86553ce382.htm" />
+  <HelpKINode Title="VolumeFader.PeakLevel property" Url="html/dd7c7c71-bedb-9df1-fdd8-86d228bb95b9.htm" />
+  <HelpKINode Title="VolumeFader.TickStyle property" Url="html/42bc833f-9931-c6b0-3d18-edd7b2b29e4c.htm" />
+  <HelpKINode Title="VolumeFader.VolumeFader constructor" Url="html/ab35d67d-9d7c-b094-3c0b-4420ac443bcf.htm" />
+</HelpKI>

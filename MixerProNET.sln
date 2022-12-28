@@ -1,0 +1,57 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MixerProNET", "MixerProNET.vbproj", "{62738965-911A-421E-AA56-79E6AD6360A0}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MixerTester", "MixerTester\MixerTester.vbproj", "{A86211FA-53BD-4717-93FA-E0E52C0995C8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{62738965-911A-421E-AA56-79E6AD6360A0} = {62738965-911A-421E-AA56-79E6AD6360A0}
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EnumerateSessions", "EnumerateSessions\EnumerateSessions\EnumerateSessions.vbproj", "{BFA85C8E-519A-4466-988B-0D29E11DE017}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsMixer", "WindowsMixer\WindowsMixer.vbproj", "{F5C81FE1-2C83-45D5-A1BE-B7D7A57C39C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62738965-911A-421E-AA56-79E6AD6360A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62738965-911A-421E-AA56-79E6AD6360A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62738965-911A-421E-AA56-79E6AD6360A0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{62738965-911A-421E-AA56-79E6AD6360A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62738965-911A-421E-AA56-79E6AD6360A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62738965-911A-421E-AA56-79E6AD6360A0}.Release|x86.ActiveCfg = Release|Any CPU
+		{A86211FA-53BD-4717-93FA-E0E52C0995C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86211FA-53BD-4717-93FA-E0E52C0995C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86211FA-53BD-4717-93FA-E0E52C0995C8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A86211FA-53BD-4717-93FA-E0E52C0995C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86211FA-53BD-4717-93FA-E0E52C0995C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A86211FA-53BD-4717-93FA-E0E52C0995C8}.Release|x86.ActiveCfg = Release|Any CPU
+		{BFA85C8E-519A-4466-988B-0D29E11DE017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA85C8E-519A-4466-988B-0D29E11DE017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA85C8E-519A-4466-988B-0D29E11DE017}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BFA85C8E-519A-4466-988B-0D29E11DE017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA85C8E-519A-4466-988B-0D29E11DE017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA85C8E-519A-4466-988B-0D29E11DE017}.Release|x86.ActiveCfg = Release|Any CPU
+		{F5C81FE1-2C83-45D5-A1BE-B7D7A57C39C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C81FE1-2C83-45D5-A1BE-B7D7A57C39C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C81FE1-2C83-45D5-A1BE-B7D7A57C39C8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F5C81FE1-2C83-45D5-A1BE-B7D7A57C39C8}.Debug|x86.Build.0 = Debug|Any CPU
+		{F5C81FE1-2C83-45D5-A1BE-B7D7A57C39C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C81FE1-2C83-45D5-A1BE-B7D7A57C39C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C81FE1-2C83-45D5-A1BE-B7D7A57C39C8}.Release|x86.ActiveCfg = Release|Any CPU
+		{F5C81FE1-2C83-45D5-A1BE-B7D7A57C39C8}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14489B0C-2CB1-4137-BA45-E23C23716703}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1505 @@
+﻿<Mappings><Entry OldName="NMixerProNET.My.MyProject.m_ComputerObjectProvider" NewName="A.c918519dfcfd5779b1ae6b09bb91342c5.cd10c7628a67c76809fde5b9e9136fb14" />
+<Entry OldName="NMixerProNET.My.MyProject.m_AppObjectProvider" NewName="A.c918519dfcfd5779b1ae6b09bb91342c5.c1d477c66129789dcc3e204e12dc1e3ca" />
+<Entry OldName="NMixerProNET.My.MyProject.m_UserObjectProvider" NewName="A.c918519dfcfd5779b1ae6b09bb91342c5.c90b3c6517865d5d1b76bdd35d42897c6" />
+<Entry OldName="NMixerProNET.My.MyProject.m_MyWebServicesObjectProvider" NewName="A.c918519dfcfd5779b1ae6b09bb91342c5.c6914f20a269dcc12a228f92a44a3131f" />
+<Entry OldName="NMixerProNET.My.MyProject.ThreadSafeObjectProvider`1.m_Context" NewName="A.c918519dfcfd5779b1ae6b09bb91342c5.c4439b942c7ff7b091381dd31b66adf0b`1.c3399b6a446381cf3801691e699145060" />
+<Entry OldName="NMixerProNET.CBinding.pControlObject" NewName="NMixerProNET.CBinding.c838964f819597926c81582741f29e918" />
+<Entry OldName="NMixerProNET.CBinding.pProperty" NewName="NMixerProNET.CBinding.cc7f332b0cf97db74fa7e0525628a7a89" />
+<Entry OldName="NMixerProNET.CBinding.pEvent" NewName="NMixerProNET.CBinding.c5847430bbb5ed0c2383a1e045f55ce1e" />
+<Entry OldName="NMixerProNET.CBinding.pMixerControl" NewName="NMixerProNET.CBinding.cc18d30ac265db3267f0d3002edf4632c" />
+<Entry OldName="NMixerProNET.CBinding.mIsBound" NewName="NMixerProNET.CBinding.ccf02f6aa4459ec63fee3955511a4bee9" />
+<Entry OldName="NMixerProNET.CBinding.disableEvent" NewName="NMixerProNET.CBinding.c97c8ea0ff0fd4cbb670d7af72393df14" />
+<Entry OldName="NMixerProNET.CBinding.pEventHnd" NewName="NMixerProNET.CBinding.cbca0093a3089986b6d0fa62bebc66375" />
+<Entry OldName="NMixerProNET.CBinding.mScale" NewName="NMixerProNET.CBinding.cc7e293684741e0e216ed0c074af8b4a9" />
+<Entry OldName="NMixerProNET.CBinding.pControlObjectMinimum" NewName="NMixerProNET.CBinding.c14f61b50a161b612874eb53b965851a6" />
+<Entry OldName="NMixerProNET.CBinding.pControlObjectMaximum" NewName="NMixerProNET.CBinding.c0740d1a4dd74433dd36cba1ae4d78b63" />
+<Entry OldName="NMixerProNET.CBinding.isReady" NewName="NMixerProNET.CBinding.c0e2952c82802d60c13b6a127df517425" />
+<Entry OldName="NMixerProNET.CBinding.initialValue" NewName="NMixerProNET.CBinding.c971790925df93ff4b2845346f7f54ddc" />
+<Entry OldName="NMixerProNET.CBinding.delayInitTimer" NewName="NMixerProNET.CBinding.c8dc95d72db9e33fa024d9b2229684075" />
+<Entry OldName="NMixerProNET.CBinding.Scale._Mode" NewName="NMixerProNET.CBinding.Scale.ccfc51fa775809a27df27db2bbd6bf288" />
+<Entry OldName="NMixerProNET.CBinding.Scale._Minimum" NewName="NMixerProNET.CBinding.Scale.c917c5d558da464fadcc824f5061a8f35" />
+<Entry OldName="NMixerProNET.CBinding.Scale._Maximum" NewName="NMixerProNET.CBinding.Scale.c4497f34caa1dd40f99c2dec4e0587dd7" />
+<Entry OldName="NMixerProNET.CBinding.Scale._Steps" NewName="NMixerProNET.CBinding.Scale.cb6dbe757a216c5ccdcfc64c7787f76b6" />
+<Entry OldName="NMixerProNET.CControl.timers" NewName="NMixerProNET.CControl.c686e033c5f0c3abb02f46a3598ead02b" />
+<Entry OldName="NMixerProNET.CControl.IsPeakMeter" NewName="NMixerProNET.CControl.c01c2479541d0f51f84caa59b369b6f91" />
+<Entry OldName="NMixerProNET.CControl.mvarCtrlItems" NewName="NMixerProNET.CControl.ca154da7ebae962993b8b69d1d036c874" />
+<Entry OldName="NMixerProNET.CControl.mvarID" NewName="NMixerProNET.CControl.ca9b88b66cfc02bc565417c5b4cb06b0e" />
+<Entry OldName="NMixerProNET.CControl.mvarShortName" NewName="NMixerProNET.CControl.c9f29d998ab4003301f491f01cd058708" />
+<Entry OldName="NMixerProNET.CControl.mvarLongName" NewName="NMixerProNET.CControl.c3692870fa25225265d003fe0dd5a2a8d" />
+<Entry OldName="NMixerProNET.CControl.mvarControlType" NewName="NMixerProNET.CControl.ca6e11ac9b31eea20c222240266b9e97b" />
+<Entry OldName="NMixerProNET.CControl.mvarMax" NewName="NMixerProNET.CControl.cfaca559e0564550f4e5a7a27875fa72b" />
+<Entry OldName="NMixerProNET.CControl.mvarMin" NewName="NMixerProNET.CControl.cb53f9c2bd8a22c78df933196bebc3b3d" />
+<Entry OldName="NMixerProNET.CControl.mvarctrlinfo" NewName="NMixerProNET.CControl.cf1b929571f0df24b8582644123d3a0fb" />
+<Entry OldName="NMixerProNET.CControl.mvarlineinfo" NewName="NMixerProNET.CControl.ccfc013c370eebb88b93047dd516f606c" />
+<Entry OldName="NMixerProNET.CControl.mvarIndex" NewName="NMixerProNET.CControl.c72b90d064d6d7e666f80ec7132fbadc2" />
+<Entry OldName="NMixerProNET.CControl.mvarphmx" NewName="NMixerProNET.CControl.ca7f7c986aa86429fa6c05004cd88863c" />
+<Entry OldName="NMixerProNET.CControl.mvarIsValid" NewName="NMixerProNET.CControl.c8be3b216ccd754b66d9f3e55de40344c" />
+<Entry OldName="NMixerProNET.CControl.mvarParent" NewName="NMixerProNET.CControl.c3550d4fed67cfd0a1f0905983015d03f" />
+<Entry OldName="NMixerProNET.CControl.mvarSteps" NewName="NMixerProNET.CControl.c77b5a9a10246bdc4ec92ecff39835160" />
+<Entry OldName="NMixerProNET.CControl.mvarTag" NewName="NMixerProNET.CControl.cfb426e2eeb656b386da49ddcb054a76d" />
+<Entry OldName="NMixerProNET.CCoreAudio.mMixers" NewName="NMixerProNET.CCoreAudio.c26cf366c999f349c76d02f1903609bc1" />
+<Entry OldName="NMixerProNET.CCoreAudio.disposedValue" NewName="NMixerProNET.CCoreAudio.c93d180ae039d8c4ed72c6e2dee7fb960" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.mName" NewName="NMixerProNET.CCoreAudio.CControl.ce41710c006695f3b7c616b3868e11079" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.mPart" NewName="NMixerProNET.CCoreAudio.CControl.c29322645d7082c65288cf30c6ca5fa0b" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.mParent" NewName="NMixerProNET.CCoreAudio.CControl.ccf8c61e221b2ef82024e0b9e0c62c4a9" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.mControl" NewName="NMixerProNET.CCoreAudio.CControl.c8e72aae9915395d3ef833834c609e034" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.mControlType" NewName="NMixerProNET.CCoreAudio.CControl.c4a9357f23495b404d194efd6dc7c5c41" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.mTypeName" NewName="NMixerProNET.CCoreAudio.CControl.ce4762fe9e553acadb0c895ef0966dc62" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.mSubControls" NewName="NMixerProNET.CCoreAudio.CControl.ce100c35141bfa5f821431ba98eb5ffe9" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.mControlVolume" NewName="NMixerProNET.CCoreAudio.CControl.c6f7dbb027b315f676f6e7a95528ea2fb" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.mControlMute" NewName="NMixerProNET.CCoreAudio.CControl.cdd94442705cf4059e248e775fb331d29" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.mControlLoudness" NewName="NMixerProNET.CCoreAudio.CControl.c3e63198f3dfede10a270f057cf7f4d92" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.mControlPeakMeter" NewName="NMixerProNET.CCoreAudio.CControl.cb85b12caa1f91e43b24e4c790607f674" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.mLastErrorMessage" NewName="NMixerProNET.CCoreAudio.CControl.c03c43b0d3137a0a039640ec237e6dedb" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.timerRefreshPeakMeter" NewName="NMixerProNET.CCoreAudio.CControl.ca4c05c2277d28d039d4d55d1f337b573" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.isInit" NewName="NMixerProNET.CCoreAudio.CControl.cb4b5076c38a0cc97ab5cba23e5d265bf" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.disposedValue" NewName="NMixerProNET.CCoreAudio.CControl.c93d180ae039d8c4ed72c6e2dee7fb960" />
+<Entry OldName="NMixerProNET.CCoreAudio.CLine.mControls" NewName="NMixerProNET.CCoreAudio.CLine.c9105c56728174d148872b9a2d51b75f3" />
+<Entry OldName="NMixerProNET.CCoreAudio.CLine.mPart" NewName="NMixerProNET.CCoreAudio.CLine.c29322645d7082c65288cf30c6ca5fa0b" />
+<Entry OldName="NMixerProNET.CCoreAudio.CLine.mName" NewName="NMixerProNET.CCoreAudio.CLine.ce41710c006695f3b7c616b3868e11079" />
+<Entry OldName="NMixerProNET.CCoreAudio.CLine.mSubTypeName" NewName="NMixerProNET.CCoreAudio.CLine.caffa63a7049a1090472d040714c38756" />
+<Entry OldName="NMixerProNET.CCoreAudio.CLine.lastControl" NewName="NMixerProNET.CCoreAudio.CLine.ca876d62587f1ed26cd49ffc4b7c54bcc" />
+<Entry OldName="NMixerProNET.CCoreAudio.CLine.mParent" NewName="NMixerProNET.CCoreAudio.CLine.ccf8c61e221b2ef82024e0b9e0c62c4a9" />
+<Entry OldName="NMixerProNET.CCoreAudio.CLine.disposedValue" NewName="NMixerProNET.CCoreAudio.CLine.c93d180ae039d8c4ed72c6e2dee7fb960" />
+<Entry OldName="NMixerProNET.CCoreAudio.CMixer.mLines" NewName="NMixerProNET.CCoreAudio.CMixer.c4bdae33cada526fe0c29283ca98f7d20" />
+<Entry OldName="NMixerProNET.CCoreAudio.CMixer.mSessions" NewName="NMixerProNET.CCoreAudio.CMixer.c6212824a275629342d38c9b11c51de6c" />
+<Entry OldName="NMixerProNET.CCoreAudio.CMixer.mMixer" NewName="NMixerProNET.CCoreAudio.CMixer.cf507a9fd2730c1e8022324fbafa48044" />
+<Entry OldName="NMixerProNET.CCoreAudio.CMixer.mDeviceName" NewName="NMixerProNET.CCoreAudio.CMixer.cb30d09ecfb4b768bb528b9ea5cfd2615" />
+<Entry OldName="NMixerProNET.CCoreAudio.CMixer.mDataFlow" NewName="NMixerProNET.CCoreAudio.CMixer.c7891fb5dfba11d22827a450cce0d1739" />
+<Entry OldName="NMixerProNET.CCoreAudio.CMixer.mIsEnabled" NewName="NMixerProNET.CCoreAudio.CMixer.ce7b44e64c48a2022242ae8ef7dc9d6ea" />
+<Entry OldName="NMixerProNET.CCoreAudio.CMixer.mName" NewName="NMixerProNET.CCoreAudio.CMixer.ce41710c006695f3b7c616b3868e11079" />
+<Entry OldName="NMixerProNET.CCoreAudio.CMixer.mMasterLine" NewName="NMixerProNET.CCoreAudio.CMixer.cf969b353c221ba8851e8ec0c67010d73" />
+<Entry OldName="NMixerProNET.CCoreAudio.CMixer.isFirst" NewName="NMixerProNET.CCoreAudio.CMixer.c2aea30812795ae4993944a9269ad5fba" />
+<Entry OldName="NMixerProNET.CCoreAudio.CMixer.processesChache" NewName="NMixerProNET.CCoreAudio.CMixer.ce56cb997a9c388ac4d877d91024b4a06" />
+<Entry OldName="NMixerProNET.CCoreAudio.CMixer.SessionChangedEvent" NewName="NMixerProNET.CCoreAudio.CMixer.cdec824904e50541cc25550e7956b73a0" />
+<Entry OldName="NMixerProNET.CCoreAudio.CMixer.lastControl" NewName="NMixerProNET.CCoreAudio.CMixer.ca876d62587f1ed26cd49ffc4b7c54bcc" />
+<Entry OldName="NMixerProNET.CCoreAudio.CMixer.disposedValue" NewName="NMixerProNET.CCoreAudio.CMixer.c93d180ae039d8c4ed72c6e2dee7fb960" />
+<Entry OldName="NMixerProNET.CCoreAudio.CSession.mParent" NewName="NMixerProNET.CCoreAudio.CSession.ccf8c61e221b2ef82024e0b9e0c62c4a9" />
+<Entry OldName="NMixerProNET.CCoreAudio.CSession.mSession" NewName="NMixerProNET.CCoreAudio.CSession.c53b73ef7edfb7d6a606a0b5fc54ef7ee" />
+<Entry OldName="NMixerProNET.CCoreAudio.CSession.mLine" NewName="NMixerProNET.CCoreAudio.CSession.c20e7dc31b584aedc935808dbdd24eb5d" />
+<Entry OldName="NMixerProNET.CCoreAudio.CSession.NameChangedEvent" NewName="NMixerProNET.CCoreAudio.CSession.cffa0cff05d5e4cbb4a5dfb0323fdb152" />
+<Entry OldName="NMixerProNET.CCoreAudio.CSession.DisconnectedEvent" NewName="NMixerProNET.CCoreAudio.CSession.c9af1d8f4e5f282b9c89dc64a9c1c9705" />
+<Entry OldName="NMixerProNET.CCoreAudio.CSession.StateChangedEvent" NewName="NMixerProNET.CCoreAudio.CSession.c6010b75b7f316728b32bd70377cd3079" />
+<Entry OldName="NMixerProNET.CCoreAudio.CSession.disposedValue" NewName="NMixerProNET.CCoreAudio.CSession.c93d180ae039d8c4ed72c6e2dee7fb960" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.CControlLoudness.mAudioLoudness" NewName="NMixerProNET.CCoreAudio.CControl.CControlLoudness.cd082ab25272582659ce9adb7934801ef" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.CControlLoudness.lastState" NewName="NMixerProNET.CCoreAudio.CControl.CControlLoudness.ccde50e09ed7aacc5980290a17ca14668" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.CControlMute.mAudioMute" NewName="NMixerProNET.CCoreAudio.CControl.CControlMute.ca2eafc2a76507496cd85a8c352093188" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.CControlMute.mSimpleAudioVolume" NewName="NMixerProNET.CCoreAudio.CControl.CControlMute.c1ae2fb8fb71e5eb18dc48b269e210dd2" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.CControlMute.mAudioEndpointVolume" NewName="NMixerProNET.CCoreAudio.CControl.CControlMute.c22ec0df01231afc1484e57087f1df945" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.CControlMute.lastState" NewName="NMixerProNET.CCoreAudio.CControl.CControlMute.ccde50e09ed7aacc5980290a17ca14668" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.CControlObject.mControlType" NewName="NMixerProNET.CCoreAudio.CControl.CControlObject.c4a9357f23495b404d194efd6dc7c5c41" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.CControlObject.mTimer" NewName="NMixerProNET.CCoreAudio.CControl.CControlObject.cfa55a72b8203c600a830af8f62f61955" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.CControlObject.mName" NewName="NMixerProNET.CCoreAudio.CControl.CControlObject.ce41710c006695f3b7c616b3868e11079" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.CControlObject.mParent" NewName="NMixerProNET.CCoreAudio.CControl.CControlObject.ccf8c61e221b2ef82024e0b9e0c62c4a9" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.CControlObject.ControlChangedEvent" NewName="NMixerProNET.CCoreAudio.CControl.CControlObject.c074e0ddaa0fbe01f128860d4d13fb40e" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.CControlPeakMeter.mAudioPeakMeter" NewName="NMixerProNET.CCoreAudio.CControl.CControlPeakMeter.c97ed3b2054ad4f8571f05ff6f2d87726" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.CControlPeakMeter.mAudioMeterInformation" NewName="NMixerProNET.CCoreAudio.CControl.CControlPeakMeter.cfcf6c27b9273a760dbd40d80deefb2bf" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.CControlPeakMeter.mChannels" NewName="NMixerProNET.CCoreAudio.CControl.CControlPeakMeter.c06b471fbf4c267665b0db5fe3ebc35ce" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.CControlVolume.mAudioVolumeLevel" NewName="NMixerProNET.CCoreAudio.CControl.CControlVolume.c35351ab4e58b21dfb72df27c9d101e13" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.CControlVolume.mSimpleAudioVolume" NewName="NMixerProNET.CCoreAudio.CControl.CControlVolume.c1ae2fb8fb71e5eb18dc48b269e210dd2" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.CControlVolume.mAudioEndpointVolume" NewName="NMixerProNET.CCoreAudio.CControl.CControlVolume.c22ec0df01231afc1484e57087f1df945" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.CControlVolume.mMinValue" NewName="NMixerProNET.CCoreAudio.CControl.CControlVolume.c1cdc6998df1ecbe0dbe7bacd8029e3ce" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.CControlVolume.mMaxValue" NewName="NMixerProNET.CCoreAudio.CControl.CControlVolume.cf016cbab22c8de5ed8296dcd0dcce4ec" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.CControlVolume.mSteps" NewName="NMixerProNET.CCoreAudio.CControl.CControlVolume.c85807f8b0eaafa1cea4f42b6eb49053f" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.CControlVolume.mChannels" NewName="NMixerProNET.CCoreAudio.CControl.CControlVolume.c06b471fbf4c267665b0db5fe3ebc35ce" />
+<Entry OldName="NMixerProNET.LineContainer.components" NewName="NMixerProNET.LineContainer.c62ca9afc10a93b08f5d6a94caa1c75ef" />
+<Entry OldName="NMixerProNET.LineContainer._VfControl" NewName="NMixerProNET.LineContainer.c487ad1a07b9af90922b2a747a4207670" />
+<Entry OldName="NMixerProNET.LineContainer.masterVolume" NewName="NMixerProNET.LineContainer.cad378e5d00f93c5c98d49d3126021385" />
+<Entry OldName="NMixerProNET.LineContainer.sessionControl" NewName="NMixerProNET.LineContainer.cb77aa50966ded10449a3ae4b92960a03" />
+<Entry OldName="NMixerProNET.LineContainer.isSession" NewName="NMixerProNET.LineContainer.cfd5c42256362467f21b184a35d6edef9" />
+<Entry OldName="NMixerProNET.LineContainer.rangeRect" NewName="NMixerProNET.LineContainer.cc8444d961f61455bdb38a2776628b0f1" />
+<Entry OldName="NMixerProNET.VolumeFader.components" NewName="NMixerProNET.VolumeFader.c62ca9afc10a93b08f5d6a94caa1c75ef" />
+<Entry OldName="NMixerProNET.VolumeFader.thumbRect" NewName="NMixerProNET.VolumeFader.cf4aab862cca8d7963e29354be79fa7ad" />
+<Entry OldName="NMixerProNET.VolumeFader.isOverThumb" NewName="NMixerProNET.VolumeFader.cf241f627fc8cf9aad899634bbf376030" />
+<Entry OldName="NMixerProNET.VolumeFader.rangeRect" NewName="NMixerProNET.VolumeFader.cc8444d961f61455bdb38a2776628b0f1" />
+<Entry OldName="NMixerProNET.VolumeFader.cachedValue" NewName="NMixerProNET.VolumeFader.cb3879d85240806f439b52c4cf97a3a7c" />
+<Entry OldName="NMixerProNET.VolumeFader.hasPeakMeter" NewName="NMixerProNET.VolumeFader.c70544c3d33f6f67f4bfe60dfccbe2859" />
+<Entry OldName="NMixerProNET.VolumeFader.sessionControl" NewName="NMixerProNET.VolumeFader.cb77aa50966ded10449a3ae4b92960a03" />
+<Entry OldName="NMixerProNET.VolumeFader.parentContainer" NewName="NMixerProNET.VolumeFader.c690352be3dafdb658a45093d4dde62b4" />
+<Entry OldName="NMixerProNET.VolumeFader.sessionControlHasMute" NewName="NMixerProNET.VolumeFader.c13b04ada615241830926927784e3527f" />
+<Entry OldName="NMixerProNET.VolumeFader.ctrlMax" NewName="NMixerProNET.VolumeFader.c3f3a15f9df5117d7cf06ef46cb788fd7" />
+<Entry OldName="NMixerProNET.VolumeFader.ctrlMin" NewName="NMixerProNET.VolumeFader.c57d247e5676c0f4623190056aa9acefa" />
+<Entry OldName="NMixerProNET.VolumeFader.ctrlSteps" NewName="NMixerProNET.VolumeFader.c0ad52a09e97b21a3b31a9a6345efc9f1" />
+<Entry OldName="NMixerProNET.VolumeFader.mIntegralChanges" NewName="NMixerProNET.VolumeFader.c0fc474f7efcd5cfa40acf4338f379a5b" />
+<Entry OldName="NMixerProNET.VolumeFader.mPeakLevel" NewName="NMixerProNET.VolumeFader.ce41e467ec3e05e5b4811e893b83bb874" />
+<Entry OldName="NMixerProNET.VolumeFader.mControl" NewName="NMixerProNET.VolumeFader.c8e72aae9915395d3ef833834c609e034" />
+<Entry OldName="NMixerProNET.VolumeFader.mControlType" NewName="NMixerProNET.VolumeFader.c4a9357f23495b404d194efd6dc7c5c41" />
+<Entry OldName="NMixerProNET.VolumeFader.Modes.value__" NewName="NMixerProNET.VolumeFader.cd0ae6c2d8cb51ac43d49ce384145247a.value__" />
+<Entry OldName="NMixerProNET.VolumeFader.Modes.DisabledOrSession" NewName="NMixerProNET.VolumeFader.cd0ae6c2d8cb51ac43d49ce384145247a.c14be4b6214ca50e5810bc09c8e3ccdfe" />
+<Entry OldName="NMixerProNET.VolumeFader.Modes.Normal" NewName="NMixerProNET.VolumeFader.cd0ae6c2d8cb51ac43d49ce384145247a.c218948c5c54723332e223dbffef0b814" />
+<Entry OldName="NMixerProNET.VolumeFader.ControlTypes.value__" NewName="NMixerProNET.VolumeFader.c27d3a746c93ddb0277ecfed75b6b1417.value__" />
+<Entry OldName="NMixerProNET.VolumeFader.ControlTypes.CControlVolume" NewName="NMixerProNET.VolumeFader.c27d3a746c93ddb0277ecfed75b6b1417.c1645af8076f7394139ddb7ffd0ba2735" />
+<Entry OldName="NMixerProNET.VolumeFader.ControlTypes.CSession" NewName="NMixerProNET.VolumeFader.c27d3a746c93ddb0277ecfed75b6b1417.c441d8e152cadb3beb52d646179c3b19d" />
+<Entry OldName="NMixerProNET.CCtrlItem.mvarControlName" NewName="NMixerProNET.CCtrlItem.cd54a05a86f4e6a42a63a632381312457" />
+<Entry OldName="NMixerProNET.CCtrlItem.mvarIndex" NewName="NMixerProNET.CCtrlItem.c72b90d064d6d7e666f80ec7132fbadc2" />
+<Entry OldName="NMixerProNET.CCtrlItem.mvarParent" NewName="NMixerProNET.CCtrlItem.c3550d4fed67cfd0a1f0905983015d03f" />
+<Entry OldName="NMixerProNET.CCtrlItem.mvarTag" NewName="NMixerProNET.CCtrlItem.cfb426e2eeb656b386da49ddcb054a76d" />
+<Entry OldName="NMixerProNET.CLine.mvarControls" NewName="NMixerProNET.CLine.c8ba68ac740e059d52d3c15bfaf0dc08a" />
+<Entry OldName="NMixerProNET.CLine.mvarID" NewName="NMixerProNET.CLine.ca9b88b66cfc02bc565417c5b4cb06b0e" />
+<Entry OldName="NMixerProNET.CLine.mvarComponentType" NewName="NMixerProNET.CLine.cf23860418e969ec00b01e9d541e5dea4" />
+<Entry OldName="NMixerProNET.CLine.mvarChannels" NewName="NMixerProNET.CLine.cd82e6ce11a4563ed9b0445a420a46763" />
+<Entry OldName="NMixerProNET.CLine.mvarShortName" NewName="NMixerProNET.CLine.c9f29d998ab4003301f491f01cd058708" />
+<Entry OldName="NMixerProNET.CLine.mvarLongName" NewName="NMixerProNET.CLine.c3692870fa25225265d003fe0dd5a2a8d" />
+<Entry OldName="NMixerProNET.CLine.mvarlineinfo" NewName="NMixerProNET.CLine.ccfc013c370eebb88b93047dd516f606c" />
+<Entry OldName="NMixerProNET.CLine.mvarLineType" NewName="NMixerProNET.CLine.c996628cf7e13d51f476bbab66a25dd66" />
+<Entry OldName="NMixerProNET.CLine.mvarConnectedTo" NewName="NMixerProNET.CLine.cc247a4a9c98c638012afe871791d3257" />
+<Entry OldName="NMixerProNET.CLine.mvarDestinationID" NewName="NMixerProNET.CLine.c2b4950fbb13179ab8977f7c89d018ccc" />
+<Entry OldName="NMixerProNET.CLine.mvarIndex" NewName="NMixerProNET.CLine.c72b90d064d6d7e666f80ec7132fbadc2" />
+<Entry OldName="NMixerProNET.CLine.mvarphmx" NewName="NMixerProNET.CLine.ca7f7c986aa86429fa6c05004cd88863c" />
+<Entry OldName="NMixerProNET.CLine.mvarParent" NewName="NMixerProNET.CLine.c3550d4fed67cfd0a1f0905983015d03f" />
+<Entry OldName="NMixerProNET.CLine.mvarTag" NewName="NMixerProNET.CLine.cfb426e2eeb656b386da49ddcb054a76d" />
+<Entry OldName="NMixerProNET.CMixer.CALLBACK_WINDOW" NewName="NMixerProNET.CMixer.cc0bea6dd07a133b40f0dc1d194b97923" />
+<Entry OldName="NMixerProNET.CMixer.mvarLines" NewName="NMixerProNET.CMixer.c2adbe53515f24722f2bb4e272f0cf03b" />
+<Entry OldName="NMixerProNET.CMixer.mvarDeviceName" NewName="NMixerProNET.CMixer.cd6e31b5d3ff383cdfc86b2fd5880fc90" />
+<Entry OldName="NMixerProNET.CMixer.mvarDriverVersion" NewName="NMixerProNET.CMixer.c8d2e8bc3fa7a80a257449d830c49f4da" />
+<Entry OldName="NMixerProNET.CMixer.mvarID" NewName="NMixerProNET.CMixer.ca9b88b66cfc02bc565417c5b4cb06b0e" />
+<Entry OldName="NMixerProNET.CMixer.mvarManufacturerID" NewName="NMixerProNET.CMixer.c9f6a4cba70826c770435b4e0ca86da02" />
+<Entry OldName="NMixerProNET.CMixer.mvarProductID" NewName="NMixerProNET.CMixer.cefa117872db3ea9ad54bb144e894fe27" />
+<Entry OldName="NMixerProNET.CMixer.mvarDestinations" NewName="NMixerProNET.CMixer.ce7b37f1f3565f7fe0fe19ac572256b5d" />
+<Entry OldName="NMixerProNET.CMixer.mvarIndex" NewName="NMixerProNET.CMixer.c72b90d064d6d7e666f80ec7132fbadc2" />
+<Entry OldName="NMixerProNET.CMixer.mvarphmx" NewName="NMixerProNET.CMixer.ca7f7c986aa86429fa6c05004cd88863c" />
+<Entry OldName="NMixerProNET.CMixer.mvarHWND" NewName="NMixerProNET.CMixer.c9cc06885cd4ad719cc255ece162f6811" />
+<Entry OldName="NMixerProNET.CMixer.mvarTag" NewName="NMixerProNET.CMixer.cfb426e2eeb656b386da49ddcb054a76d" />
+<Entry OldName="NMixerProNET.CMixerPro.mvarMixers" NewName="NMixerProNET.CMixerPro.c087f6de4d281721da38311afb275052c" />
+<Entry OldName="NMixerProNET.CMixerPro.mvarHWND" NewName="NMixerProNET.CMixerPro.c9cc06885cd4ad719cc255ece162f6811" />
+<Entry OldName="NMixerProNET.CMixerPro.frmMsgHnd" NewName="NMixerProNET.CMixerPro.c48279c2c9a503483612754ed368f74a1" />
+<Entry OldName="NMixerProNET.CMixerPro.mvarTag" NewName="NMixerProNET.CMixerPro.cfb426e2eeb656b386da49ddcb054a76d" />
+<Entry OldName="NMixerProNET.CMixerPro.licenseKey" NewName="NMixerProNET.CMixerPro.c7fe109ce3612c6098d879343e80ed10d" />
+<Entry OldName="NMixerProNET.CMixerPro.MM_MIXM_CONTROL_CHANGE" NewName="NMixerProNET.CMixerPro.cd970cf9f47eb9ed5dc73288502d076d1" />
+<Entry OldName="NMixerProNET.CMixerPro.MM_MIXM_LINE_CHANGE" NewName="NMixerProNET.CMixerPro.cbbc800db37078e6dda3a1bb586e7a723" />
+<Entry OldName="NMixerProNET.CMixerPro.WM_TIMER" NewName="NMixerProNET.CMixerPro.c4e68da88f8717540a3b736ec87840cc2" />
+<Entry OldName="NMixerProNET.CMixerPro.ChangedEvent" NewName="NMixerProNET.CMixerPro.cdb9215bf00d92510833773921d758b1b" />
+<Entry OldName="NMixerProNET.CMixerPro.AudioDevicesChangeEvent" NewName="NMixerProNET.CMixerPro.cfce4ac0cc9eaec6b11b6ace359877dc4" />
+<Entry OldName="NMixerProNET.Controls.mCol" NewName="NMixerProNET.Controls.cd9894817be29b2c17a1f84a2604e26f3" />
+<Entry OldName="NMixerProNET.CtrlItems.mCol" NewName="NMixerProNET.CtrlItems.cd9894817be29b2c17a1f84a2604e26f3" />
+<Entry OldName="NMixerProNET.CDynCompile.CodeProvider" NewName="NMixerProNET.CDynCompile.c13f5f42c77c45e9303749fb3e38896ef" />
+<Entry OldName="NMixerProNET.CDynCompile.CompParams" NewName="NMixerProNET.CDynCompile.cf1f7417f4b0415e56e70898c2afbbf07" />
+<Entry OldName="NMixerProNET.CDynCompile.Obj" NewName="NMixerProNET.CDynCompile.c75aeb3760a9495aa052620c40bf9bfa6" />
+<Entry OldName="NMixerProNET.CDynCompile.disposedValue" NewName="NMixerProNET.CDynCompile.c93d180ae039d8c4ed72c6e2dee7fb960" />
+<Entry OldName="NMixerProNET.Lines.mCol" NewName="NMixerProNET.Lines.cd9894817be29b2c17a1f84a2604e26f3" />
+<Entry OldName="NMixerProNET.Mixers.mCol" NewName="NMixerProNET.Mixers.cd9894817be29b2c17a1f84a2604e26f3" />
+<Entry OldName="NMixerProNET.modAPI.MAXPNAMELEN" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cf4899fae78455c70e0d1d75b29ab63fd" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_SHORT_NAME_CHARS" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c55074656b254654be01db99f313919e1" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_LONG_NAME_CHARS" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.ce470467f1714915b05a563611a03f9c7" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_OBJECTF_AUX" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c42bd4f9ab3227f6162d56c2660515bc1" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_OBJECTF_HANDLE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c73ec809a28df6086bd9250061229d03c" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_OBJECTF_MIXER" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c95556213be8120a6b18affe06afcfbec" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_OBJECTF_WAVEIN" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c5e1295990d72f579b1049fa741052c3c" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_OBJECTF_WAVEOUT" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.ce4f199becc6d55ba902990770441d7de" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_OBJECTF_HMIXER" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c2dea763ba458bff177884d65adde06ec" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_OBJECTF_HWAVEIN" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cdcfd4bf1fba90deddc1857f3b56a7b6b" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_OBJECTF_HWAVEOUT" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c56cdfe24a18277c9c966260804f535bd" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_CLASS_CUSTOM" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c4758565554efe586232bbe1ff11f968d" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_CLASS_FADER" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cd8e8b6de1756d29fa60a79a141fed629" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_CLASS_LIST" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cd2ca99b2054e291e3d692e9f23af6e07" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_CLASS_MASK" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cd9b8445ca12fa0a6fcd98eef3b004cc1" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_CLASS_METER" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c3f426124a3233ed8f9dfe88b54ab6d08" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_CLASS_NUMBER" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cd64ecfc012f76ebde887ec760814be6d" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_CLASS_SLIDER" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c507b96b4d4f8c64107286abd5a726dc2" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_CLASS_SWITCH" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c06012c13ba6b0561a95f45443397d905" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_CLASS_TIME" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.ca17c53a874e76d312f44883250e7243f" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_UNITS_BOOLEAN" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c55f61f7023cbade475432b0de623ee54" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_UNITS_CUSTOM" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c11766646e35f56caced62d6ef5b00c62" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_UNITS_DECIBELS" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cd863bff5a1c77698849beeb977dc1cec" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_UNITS_MASK" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c61a604dbf73706b68588487b1f9fe5d9" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_UNITS_PERCENT" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c1020b9c3cbe5ca1c7ca3c14e1721ef45" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_UNITS_SIGNED" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c60b7fde6000473bbcce5307a69512135" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_UNITS_UNSIGNED" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cc5d8bc77a55fe4a00058c09fa5737062" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_SC_LIST_MULTIPLE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cb8dca51b9db64b5688a849048b43cd20" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_SC_LIST_SINGLE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cda3643e3982236c19179d586bf7fb3a8" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_SC_METER_POLLED" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.ce1a69ff0934878c7dcdde6ab83c1fe36" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_SC_SWITCH_BOOLEAN" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c7aaa9633ab489028e743b800eeb318af" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_SC_SWITCH_BUTTON" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.ca350f4e2cf967955b70234739cfa9224" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_SC_TIME_MICROSECS" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c963069a61d1237a7a2b0a444b6dd6ef7" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CT_SC_TIME_MILLISECS" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cb2940b26dacf91d620b4916dd09fce52" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLF_DISABLED" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cb0f92c828f3d17b49525ae44b6c03154" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLF_MULTIPLE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c1fb70bea65edabc525462620cbdc7e0f" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLF_UNIFORM" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cff237d897a023f11e2bf37d9a9ffe24e" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_FADER" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c49f729fb3e3cb53dcd8c380cd043d4f7" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_BASS" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c805c8a7522561e3282dc49e116736f39" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_TREBLE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cec65a8efac00f3eac9a90274f92380be" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_BOOLEAN" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c95a62aa50fa474982ab17162440d1b1e" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_BOOLEANMETER" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c1b1cc7de12bb6970db8fc3ebb8e56b3b" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_BUTTON" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cfb35b024bee3ed0142ed1a0860f799d8" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_CUSTOM" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c1fed2a28974dd19184b73464a0627e41" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_DECIBELS" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c6575590a1a5f17391f21651a469d9dbf" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_EQUALIZER" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c398edea63a5ab469fa981a859148334f" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_LOUDNESS" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.ccfab303c688391de82fe1a0124c2d40c" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_MICROTIME" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.ca22bc667515a878023ec391587bd561a" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_MILLITIME" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cf173c3447c8fb225d7d0cc46d122286d" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_MULTIPLESELECT" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.ca86afb8ab6203e81a33a6d71378ee4dd" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_MIXER" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c1b7e002f0c52d48a1a009489c48bb7cc" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_MONO" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c127a8dc51aac9999d9d5689846fc3051" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_MUTE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cac289d86eee3ddd62706e6f40283fad2" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_SINGLESELECT" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c4828958a961514fef72aa599f3170ec1" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_MUX" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c539cafe52c327b87ceb3913b498a5fe5" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_ONOFF" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c5c808e5f1836296cd95ddcc5a279facb" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_SLIDER" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c8b3a334d9e18752801c878a1924951c1" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_PAN" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cac5f1220667415c705da0ba26e2b1e3f" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_SIGNEDMETER" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cb3d93cb1558ae34e7b96f0209399a7ed" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_PEAKMETER" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c0a76d7f86ac8387834cd393ef73a825a" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_PERCENT" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cc03d8b0768a9ea1b0f5ed7c94f0dcb8e" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_QSOUNDPAN" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c764370cb94d69a1e81059bd2d7e9c2e0" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_SIGNED" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c5247e4aa933e365b86fa8bee12db05c7" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_STEREOENH" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.ced3e0fae073da3bd1db98b8368d0205f" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_UNSIGNED" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cf4fe6c12efddb31459144529413e7ae5" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_UNSIGNEDMETER" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cd147cb1fe0ef8ce1333e54c06bdbb340" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL_CONTROLTYPE_VOLUME" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c1ae5d53a9e18b94ab61756c88b875169" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_TARGETTYPE_AUX" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c68a03ce28fc69ffaf191efd7018bc41a" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_TARGETTYPE_MIDIIN" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.ca2b3700ab5859f07d86199944fea3ae9" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_TARGETTYPE_MIDIOUT" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c4832030e8e03c5565f5fcd78943f0a9e" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_TARGETTYPE_UNDEFINED" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c9f92c525ca71cc7e498ef84d453487e9" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_TARGETTYPE_WAVEIN" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c709644f50806cc14835917481a4d92a1" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_TARGETTYPE_WAVEOUT" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cf6cb615aaab0b0b2a7b47ecc36e96122" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_DST_FIRST" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cc1434875faa4c6c460d910827bb00ff1" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_DST_DIGITAL" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c0b1c069134275f9504964ac89b275c47" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_DST_HEADPHONES" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cc2236f981fee79f81e97901081af0c87" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_DST_LAST" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cec297e87981a340f5d5a1aef92ee9291" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_DST_LINE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cebd8faa8399d293d6285f53dd4b996d7" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_DST_MONITOR" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c14b93c16391376f3b66bb96ce70b373e" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_DST_SPEAKERS" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cd0e0ea2e82b7aee6f5648921d9da0aeb" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_DST_TELEPHONE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c053e3f7ac4f668f3a74b0a098ef9f797" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_DST_UNDEFINED" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c9f5550f1ec83171f2fd240de824f0e83" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_DST_VOICEIN" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c0533d0770143a00bd0547c4e9bbb2e93" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_DST_WAVEIN" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c427af5ad7a19c6ebbc1059b6706c0c39" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_SRC_FIRST" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c1babc9f3f4568ee0ba7ba5fe4dda3690" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_SRC_DIGITAL" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cb8d709096be3ae569072c51e1c24b6e6" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_SRC_LINE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c0e65de6cb16e6b073e3c5b4b61ce4b5e" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_SRC_MICROPHONE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.ca7e24a9249cbe6ff5a3d55d4dce76f86" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_SRC_SYNTHESIZER" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c5940ab682a10c41aa0a3bb7b1c31b24a" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_SRC_COMPACTDISC" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c1a6f6cff614e0651756501a80932120f" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_SRC_TELEPHONE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cdaa9b07a77ae5b1ba754c89a87ad6db8" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_SRC_PCSPEAKER" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c5f0df9e6478066d7c347585be2641fac" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_SRC_WAVEOUT" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c8b465148bba96aad549c974f2dce214b" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_SRC_AUXILIARY" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c2c971b149a9a019872cca4f825a8e1e6" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_SRC_ANALOG" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.ca8c6a20db16e01f16a71531faf52d523" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_SRC_LAST" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cc546a163c114d79687706741a2cca72a" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE_COMPONENTTYPE_SRC_UNDEFINED" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cb34e79f264c5566d33bf719840e749db" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_GETCONTROLDETAILSF_VALUE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.ca66cec3acd979d6eabe6a8c89a5c4526" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_GETCONTROLDETAILSF_LISTTEXT" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c3dbde50ffad0ed9ca8900cf141d22eed" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_GETCONTROLDETAILSF_QUERYMASK" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cfb6c14b24b7c4dbc1b0540649b217c62" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_SETCONTROLDETAILSF_VALUE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cf8075ab4a39846f470990f7fe80f3f93" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_SETCONTROLDETAILSF_CUSTOM" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cb3ea4330aefdb74a126dd02e5a704144" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_SETCONTROLDETAILSF_QUERYMASK" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c692991b7739a26c5a3a479df885098fd" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_GETLINECONTROLSF_ALL" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c0c06209095e7c79eb32da6020b427d11" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_GETLINECONTROLSF_ONEBYID" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c6ed042f769eff11a6b853ac1027b94bf" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_GETLINECONTROLSF_ONEBYTYPE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c64d6f1b1eb48ed0e7c6eecf7c12e0d44" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_GETLINECONTROLSF_QUERYMASK" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cd452294b19e2b0b963eccc9eebf980ad" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_GETLINEINFOF_COMPONENTTYPE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c624c0f18f475dec4471a8430f6929d22" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_GETLINEINFOF_DESTINATION" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c385c01008144c6aca1bb078194a0492b" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_GETLINEINFOF_LINEID" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c955ba3802304f74989522f681b9866b6" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_GETLINEINFOF_QUERYMASK" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c7b79935effb1bccc6a105b64c94e5150" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_GETLINEINFOF_SOURCE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c4720cfe6e9f82991d7eeaefa291e69a3" />
+<Entry OldName="NMixerProNET.modAPI.MIXER_GETLINEINFOF_TARGETTYPE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cd1d1a96f9aa5ad41ddb32c3c8924536b" />
+<Entry OldName="NMixerProNET.modAPI.MIXERR_BASE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c86b854d5bdc83ee29b868f7a0fdc3c05" />
+<Entry OldName="NMixerProNET.modAPI.MIXERR_INVALCONTROL" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cd474db7428447804f6edd64f33eb5d9c" />
+<Entry OldName="NMixerProNET.modAPI.MIXERR_INVALLINE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cda6c94222262934ab02f6199afc3d289" />
+<Entry OldName="NMixerProNET.modAPI.MIXERR_INVALVALUE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c631d75acf30a710a14f50a3388dbc8ae" />
+<Entry OldName="NMixerProNET.modAPI.MIXERR_LASTERROR" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cd456199bacf60830573fc09ed0f2847e" />
+<Entry OldName="NMixerProNET.modAPI.MMSYSERR_BASE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c24512c135280259b3a840a4e97b41f60" />
+<Entry OldName="NMixerProNET.modAPI.MMSYSERR_ALLOCATED" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c65014d72085fc91ad2acf70a95bf8418" />
+<Entry OldName="NMixerProNET.modAPI.MMSYSERR_BADDEVICEID" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c1dd0bde02b3a0dbf9cf12b378ebd1929" />
+<Entry OldName="NMixerProNET.modAPI.MMSYSERR_BADERRNUM" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c66d5a889278c158ec7e767363b3d306c" />
+<Entry OldName="NMixerProNET.modAPI.MMSYSERR_ERROR" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.ce2b2c5de355efea0b2f7a2e390032884" />
+<Entry OldName="NMixerProNET.modAPI.MMSYSERR_HANDLEBUSY" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c92f2644dc3ca2cf77f460609fda3ec63" />
+<Entry OldName="NMixerProNET.modAPI.MMSYSERR_INVALFLAG" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cd50e8783bacd940efccff02c2d94e408" />
+<Entry OldName="NMixerProNET.modAPI.MMSYSERR_INVALHANDLE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cc26d9747e667ba77996c6c0fc331e293" />
+<Entry OldName="NMixerProNET.modAPI.MMSYSERR_INVALIDALIAS" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c1454b3173168d2d1e28b9240ee94db87" />
+<Entry OldName="NMixerProNET.modAPI.MMSYSERR_INVALPARAM" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cc1bc40511afd409e748309965ee06bf0" />
+<Entry OldName="NMixerProNET.modAPI.MMSYSERR_LASTERROR" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cec8d380c9821a6b4b4e7e34f2e6a9c75" />
+<Entry OldName="NMixerProNET.modAPI.MMSYSERR_NODRIVER" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.ca956ce7d027bc3b20783462881d3693c" />
+<Entry OldName="NMixerProNET.modAPI.MMSYSERR_NOERROR" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.ce2f2e8cf7ee427092475b97dcfe07fe3" />
+<Entry OldName="NMixerProNET.modAPI.MMSYSERR_NOMEM" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c2eaf407bf117486987a4a97c29074bcf" />
+<Entry OldName="NMixerProNET.modAPI.MMSYSERR_NOTENABLED" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.ceffecafadec5d0b6ee8442d90b7e946f" />
+<Entry OldName="NMixerProNET.modAPI.MMSYSERR_NOTSUPPORTED" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c4e44b8ea971825e19353e81c088b9628" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROLDETAILS_UNSIGNED.dwValue" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cedacb36581067da3eaa426bc803ebcaa.cb03e86ea41e1bef274b18b8ad1fe3a5e" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROLDETAILS_SIGNED.lValue" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.ce0a6deb2bf49534a25df4f06c12ed0ca.cb17b5b720094e8fd80f04e4941f7eee6" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROLDETAILS_BOOLEAN.fValue" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c7715f73b48556ab1ad0f7e3bcb6fb501.cfab2a0e9eac7ee93153bc2d201f55bd4" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROLDETAILS_LISTTEXT.dwParam1" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c88845e77a5142cd870108d2bb18fbe05.cce928a308089ce79e87b6e1f87b36c9b" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROLDETAILS_LISTTEXT.dwParam2" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c88845e77a5142cd870108d2bb18fbe05.c15c4cc9b9db7c1d527b69a84c0b3ff7b" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROLDETAILS_LISTTEXT.szName" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c88845e77a5142cd870108d2bb18fbe05.c00c3fed82bee429ae533bf0372a40af3" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL.cbStruct" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cf276a8e0e6a1e76f9491803b60d2c706.cdc741878ddd01dafc5b342268f4eba00" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL.dwControlID" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cf276a8e0e6a1e76f9491803b60d2c706.cd07215cacaceeb2219dce4df9a47daf5" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL.dwControlType" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cf276a8e0e6a1e76f9491803b60d2c706.c23d001853d63fefa5bd0d2e45cb300d7" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL.fdwControl" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cf276a8e0e6a1e76f9491803b60d2c706.cd50eb9127edb7383935c20e1cee30800" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL.cMultipleItems" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cf276a8e0e6a1e76f9491803b60d2c706.c3a4e9434ca58e57715a199f4f67b30e0" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL.szShortName" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cf276a8e0e6a1e76f9491803b60d2c706.cef9ecce3c75c45e19f11fb3f1fca5317" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL.szName" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cf276a8e0e6a1e76f9491803b60d2c706.c00c3fed82bee429ae533bf0372a40af3" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL.lMinimum" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cf276a8e0e6a1e76f9491803b60d2c706.ca70d427c23973fe84d358401eb4b7181" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL.lMaximum" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cf276a8e0e6a1e76f9491803b60d2c706.c9ee8c6669637dae2f1bc60d9f7faa3b6" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL.dwMinimum" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cf276a8e0e6a1e76f9491803b60d2c706.ccd6cd1aac7c3685323490d98de28b744" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL.dwMaximum" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cf276a8e0e6a1e76f9491803b60d2c706.c1c927143f30d61b796f61fba3e11bbb6" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL.cSteps" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cf276a8e0e6a1e76f9491803b60d2c706.c160152678d9adc7083be1de8437ba887" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL.cbCustomData" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cf276a8e0e6a1e76f9491803b60d2c706.cb8273a114b273cc573a3b30882b3e37a" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROL.reserved" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cf276a8e0e6a1e76f9491803b60d2c706.c88626c48f2b66ff1e7cf79b6fde4f974" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCAPS.wMid" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c37fd2736f6a1973d32510e105628ddd3.c3bb3f53e1a9f0cb20308700dfcf3457d" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCAPS.wPid" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c37fd2736f6a1973d32510e105628ddd3.cb87647297f9fe14f231093285fb1988c" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCAPS.vDriverVersion" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c37fd2736f6a1973d32510e105628ddd3.cc3be7fef5a848678a7dbea0cb2cc396c" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCAPS.szPname" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c37fd2736f6a1973d32510e105628ddd3.c26b5effe08ee27ed787403aa62fe372f" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCAPS.fdwSupport" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c37fd2736f6a1973d32510e105628ddd3.ca4e41fa83a4c29c2e504d69e6f963772" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCAPS.cDestinations" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c37fd2736f6a1973d32510e105628ddd3.cbf8238e187026fa70dfcf185860ce5d3" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINECONTROLS.cbStruct" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c1e05845d70a5659b228ab98cc4c65044.cdc741878ddd01dafc5b342268f4eba00" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINECONTROLS.dwLineID" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c1e05845d70a5659b228ab98cc4c65044.caa8e65b64cdd1d3bc8bf575f08b20d45" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINECONTROLS.dwControl" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c1e05845d70a5659b228ab98cc4c65044.c8d59cd9160ae05ac7b4d2d211a036ece" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINECONTROLS.cControls" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c1e05845d70a5659b228ab98cc4c65044.c926d6d11afc04b923a4b0ffe06683047" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINECONTROLS.cbmxctrl" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c1e05845d70a5659b228ab98cc4c65044.c4296dc92dfd67393c1be943e08bacdd7" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINECONTROLS.pamxctrl" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c1e05845d70a5659b228ab98cc4c65044.c84cb371970cd2bf606c6c392b9c08cbc" />
+<Entry OldName="NMixerProNET.modAPI.Target.dwType" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cc0fe91bc194c5232e29ac1c7dbf5b188.cd40a8188c628c30adf911253b2f33c2e" />
+<Entry OldName="NMixerProNET.modAPI.Target.dwDeviceID" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cc0fe91bc194c5232e29ac1c7dbf5b188.cf321fce8dcf66ba63c36a850bbfd5240" />
+<Entry OldName="NMixerProNET.modAPI.Target.wMid" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cc0fe91bc194c5232e29ac1c7dbf5b188.c3bb3f53e1a9f0cb20308700dfcf3457d" />
+<Entry OldName="NMixerProNET.modAPI.Target.wPid" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cc0fe91bc194c5232e29ac1c7dbf5b188.cb87647297f9fe14f231093285fb1988c" />
+<Entry OldName="NMixerProNET.modAPI.Target.vDriverVersion" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cc0fe91bc194c5232e29ac1c7dbf5b188.cc3be7fef5a848678a7dbea0cb2cc396c" />
+<Entry OldName="NMixerProNET.modAPI.Target.szPname" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cc0fe91bc194c5232e29ac1c7dbf5b188.c26b5effe08ee27ed787403aa62fe372f" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE.cbStruct" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c89a7f0f084ba093bf8a80b5b4c251352.cdc741878ddd01dafc5b342268f4eba00" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE.dwDestination" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c89a7f0f084ba093bf8a80b5b4c251352.cd2e838f0f383ad547d72625f20519a1d" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE.dwSource" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c89a7f0f084ba093bf8a80b5b4c251352.cf5f48cdaf855b171fce97390db842e75" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE.dwLineID" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c89a7f0f084ba093bf8a80b5b4c251352.caa8e65b64cdd1d3bc8bf575f08b20d45" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE.fdwLine" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c89a7f0f084ba093bf8a80b5b4c251352.cbb897174bf09a55a1221b013f32ca5ed" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE.dwUser" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c89a7f0f084ba093bf8a80b5b4c251352.c78d16210a8e4c76d3f48821eef302dfe" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE.dwComponentType" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c89a7f0f084ba093bf8a80b5b4c251352.c0b9d636667767d2a509da0aa7eb599f2" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE.cChannels" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c89a7f0f084ba093bf8a80b5b4c251352.c5fa6657f00e7c9c2ddf196eb8e815006" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE.cConnections" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c89a7f0f084ba093bf8a80b5b4c251352.ca2727362b9032e49e61364c42e4cc751" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE.cControls" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c89a7f0f084ba093bf8a80b5b4c251352.c926d6d11afc04b923a4b0ffe06683047" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE.szShortName" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c89a7f0f084ba093bf8a80b5b4c251352.cef9ecce3c75c45e19f11fb3f1fca5317" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE.szName" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c89a7f0f084ba093bf8a80b5b4c251352.c00c3fed82bee429ae533bf0372a40af3" />
+<Entry OldName="NMixerProNET.modAPI.MIXERLINE.lpTarget" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c89a7f0f084ba093bf8a80b5b4c251352.c144134812bd86e25cbfebffb325bf3c5" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROLDETAILS.cbStruct" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c17ca5596004817c0cbc1dcf5d664f188.cdc741878ddd01dafc5b342268f4eba00" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROLDETAILS.dwControlID" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c17ca5596004817c0cbc1dcf5d664f188.cd07215cacaceeb2219dce4df9a47daf5" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROLDETAILS.cChannels" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c17ca5596004817c0cbc1dcf5d664f188.c5fa6657f00e7c9c2ddf196eb8e815006" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROLDETAILS.Item" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c17ca5596004817c0cbc1dcf5d664f188.c526106e938bf2e733bcde2e6c5ee0881" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROLDETAILS.cbDetails" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c17ca5596004817c0cbc1dcf5d664f188.ca5164a432f409d35d218d3e5068efd80" />
+<Entry OldName="NMixerProNET.modAPI.MIXERCONTROLDETAILS.paDetails" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c17ca5596004817c0cbc1dcf5d664f188.c26f614b3ef81cd7ed50fe4e523edbfef" />
+<Entry OldName="NMixerProNET.MsgHnd.components" NewName="A.cdb034877b2b66c2136b6fffe260a4841.c62ca9afc10a93b08f5d6a94caa1c75ef" />
+<Entry OldName="NMixerProNET.MsgHnd.mxp" NewName="A.cdb034877b2b66c2136b6fffe260a4841.c47c1435611334f179d74f6263fa1f537" />
+<Entry OldName="NMixerProNET.My.Resources.Resources.resourceMan" NewName="A.c28fce7d1b5c3a8bb66418859c6a48b0e.c1c174a5b0fb8cecafdf9ef0fe9668dcd" />
+<Entry OldName="NMixerProNET.My.Resources.Resources.resourceCulture" NewName="A.c28fce7d1b5c3a8bb66418859c6a48b0e.cda0cfcf65a439ece4c5f1c97450694a6" />
+<Entry OldName="NMixerProNET.My.MyApplication..ctor()" NewName="A.cd86515d0be1bf33f4ab939dba3f6aae0..ctor()" />
+<Entry OldName="NMixerProNET.My.MyComputer..ctor()" NewName="A.cc8ce249d5fc85accc3e3265b81ae5f7c..ctor()" />
+<Entry OldName="NMixerProNET.My.MyProject..cctor()" NewName="A.c918519dfcfd5779b1ae6b09bb91342c5..cctor()" />
+<Entry OldName="NMixerProNET.My.MyProject.get_Computer()" NewName="A.c918519dfcfd5779b1ae6b09bb91342c5.get_cf27a3a630fa842d38829401b410dfa6e()" />
+<Entry OldName="NMixerProNET.My.MyProject.get_Application()" NewName="A.c918519dfcfd5779b1ae6b09bb91342c5.get_caee48d84fc4a23117a88f76db5516978()" />
+<Entry OldName="NMixerProNET.My.MyProject.get_User()" NewName="A.c918519dfcfd5779b1ae6b09bb91342c5.get_c63c6928b6cb2e909aeccbe80dbb0bb3f()" />
+<Entry OldName="NMixerProNET.My.MyProject.get_WebServices()" NewName="A.c918519dfcfd5779b1ae6b09bb91342c5.get_c3da06a15b81cb23face0e60c014d4ebe()" />
+<Entry OldName="NMixerProNET.My.MyProject.MyWebServices..ctor()" NewName="A.c918519dfcfd5779b1ae6b09bb91342c5.c7fbe920ce2e318556f263f576373b8d9..ctor()" />
+<Entry OldName="NMixerProNET.My.MyProject.MyWebServices.Equals(Object o)" NewName="A.c918519dfcfd5779b1ae6b09bb91342c5.c7fbe920ce2e318556f263f576373b8d9.Equals(Object o)" />
+<Entry OldName="NMixerProNET.My.MyProject.MyWebServices.GetHashCode()" NewName="A.c918519dfcfd5779b1ae6b09bb91342c5.c7fbe920ce2e318556f263f576373b8d9.GetHashCode()" />
+<Entry OldName="NMixerProNET.My.MyProject.MyWebServices.GetType()" NewName="A.c918519dfcfd5779b1ae6b09bb91342c5.c7fbe920ce2e318556f263f576373b8d9.cada4d4a476de4e42a94bdea7e0e2800c()" />
+<Entry OldName="NMixerProNET.My.MyProject.MyWebServices.ToString()" NewName="A.c918519dfcfd5779b1ae6b09bb91342c5.c7fbe920ce2e318556f263f576373b8d9.ToString()" />
+<Entry OldName="NMixerProNET.My.MyProject.MyWebServices.Create__Instance__[T](T instance)" NewName="A.c918519dfcfd5779b1ae6b09bb91342c5.c7fbe920ce2e318556f263f576373b8d9.ca1ea8e29213f4246b513fa93e9d50f04[c44ce102fd7efad47df7c642dfa37db32](c44ce102fd7efad47df7c642dfa37db32 ca90526ab5231805d46e27d794a349b32)" />
+<Entry OldName="NMixerProNET.My.MyProject.MyWebServices.Dispose__Instance__[T](T&amp; instance)" NewName="A.c918519dfcfd5779b1ae6b09bb91342c5.c7fbe920ce2e318556f263f576373b8d9.ca04d6c4000fc190140df363664b52ac0[c44ce102fd7efad47df7c642dfa37db32](c44ce102fd7efad47df7c642dfa37db32&amp; ca90526ab5231805d46e27d794a349b32)" />
+<Entry OldName="NMixerProNET.My.MyProject.ThreadSafeObjectProvider`1..ctor()" NewName="A.c918519dfcfd5779b1ae6b09bb91342c5.c4439b942c7ff7b091381dd31b66adf0b`1..ctor()" />
+<Entry OldName="NMixerProNET.My.MyProject.ThreadSafeObjectProvider`1.get_GetInstance()" NewName="A.c918519dfcfd5779b1ae6b09bb91342c5.c4439b942c7ff7b091381dd31b66adf0b`1.get_ceee5bd8b04660ac91b45de0ae123b384()" />
+<Entry OldName="NMixerProNET.CBinding..ctor(Object c)" NewName="NMixerProNET.CBinding..ctor(Object c934eac1fedf47b12d2fddf302468ccb7)" />
+<Entry OldName="NMixerProNET.CBinding.UpdateValueFromBoundObj(Object sender, EventArgs e)" NewName="NMixerProNET.CBinding.cb9c0c4acdbd0c3d54f549b12dc48478b(Object c1985f780097f50605cf1f9a35420835e, EventArgs c6d2a7b97566df7ca1b744c3c34a6e708)" />
+<Entry OldName="NMixerProNET.CBinding.SafeUpdateBoundObjValue()" NewName="NMixerProNET.CBinding.cc7ab778c6e7b4373210b21f9d54dc1d5()" />
+<Entry OldName="NMixerProNET.CBinding.ConvertFromPropertyValue(Int32 value)" NewName="NMixerProNET.CBinding.cd92143128c9b33a2fb4a24a4fead9ffb(Int32 cc846edc5453d933c44e10c3f31a603de)" />
+<Entry OldName="NMixerProNET.CBinding.ConvertToPropertyValue(Single value)" NewName="NMixerProNET.CBinding.cc075fea7145a4b5659831a4d0bda2476(Single cc846edc5453d933c44e10c3f31a603de)" />
+<Entry OldName="NMixerProNET.CBinding.Dispose()" NewName="NMixerProNET.CBinding.c195fb406f16060266a37b3c03509bf02()" />
+<Entry OldName="NMixerProNET.CBinding._Lambda$__17(Object a0)" NewName="NMixerProNET.CBinding.ccf0834d5b8232d87df1bc1fc1fdf8210(Object c4beee6c9b0483c212783b9b4604020b3)" />
+<Entry OldName="NMixerProNET.CBinding._Lambda$__18()" NewName="NMixerProNET.CBinding.c3493a9a44c23c54952e612cea85771d9()" />
+<Entry OldName="NMixerProNET.CControl.get_LineInfo()" NewName="NMixerProNET.CControl.get_cbb865f43456db437471152781f0e6809()" />
+<Entry OldName="NMixerProNET.CControl.set_LineInfo(MIXERLINE value)" NewName="NMixerProNET.CControl.set_cbb865f43456db437471152781f0e6809(c89a7f0f084ba093bf8a80b5b4c251352 cc846edc5453d933c44e10c3f31a603de)" />
+<Entry OldName="NMixerProNET.CControl.get_ControlInfo()" NewName="NMixerProNET.CControl.get_c7e013e8d2e99fc79f1c494b17ef2ae97()" />
+<Entry OldName="NMixerProNET.CControl.set_ControlInfo(MIXERCONTROL Value)" NewName="NMixerProNET.CControl.set_c7e013e8d2e99fc79f1c494b17ef2ae97(cf276a8e0e6a1e76f9491803b60d2c706 ca18f31fa784a8929ff356dad815cc5e1)" />
+<Entry OldName="NMixerProNET.CControl.KillTimers()" NewName="NMixerProNET.CControl.cdf2a4f44b920b122cb16c61822c134bc()" />
+<Entry OldName="NMixerProNET.CControl.CreateTimer(Int32 tmrEventID)" NewName="NMixerProNET.CControl.c71d5d5ddffb3feca38555409125400e5(Int32 c6d408aef7fbcba24428759a6146cebfc)" />
+<Entry OldName="NMixerProNET.CControl.GetItems()" NewName="NMixerProNET.CControl.c7d7136ad636cafd61110c9ad0b39da8e()" />
+<Entry OldName="NMixerProNET.CControl.GetControlValue(Boolean IsSubItem)" NewName="NMixerProNET.CControl.c86a6f7e17cb2e05dbbd4be4fb3674ca5(Boolean cb792d5de76be59090a972770e2d3b923)" />
+<Entry OldName="NMixerProNET.CControl.SetControlValue(Int32[]&amp; v, Boolean IsSubItem)" NewName="NMixerProNET.CControl.ce48d588cd5a4168eff15acc2a6a2d5d3(Int32[]&amp; c94721e504825b3b7fac5e73a836b78ef, Boolean cb792d5de76be59090a972770e2d3b923)" />
+<Entry OldName="NMixerProNET.CCoreAudio.EnumDevices(EDataFlow flow)" NewName="NMixerProNET.CCoreAudio.c082fcf7612ef43c00bbef386c1b0db08(EDataFlow c474218b36a30596e304e75700ec37076)" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.get_LastErrorMessage()" NewName="NMixerProNET.CCoreAudio.CControl.get_c5826aa0f47c81cc122de3524baf99a67()" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.GenerateControls()" NewName="NMixerProNET.CCoreAudio.CControl.cd33193ea481323be8e284c0b95023101()" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.UpdateBindings(Boolean updateVolume, Boolean updateMute, Boolean updateLoudness, Boolean updatePeakMeter)" NewName="NMixerProNET.CCoreAudio.CControl.c861f1d636aeb88516bef5df5c0d82e55(Boolean c4c9475e22a04fbf0fa26b9120b39d384, Boolean cf4d85799098a1d5af88d1af6e1ba79b8, Boolean ca7024a0e26ebbf69b54acac30216e84a, Boolean c7b0d68ca63910eef10de291d324f73ff)" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl.UpdatePeakMeter(Object state)" NewName="NMixerProNET.CCoreAudio.CControl.ca759ac0e357bc72483d6644f7c11cc3b(Object c12600777bd9b5267af80a88b82ffeb6a)" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl._Lambda$__5(Object a0)" NewName="NMixerProNET.CCoreAudio.CControl.ca5e20cabbab40d8da4c9f3c5c5654e8c(Object c4beee6c9b0483c212783b9b4604020b3)" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl._Lambda$__6()" NewName="NMixerProNET.CCoreAudio.CControl.ce9d735f8ef2c9c5e63fc6902b69bfcc2()" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl._Lambda$__7(Object a0)" NewName="NMixerProNET.CCoreAudio.CControl.cd5ebc047a8d21987fa2fb08b3d5ae679(Object c4beee6c9b0483c212783b9b4604020b3)" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl._Lambda$__8()" NewName="NMixerProNET.CCoreAudio.CControl.ccd1179bc5edcb0f4595635dec94c7b3f()" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl._Lambda$__9(Object a0)" NewName="NMixerProNET.CCoreAudio.CControl.c7c90a5ba27e1d6df556de50c5a849a70(Object c4beee6c9b0483c212783b9b4604020b3)" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl._Lambda$__10()" NewName="NMixerProNET.CCoreAudio.CControl.c132d33c43b8a3852c1122190f62ee5ff()" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl._Lambda$__11(Object a0)" NewName="NMixerProNET.CCoreAudio.CControl.c14b4f142c41101d20ec3c03316286361(Object c4beee6c9b0483c212783b9b4604020b3)" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl._Lambda$__12()" NewName="NMixerProNET.CCoreAudio.CControl.c19718382692cafb0bce385796cdd5a8d()" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl._Lambda$__13(Object a0, Single a1, Boolean a2)" NewName="NMixerProNET.CCoreAudio.CControl.c962dabdda1ce858eea5107a03f5dd066(Object c4beee6c9b0483c212783b9b4604020b3, Single ccef8376a00f0b8b61d3a06f35d4adc4d, Boolean c09530d849ff1f50686228848a13a9039)" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl._Lambda$__14()" NewName="NMixerProNET.CCoreAudio.CControl.c8f1b8f4dce78a05e6aa7d1bc9b12ed88()" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl._Lambda$__15(AudioVolumeNotificationData a0)" NewName="NMixerProNET.CCoreAudio.CControl.cb352995d3085a49d72af35902238addf(AudioVolumeNotificationData c4beee6c9b0483c212783b9b4604020b3)" />
+<Entry OldName="NMixerProNET.CCoreAudio.CControl._Lambda$__16()" NewName="NMixerProNET.CCoreAudio.CControl.c06cf3f230e3ade6628aeda4ac4a4320f()" />
+<Entry OldName="NMixerProNET.CCoreAudio.CLine.GetControls(Part part, EDataFlow flow)" NewName="NMixerProNET.CCoreAudio.CLine.c47cd55356ffa494495bb8ffe970599fc(Part c21d3c5a5d2ce88f6d4bd292f75413fe4, EDataFlow c474218b36a30596e304e75700ec37076)" />
+<Entry OldName="NMixerProNET.CCoreAudio.CMixer.GetSessions()" NewName="NMixerProNET.CCoreAudio.CMixer.c329cc6aec33f7ee0a3a4160903659b37()" />
+<Entry OldName="NMixerProNET.CCoreAudio.CMixer.GetLines(Part part, EDataFlow flow)" NewName="NMixerProNET.CCoreAudio.CMixer.cbad10e5ea8124b5fd4a83ee248e69553(Part c21d3c5a5d2ce88f6d4bd292f75413fe4, EDataFlow c474218b36a30596e304e75700ec37076)" />
+<Entry OldName="NMixerProNET.CCoreAudio.CMixer._Lambda$__1(CSession sender, String newDisplayName)" NewName="NMixerProNET.CCoreAudio.CMixer.c3afbf1e27337c2bb68d3f49620bd3597(CSession c1985f780097f50605cf1f9a35420835e, String cb1cd8809069d93b0fb31b5d62ceff972)" />
+<Entry OldName="NMixerProNET.CCoreAudio.CMixer._Lambda$__2(CSession sender, AudioSessionDisconnectReason disconnectReason)" NewName="NMixerProNET.CCoreAudio.CMixer.ce35c311f3ee0430fca5474aba44bacb2(CSession c1985f780097f50605cf1f9a35420835e, AudioSessionDisconnectReason cc1b82599b86a7184eba91cd8052a8207)" />
+<Entry OldName="NMixerProNET.CCoreAudio.CMixer._Lambda$__3(CSession sender, AudioSessionState newState)" NewName="NMixerProNET.CCoreAudio.CMixer.c6ba6b5801bccee2303b7ba3d298c5cba(CSession c1985f780097f50605cf1f9a35420835e, AudioSessionState c7829944eb3cd174c49b0cac3a5788e89)" />
+<Entry OldName="NMixerProNET.CCoreAudio.CMixer._Lambda$__4(Object sender, IAudioSessionControl2 newSession)" NewName="NMixerProNET.CCoreAudio.CMixer.cf100b41ef30d016423c6c290a0f0e2a3(Object c1985f780097f50605cf1f9a35420835e, IAudioSessionControl2 ca46deb509bc60b50dcd79155f8fce0a9)" />
+<Entry OldName="NMixerProNET.CCoreAudio.CSession._Lambda$__19(Object sender, String newDisplayName)" NewName="NMixerProNET.CCoreAudio.CSession.c3350ea8a6166eb07acf84be3864aedc2(Object c1985f780097f50605cf1f9a35420835e, String cb1cd8809069d93b0fb31b5d62ceff972)" />
+<Entry OldName="NMixerProNET.CCoreAudio.CSession._Lambda$__20(Object sender, AudioSessionDisconnectReason disconnectReason)" NewName="NMixerProNET.CCoreAudio.CSession.c15d6ae1d0021859af0aac16096cbf3ec(Object c1985f780097f50605cf1f9a35420835e, AudioSessionDisconnectReason cc1b82599b86a7184eba91cd8052a8207)" />
+<Entry OldName="NMixerProNET.CCoreAudio.CSession._Lambda$__21(Object sender, AudioSessionState newState)" NewName="NMixerProNET.CCoreAudio.CSession.ccaa9e50b0b1d087bd0931d1e4797bd29(Object c1985f780097f50605cf1f9a35420835e, AudioSessionState c7829944eb3cd174c49b0cac3a5788e89)" />
+<Entry OldName="NMixerProNET.LineContainer.InitializeComponent()" NewName="NMixerProNET.LineContainer.c3cbc39c5c7b4f9ca565db78ac62ff343()" />
+<Entry OldName="NMixerProNET.LineContainer.get_VfControl()" NewName="NMixerProNET.LineContainer.get_c8f978798d5593dd46ec52b42294987c3()" />
+<Entry OldName="NMixerProNET.LineContainer.set_VfControl(VolumeFader WithEventsValue)" NewName="NMixerProNET.LineContainer.set_c8f978798d5593dd46ec52b42294987c3(VolumeFader c598bf26a214120cbce338c5c40bc685f)" />
+<Entry OldName="NMixerProNET.LineContainer.MasterVolumeToLinear()" NewName="NMixerProNET.LineContainer.ce48804255f6d10cbdde53296d5330897()" />
+<Entry OldName="NMixerProNET.LineContainer.AdjustVolumeFader(CControlObject sender)" NewName="NMixerProNET.LineContainer.cc58703a5bde230d4d9bc190c77663b6e(CControlObject c1985f780097f50605cf1f9a35420835e)" />
+<Entry OldName="NMixerProNET.LineContainer.SafeAdjustVolumeFader()" NewName="NMixerProNET.LineContainer.c590e91e1e3a7055162a8b07509e86039()" />
+<Entry OldName="NMixerProNET.VolumeFader.InitializeComponent()" NewName="NMixerProNET.VolumeFader.c3cbc39c5c7b4f9ca565db78ac62ff343()" />
+<Entry OldName="NMixerProNET.VolumeFader.ForeceRefresh(Object sender)" NewName="NMixerProNET.VolumeFader.c2b46f8e0999b1c73c32dbc4ce1dcc161(Object c1985f780097f50605cf1f9a35420835e)" />
+<Entry OldName="NMixerProNET.VolumeFader.DrawThumb(Graphics g, Rectangle r, Rectangle r1)" NewName="NMixerProNET.VolumeFader.cead109f0657a2edca840e0edbc15e322(Graphics c3dbf8f209feeec0fdf7a2279783927ed, Rectangle c66f0b86e63d96d41dd4281a48ee80a60, Rectangle c650b8c6d138987d584121af0c3b61989)" />
+<Entry OldName="NMixerProNET.VolumeFader.ValueToPercentage(Int32 value)" NewName="NMixerProNET.VolumeFader.c768dc0041ff2783d04c5f497a2b13f1e(Int32 cc846edc5453d933c44e10c3f31a603de)" />
+<Entry OldName="NMixerProNET.VolumeFader.DrawScale(Graphics g, Rectangle r, Rectangle r1)" NewName="NMixerProNET.VolumeFader.c36ad62cf6a80e314b0e962415b98b19c(Graphics c3dbf8f209feeec0fdf7a2279783927ed, Rectangle c66f0b86e63d96d41dd4281a48ee80a60, Rectangle c650b8c6d138987d584121af0c3b61989)" />
+<Entry OldName="NMixerProNET.VolumeFader.VolumeFader_MouseMove(Object sender, MouseEventArgs e)" NewName="NMixerProNET.VolumeFader.c50a4d2179132d5c4d47804acc4e30d7e(Object c1985f780097f50605cf1f9a35420835e, MouseEventArgs c6d2a7b97566df7ca1b744c3c34a6e708)" />
+<Entry OldName="NMixerProNET.VolumeFader.VolumeFader_ValueChanged(Object sender, EventArgs e)" NewName="NMixerProNET.VolumeFader.c78634d89b0d0339c0f4cf6a07bb1c35c(Object c1985f780097f50605cf1f9a35420835e, EventArgs c6d2a7b97566df7ca1b744c3c34a6e708)" />
+<Entry OldName="NMixerProNET.CCtrlItem.GetItemValue()" NewName="NMixerProNET.CCtrlItem.c69cdb6b0dabc11c3ee91b436682823ea()" />
+<Entry OldName="NMixerProNET.CCtrlItem.SetItemValue(Int32 vv)" NewName="NMixerProNET.CCtrlItem.c1118c48341f97e8f2db3cd9eed7ecf17(Int32 cbce11d3dab69fb7b71f1fa5a10af7cdd)" />
+<Entry OldName="NMixerProNET.CLine.set_LineInfo(MIXERLINE Value)" NewName="NMixerProNET.CLine.set_cbb865f43456db437471152781f0e6809(c89a7f0f084ba093bf8a80b5b4c251352 ca18f31fa784a8929ff356dad815cc5e1)" />
+<Entry OldName="NMixerProNET.CMixer.get_WinHWND()" NewName="NMixerProNET.CMixer.get_ca858eacf4fc1c386d97cd9342303ade0()" />
+<Entry OldName="NMixerProNET.CMixer.set_WinHWND(Int32 Value)" NewName="NMixerProNET.CMixer.set_ca858eacf4fc1c386d97cd9342303ade0(Int32 ca18f31fa784a8929ff356dad815cc5e1)" />
+<Entry OldName="NMixerProNET.CMixer.GetLines(Lines col, ComponentTypeConstants CompType)" NewName="NMixerProNET.CMixer.cbad10e5ea8124b5fd4a83ee248e69553(Lines c10e26e8636acdd5881240509e7c1039e, ComponentTypeConstants ce7ea98319abcede0c977925e415acc96)" />
+<Entry OldName="NMixerProNET.CMixerPro.CheckForDeviceChanges()" NewName="NMixerProNET.CMixerPro.c2cd57479610bc93e44c6318b6e05e3f5()" />
+<Entry OldName="NMixerProNET.CMixerPro.Init()" NewName="NMixerProNET.CMixerPro.c533e95a2e4a2a017a3be030d0f32e70f()" />
+<Entry OldName="NMixerProNET.CMixerPro.wProc(Message&amp; msg)" NewName="NMixerProNET.CMixerPro.c94776b4250f030c9158a0900b8936d9d(Message&amp; cd41fd788209d5e30d6c1052ded36aae2)" />
+<Entry OldName="NMixerProNET.Controls.Add(String Key, MIXERCONTROL ctrlinfo, MIXERLINE lineinfo, Int32 mixerHandler, Boolean IsValid, CLine pCtrl, String sKey)" NewName="NMixerProNET.Controls.ce067c188498ba7bad9a81bdbdc47c12e(String c5d3c3a4ee1ff19794ec8f4991eb4d790, cf276a8e0e6a1e76f9491803b60d2c706 ce79d854972d5b1c9455c97ff5c38b6f9, c89a7f0f084ba093bf8a80b5b4c251352 c79f9bc288947ce732fd048b381cbd461, Int32 c5788221b45489871fff5540bad219a7c, Boolean c4ae9faca50c8405c784fe20e5096f6f0, CLine ca0ac4701155889942b1180aea0670fd8, String ceb84988da50e2a1c2d66df63cccee656)" />
+<Entry OldName="NMixerProNET.Controls.Remove(Object obj)" NewName="NMixerProNET.Controls.cb868ea9c9c8312322acfb54272195c1d(Object c809a9b05f4ef40d9f628ea089ae98e09)" />
+<Entry OldName="NMixerProNET.CtrlItems.Add(String Key, String ctrlName, CControl pCtrl, String sKey)" NewName="NMixerProNET.CtrlItems.ce067c188498ba7bad9a81bdbdc47c12e(String c5d3c3a4ee1ff19794ec8f4991eb4d790, String cafba3f778d605b2af3ed937dae74a0f9, CControl ca0ac4701155889942b1180aea0670fd8, String ceb84988da50e2a1c2d66df63cccee656)" />
+<Entry OldName="NMixerProNET.CCrypt..ctor()" NewName="A.c47a42f6fb81f5728879d9de8f4c5845c..ctor()" />
+<Entry OldName="NMixerProNET.CCrypt.Decrypt(String licenseKey, String Password, String SerialNumber)" NewName="A.c47a42f6fb81f5728879d9de8f4c5845c.c8ec62de0506856d9a0b49a963861b0b0(String c7fe109ce3612c6098d879343e80ed10d, String c8e6befdf10680aaaffe710fe620c10c0, String c82722ca526fd53facffd12f6e15d7ae5)" />
+<Entry OldName="NMixerProNET.CCrypt.get_HashIt(String sKey)" NewName="A.c47a42f6fb81f5728879d9de8f4c5845c.get_c81161524b1b014dc861cf92260c634e6(String ceb84988da50e2a1c2d66df63cccee656)" />
+<Entry OldName="NMixerProNET.CCrypt.Hex2Byte(String h)" NewName="A.c47a42f6fb81f5728879d9de8f4c5845c.cf93b2be48f990ad1c7ecd9a5da0aa340(String c8765d24b5e5320ebcbc89033359e4fb3)" />
+<Entry OldName="NMixerProNET.CDynCompile.Compile(String sCode)" NewName="NMixerProNET.CDynCompile.c4fd628360001f7c441ef3a24f1935bff(String c6d2d7aa7032819d9befc76168479a900)" />
+<Entry OldName="NMixerProNET.CDynCompile.CreateObject(String sCode)" NewName="NMixerProNET.CDynCompile.c6c42da305891f349380f8a3c1eb0ca06(String c6d2d7aa7032819d9befc76168479a900)" />
+<Entry OldName="NMixerProNET.Lines.Add(String Key, MIXERLINE&amp; lineinfo, LineTypeConstants lType, Int32 ConnTo, Int32 mixerHandler, CMixer&amp; pCtrl, String sKey)" NewName="NMixerProNET.Lines.ce067c188498ba7bad9a81bdbdc47c12e(String c5d3c3a4ee1ff19794ec8f4991eb4d790, c89a7f0f084ba093bf8a80b5b4c251352&amp; c79f9bc288947ce732fd048b381cbd461, LineTypeConstants c0521b8e9926d8cbba185b60896e9f507, Int32 c528bc7a38eff6def59b9f50f3dfb0c3a, Int32 c5788221b45489871fff5540bad219a7c, CMixer&amp; ca0ac4701155889942b1180aea0670fd8, String ceb84988da50e2a1c2d66df63cccee656)" />
+<Entry OldName="NMixerProNET.Mixers.Remove(Object obj)" NewName="NMixerProNET.Mixers.cb868ea9c9c8312322acfb54272195c1d(Object c809a9b05f4ef40d9f628ea089ae98e09)" />
+<Entry OldName="NMixerProNET.modAPI..cctor()" NewName="A.c6b7df133f05363b66dec3da9f164fe8e..cctor()" />
+<Entry OldName="NMixerProNET.modAPI.mixerOpen(Int32&amp; phmx, Int32 uMxId, Int32 dwCallback, Int32 dwInstance, Int32 fdwOpen)" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.ccb0deb76644969026196889a66985c92(Int32&amp; cf9860a3e3d045cfbdb183dcc7fa63170, Int32 c98e6261663b3aaf30644a4fcda0020e8, Int32 c24834d23bf6b6e437803f4fa03e627ad, Int32 cad9aa4d504341a322b8430ad33feee6b, Int32 cc1abdff1a7c3455611563cee6de3025f)" />
+<Entry OldName="NMixerProNET.modAPI.mixerClose(Int32 hmx)" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.ce5e75a75adf817563b2ae843bdd41338(Int32 c101787443c630bd6d12d591d81ca3eb3)" />
+<Entry OldName="NMixerProNET.modAPI.mixerGetID(Int32 hmxobj, Int32&amp; puMxId, Int32 fdwId)" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c135638e360cc22cf87e38d82f93bdab9(Int32 c26929ce26426d4d2808e2a55790db9aa, Int32&amp; cf3c975e03b5ef2ff11fc6219290d7234, Int32 cc0be025ef9adc7607df5a54f2ea603db)" />
+<Entry OldName="NMixerProNET.modAPI.mixerGetLineControls(Int32 hmxobj, MIXERLINECONTROLS&amp; pmxlc, Int32 fdwControls)" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c5bbc8c875281b7a04897f1280e7eae94(Int32 c26929ce26426d4d2808e2a55790db9aa, c1e05845d70a5659b228ab98cc4c65044&amp; cd235536f00da53b87a1f22b55866b82a, Int32 c15ab4e8f7e296840a014663a759688a0)" />
+<Entry OldName="NMixerProNET.modAPI.mixerGetDevCaps(Int32 uMxId, MIXERCAPS&amp; pmxcaps, Int32 cbmxcaps)" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cd5da2793644174849c7d69d71815b0d5(Int32 c98e6261663b3aaf30644a4fcda0020e8, c37fd2736f6a1973d32510e105628ddd3&amp; c72e066dae80b4c5743eda77fb3f1e67a, Int32 cf91f5c790a186069f799c421b8646bf3)" />
+<Entry OldName="NMixerProNET.modAPI.mixerGetLineInfo(Int32 hmxobj, MIXERLINE&amp; pmxl, Int32 fdwInfo)" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cad2f58b57ba814ebc23e41ecf79f7d3d(Int32 c26929ce26426d4d2808e2a55790db9aa, c89a7f0f084ba093bf8a80b5b4c251352&amp; c7846b62cae728490d83683444f0fbec5, Int32 c25112985a71e1236735ea420349a78ed)" />
+<Entry OldName="NMixerProNET.modAPI.mixerGetControlDetails(Int32 hmxobj, MIXERCONTROLDETAILS&amp; pmxcd, Int32 fdwDetails)" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c4b2dbb1edb1dd525b765c9922d0833f3(Int32 c26929ce26426d4d2808e2a55790db9aa, c17ca5596004817c0cbc1dcf5d664f188&amp; c71bd45ce8f81ef38c5b74186ec719719, Int32 c6e11cc26d6f8fb49802715dccb20a342)" />
+<Entry OldName="NMixerProNET.modAPI.mixerSetControlDetails(Int32 hmxobj, MIXERCONTROLDETAILS&amp; pmxcd, Int32 fdwDetails)" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cf209cd27bdd5add14f8a9c67cc6e7e97(Int32 c26929ce26426d4d2808e2a55790db9aa, c17ca5596004817c0cbc1dcf5d664f188&amp; c71bd45ce8f81ef38c5b74186ec719719, Int32 c6e11cc26d6f8fb49802715dccb20a342)" />
+<Entry OldName="NMixerProNET.modAPI.mixerGetNumDevs()" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cceb92ad9fdbafc6f218628ccd8252cfe()" />
+<Entry OldName="NMixerProNET.modAPI.GlobalAlloc(Int32 wFlags, Int32 dwBytes)" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c0ad5a5ef0504e75323876af960a901eb(Int32 ca16d651ed97b7c3851af0f0d163a8e38, Int32 cea1973decabb51eac807cf730d1fc857)" />
+<Entry OldName="NMixerProNET.modAPI.GlobalLock(Int32 hMem)" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cfe6cbfb2d77baf9650813d45acb57302(Int32 ce20b25b834b0b46ae9afaa6555649579)" />
+<Entry OldName="NMixerProNET.modAPI.GlobalFree(Int32 hMem)" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c2dc6c963aa8c760fde18555b6ece764b(Int32 ce20b25b834b0b46ae9afaa6555649579)" />
+<Entry OldName="NMixerProNET.modAPI.GlobalUnlock(Int32 hMem)" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.cf63ecca6752b9b38ed15981659cc30a7(Int32 ce20b25b834b0b46ae9afaa6555649579)" />
+<Entry OldName="NMixerProNET.modAPI.SetTimer(Int32 hWnd, Int32 nIDEvent, Int32 uElapse, Int32 lpTimerFunc)" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c2459db7804eb19a2ad8d5a05c3db10bf(Int32 ca29cb499b9e00c7a35cb5c8d0a2a7841, Int32 c0c2f646116f1196f28f4448091a0c24b, Int32 c2c2cfb3aeca32e1816e09eb8469aa53f, Int32 c523a3b1083d1352a3c2091bca073cbae)" />
+<Entry OldName="NMixerProNET.modAPI.KillTimer(Int32 hWnd, Int32 nIDEvent)" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c7c274fbb7c194d694de69de6ec0d3c7f(Int32 ca29cb499b9e00c7a35cb5c8d0a2a7841, Int32 c0c2f646116f1196f28f4448091a0c24b)" />
+<Entry OldName="NMixerProNET.modAPI.StripNull(String s)" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c6dc82994e1297b9d3e0ad64f2f6bb349(String c55d207389d5dfff435508358bef5fe84)" />
+<Entry OldName="NMixerProNET.modAPI.VarPtr(Object o)" NewName="A.c6b7df133f05363b66dec3da9f164fe8e.c70ff7ed04c243ffef810f6527f2ff634(Object c00967541fe45068db9cb9d8f9ded1b94)" />
+<Entry OldName="NMixerProNET.MsgHnd..ctor()" NewName="A.cdb034877b2b66c2136b6fffe260a4841..ctor()" />
+<Entry OldName="NMixerProNET.MsgHnd.Dispose(Boolean disposing)" NewName="A.cdb034877b2b66c2136b6fffe260a4841.Dispose(Boolean disposing)" />
+<Entry OldName="NMixerProNET.MsgHnd.InitializeComponent()" NewName="A.cdb034877b2b66c2136b6fffe260a4841.c3cbc39c5c7b4f9ca565db78ac62ff343()" />
+<Entry OldName="NMixerProNET.MsgHnd.WndProc(Message&amp; m)" NewName="A.cdb034877b2b66c2136b6fffe260a4841.WndProc(Message&amp; m)" />
+<Entry OldName="NMixerProNET.My.Resources.Resources.get_ResourceManager()" NewName="A.c28fce7d1b5c3a8bb66418859c6a48b0e.get_ResourceManager()" />
+<Entry OldName="NMixerProNET.My.Resources.Resources.get_Culture()" NewName="A.c28fce7d1b5c3a8bb66418859c6a48b0e.get_Culture()" />
+<Entry OldName="NMixerProNET.My.Resources.Resources.set_Culture(CultureInfo Value)" NewName="A.c28fce7d1b5c3a8bb66418859c6a48b0e.set_Culture(CultureInfo Value)" />
+<Entry OldName="NMixerProNET.My.Resources.Resources.get_knob_v_disabled()" NewName="A.c28fce7d1b5c3a8bb66418859c6a48b0e.get_knob_v_disabled()" />
+<Entry OldName="NMixerProNET.My.Resources.Resources.get_knob_v_normal_focus()" NewName="A.c28fce7d1b5c3a8bb66418859c6a48b0e.get_knob_v_normal_focus()" />
+<Entry OldName="NMixerProNET.My.Resources.Resources.get_knob_v_normal_unfocus()" NewName="A.c28fce7d1b5c3a8bb66418859c6a48b0e.get_knob_v_normal_unfocus()" />
+<Entry OldName="NMixerProNET.My.Resources.Resources.get_knob_v_over()" NewName="A.c28fce7d1b5c3a8bb66418859c6a48b0e.get_knob_v_over()" />
+<Entry OldName="VB$AnonymousDelegate_4..ctor(Object TargetObject, IntPtr TargetMethod)" NewName="A.cabab12eeb1e59559b4e2cfa07e318c1b..ctor(Object TargetObject, IntPtr TargetMethod)" />
+<Entry OldName="VB$AnonymousDelegate_4.BeginInvoke(AsyncCallback DelegateCallback, Object DelegateAsyncState)" NewName="A.cabab12eeb1e59559b4e2cfa07e318c1b.BeginInvoke(AsyncCallback DelegateCallback, Object DelegateAsyncState)" />
+<Entry OldName="VB$AnonymousDelegate_4.EndInvoke(IAsyncResult DelegateAsyncResult)" NewName="A.cabab12eeb1e59559b4e2cfa07e318c1b.EndInvoke(IAsyncResult DelegateAsyncResult)" />
+<Entry OldName="VB$AnonymousDelegate_4.Invoke()" NewName="A.cabab12eeb1e59559b4e2cfa07e318c1b.Invoke()" />
+<Entry OldName="NMixerProNET.My.MyApplication" NewName="A.cd86515d0be1bf33f4ab939dba3f6aae0" />
+<Entry OldName="NMixerProNET.My.MyComputer" NewName="A.cc8ce249d5fc85accc3e3265b81ae5f7c" />
+<Entry OldName="NMixerProNET.My.MyProject+MyWebServices" NewName="A.c918519dfcfd5779b1ae6b09bb91342c5+c7fbe920ce2e318556f263f576373b8d9" />
+<Entry OldName="NMixerProNET.My.MyProject+ThreadSafeObjectProvider`1" NewName="A.c918519dfcfd5779b1ae6b09bb91342c5+c4439b942c7ff7b091381dd31b66adf0b`1" />
+<Entry OldName="NMixerProNET.My.MyProject" NewName="A.c918519dfcfd5779b1ae6b09bb91342c5" />
+<Entry OldName="NMixerProNET.VolumeFader+Modes" NewName="NMixerProNET.VolumeFader+cd0ae6c2d8cb51ac43d49ce384145247a" />
+<Entry OldName="NMixerProNET.VolumeFader+ControlTypes" NewName="NMixerProNET.VolumeFader+c27d3a746c93ddb0277ecfed75b6b1417" />
+<Entry OldName="NMixerProNET.CCrypt" NewName="A.c47a42f6fb81f5728879d9de8f4c5845c" />
+<Entry OldName="NMixerProNET.modAPI+MIXERCONTROLDETAILS_UNSIGNED" NewName="A.c6b7df133f05363b66dec3da9f164fe8e+cedacb36581067da3eaa426bc803ebcaa" />
+<Entry OldName="NMixerProNET.modAPI+MIXERCONTROLDETAILS_SIGNED" NewName="A.c6b7df133f05363b66dec3da9f164fe8e+ce0a6deb2bf49534a25df4f06c12ed0ca" />
+<Entry OldName="NMixerProNET.modAPI+MIXERCONTROLDETAILS_BOOLEAN" NewName="A.c6b7df133f05363b66dec3da9f164fe8e+c7715f73b48556ab1ad0f7e3bcb6fb501" />
+<Entry OldName="NMixerProNET.modAPI+MIXERCONTROLDETAILS_LISTTEXT" NewName="A.c6b7df133f05363b66dec3da9f164fe8e+c88845e77a5142cd870108d2bb18fbe05" />
+<Entry OldName="NMixerProNET.modAPI+MIXERCONTROL" NewName="A.c6b7df133f05363b66dec3da9f164fe8e+cf276a8e0e6a1e76f9491803b60d2c706" />
+<Entry OldName="NMixerProNET.modAPI+MIXERCAPS" NewName="A.c6b7df133f05363b66dec3da9f164fe8e+c37fd2736f6a1973d32510e105628ddd3" />
+<Entry OldName="NMixerProNET.modAPI+MIXERLINECONTROLS" NewName="A.c6b7df133f05363b66dec3da9f164fe8e+c1e05845d70a5659b228ab98cc4c65044" />
+<Entry OldName="NMixerProNET.modAPI+Target" NewName="A.c6b7df133f05363b66dec3da9f164fe8e+cc0fe91bc194c5232e29ac1c7dbf5b188" />
+<Entry OldName="NMixerProNET.modAPI+MIXERLINE" NewName="A.c6b7df133f05363b66dec3da9f164fe8e+c89a7f0f084ba093bf8a80b5b4c251352" />
+<Entry OldName="NMixerProNET.modAPI+MIXERCONTROLDETAILS" NewName="A.c6b7df133f05363b66dec3da9f164fe8e+c17ca5596004817c0cbc1dcf5d664f188" />
+<Entry OldName="NMixerProNET.modAPI" NewName="A.c6b7df133f05363b66dec3da9f164fe8e" />
+<Entry OldName="NMixerProNET.MsgHnd" NewName="A.cdb034877b2b66c2136b6fffe260a4841" />
+<Entry OldName="NMixerProNET.My.Resources.Resources" NewName="A.c28fce7d1b5c3a8bb66418859c6a48b0e" />
+<Entry OldName="VB$AnonymousDelegate_4" NewName="A.cabab12eeb1e59559b4e2cfa07e318c1b" />
+<Assembly Name="MixerProNET"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="NMixerProNET.My.MyApplication" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Type Token="33554436" Name="NMixerProNET.My.MyComputer" />
+<Method Token="100663300" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Type Token="33554437" Name="NMixerProNET.My.MyProject" />
+<Method Token="100663301" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663302" Name="get_Computer" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663303" Name="get_Application" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663304" Name="get_User" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663305" Name="get_WebServices" Variables="V_0;" ParamCnt="0" />
+<Field Token="67108865" Name="m_ComputerObjectProvider" />
+<Field Token="67108866" Name="m_AppObjectProvider" />
+<Field Token="67108867" Name="m_UserObjectProvider" />
+<Field Token="67108868" Name="m_MyWebServicesObjectProvider" />
+<Type Token="33554439" Name="NMixerProNET.My.MyProject/MyWebServices" />
+<Method Token="100663312" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663313" Name="Equals" Variables="this;o;V_0;" ParamCnt="2" />
+<Method Token="100663314" Name="GetHashCode" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663315" Name="GetType" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663316" Name="ToString" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663317" Name="Create__Instance__" Variables="instance;V_0;" ParamCnt="1" />
+<Method Token="100663318" Name="Dispose__Instance__" Variables="this;instance;V_0;" ParamCnt="2" />
+<Type Token="33554440" Name="NMixerProNET.My.MyProject/ThreadSafeObjectProvider`1" />
+<Method Token="100663319" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663320" Name="get_GetInstance" Variables="this;V_0;V_1;V_2;" ParamCnt="1" />
+<Field Token="67108870" Name="m_Context" />
+<Type Token="33554441" Name="NMixerProNET.CBinding" />
+<Method Token="100663321" Name=".ctor" Variables="this;c;" ParamCnt="2" />
+<Method Token="100663322" Name="UpdateValueFromBoundObj" Variables="this;sender;e;V_0;V_1;V_2;" ParamCnt="3" />
+<Method Token="100663323" Name="UpdateBoundObjValue" Variables="this;force;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663324" Name="SafeUpdateBoundObjValue" Variables="this;V_0;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663325" Name="ConvertFromPropertyValue" Variables="this;value;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663326" Name="ConvertToPropertyValue" Variables="this;value;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663327" Name="get_IsBound" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663328" Name="Define" Variables="this;control;propertyName;eventName;scale;V_0;V_1;V_2;" ParamCnt="5" />
+<Method Token="100663329" Name="Remove" Variables="this;" ParamCnt="1" />
+<Method Token="100663330" Name="Dispose" Variables="this;" ParamCnt="1" />
+<Method Token="100663331" Name="_Lambda$__17" Variables="this;a0;" ParamCnt="2" />
+<Method Token="100663332" Name="_Lambda$__18" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67108871" Name="pControlObject" />
+<Field Token="67108872" Name="pProperty" />
+<Field Token="67108873" Name="pEvent" />
+<Field Token="67108874" Name="pMixerControl" />
+<Field Token="67108875" Name="mIsBound" />
+<Field Token="67108876" Name="disableEvent" />
+<Field Token="67108877" Name="pEventHnd" />
+<Field Token="67108878" Name="mScale" />
+<Field Token="67108879" Name="pControlObjectMinimum" />
+<Field Token="67108880" Name="pControlObjectMaximum" />
+<Field Token="67108881" Name="isReady" />
+<Field Token="67108882" Name="initialValue" />
+<Field Token="67108883" Name="delayInitTimer" />
+<Type Token="33554442" Name="NMixerProNET.CBinding/Scale" />
+<Method Token="100663333" Name=".ctor" Variables="this;mode;min;max;steps;" ParamCnt="5" />
+<Method Token="100663334" Name="get_Mode" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663335" Name="set_Mode" Variables="this;AutoPropertyValue;" ParamCnt="2" />
+<Method Token="100663336" Name="get_Minimum" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663337" Name="set_Minimum" Variables="this;AutoPropertyValue;" ParamCnt="2" />
+<Method Token="100663338" Name="get_Maximum" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663339" Name="set_Maximum" Variables="this;AutoPropertyValue;" ParamCnt="2" />
+<Method Token="100663340" Name="get_Steps" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663341" Name="set_Steps" Variables="this;AutoPropertyValue;" ParamCnt="2" />
+<Field Token="67108884" Name="_Mode" />
+<Field Token="67108885" Name="_Minimum" />
+<Field Token="67108886" Name="_Maximum" />
+<Field Token="67108887" Name="_Steps" />
+<Type Token="33554443" Name="NMixerProNET.CBinding/Scale/ScaleMode" />
+<Field Token="67108888" Name="value__" />
+<Field Token="67108889" Name="Linear" />
+<Field Token="67108890" Name="Logarithmic" />
+<Type Token="33554444" Name="NMixerProNET.CControl" />
+<Method Token="100663342" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663343" Name="get_Tag" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663344" Name="set_Tag" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663345" Name="get_UniformValue" Variables="this;V_0;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663346" Name="set_UniformValue" Variables="this;newValue;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663347" Name="get_Steps" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663348" Name="set_Steps" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663349" Name="get_Parent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663350" Name="set_Parent" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663351" Name="get_IsValid" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663352" Name="set_IsValid" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663353" Name="get_Enabled" Variables="this;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663354" Name="set_phmx" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663355" Name="get_Index" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663356" Name="set_Index" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663357" Name="get_LineInfo" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663358" Name="set_LineInfo" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663359" Name="get_ControlInfo" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663360" Name="set_ControlInfo" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663361" Name="get_ControlClass" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663362" Name="get_Min" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663363" Name="set_Min" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663364" Name="get_Max" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663365" Name="set_Max" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663366" Name="get_Value" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663367" Name="set_Value" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663368" Name="get_ControlType" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663369" Name="set_ControlType" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663370" Name="get_LongName" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663371" Name="set_LongName" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663372" Name="get_ShortName" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663373" Name="set_ShortName" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663374" Name="get_ID" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663375" Name="set_ID" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663376" Name="get_CtrlItems" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663377" Name="set_CtrlItems" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663378" Name="Dispose" Variables="this;" ParamCnt="1" />
+<Method Token="100663379" Name="KillTimers" Variables="this;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663380" Name="CreateTimer" Variables="this;tmrEventID;" ParamCnt="2" />
+<Method Token="100663381" Name="GetItems" Variables="this;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="1" />
+<Method Token="100663382" Name="GetControlValue" Variables="this;IsSubItem;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;" ParamCnt="2" />
+<Method Token="100663383" Name="SetControlValue" Variables="this;v;IsSubItem;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="3" />
+<Method Token="100663384" Name="ToString" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67108891" Name="Key" />
+<Field Token="67108892" Name="timers" />
+<Field Token="67108893" Name="IsPeakMeter" />
+<Field Token="67108894" Name="mvarCtrlItems" />
+<Field Token="67108895" Name="mvarID" />
+<Field Token="67108896" Name="mvarShortName" />
+<Field Token="67108897" Name="mvarLongName" />
+<Field Token="67108898" Name="mvarControlType" />
+<Field Token="67108899" Name="mvarMax" />
+<Field Token="67108900" Name="mvarMin" />
+<Field Token="67108901" Name="mvarctrlinfo" />
+<Field Token="67108902" Name="mvarlineinfo" />
+<Field Token="67108903" Name="mvarIndex" />
+<Field Token="67108904" Name="mvarphmx" />
+<Field Token="67108905" Name="mvarIsValid" />
+<Field Token="67108906" Name="mvarParent" />
+<Field Token="67108907" Name="mvarSteps" />
+<Field Token="67108908" Name="mvarTag" />
+<Field Token="67108909" Name="Binding" />
+<Type Token="33554445" Name="NMixerProNET.CControl/ControlTypeConstants" />
+<Field Token="67108910" Name="value__" />
+<Field Token="67108911" Name="ctrltcNULL" />
+<Field Token="67108912" Name="ctrltcFADER" />
+<Field Token="67108913" Name="ctrltcBASS" />
+<Field Token="67108914" Name="ctrltcTREBLE" />
+<Field Token="67108915" Name="ctrltcBOOLEAN" />
+<Field Token="67108916" Name="ctrltcBOOLEANMETER" />
+<Field Token="67108917" Name="ctrltcBUTTON" />
+<Field Token="67108918" Name="ctrltcCUSTOM" />
+<Field Token="67108919" Name="ctrltcDECIBELS" />
+<Field Token="67108920" Name="ctrltcEQUALIZER" />
+<Field Token="67108921" Name="ctrltcLOUDNESS" />
+<Field Token="67108922" Name="ctrltcMICROTIME" />
+<Field Token="67108923" Name="ctrltcMILLITIME" />
+<Field Token="67108924" Name="ctrltcMULTIPLESELECT" />
+<Field Token="67108925" Name="ctrltcMIXER" />
+<Field Token="67108926" Name="ctrltcMONO" />
+<Field Token="67108927" Name="ctrltcMUTE" />
+<Field Token="67108928" Name="ctrltcSINGLESELECT" />
+<Field Token="67108929" Name="ctrltcMUX" />
+<Field Token="67108930" Name="ctrltcONOFF" />
+<Field Token="67108931" Name="ctrltcSLIDER" />
+<Field Token="67108932" Name="ctrltcPAN" />
+<Field Token="67108933" Name="ctrltcSIGNEDMETER" />
+<Field Token="67108934" Name="ctrltcPEAKMETER" />
+<Field Token="67108935" Name="ctrltcPERCENT" />
+<Field Token="67108936" Name="ctrltcQSOUNDPAN" />
+<Field Token="67108937" Name="ctrltcSIGNED" />
+<Field Token="67108938" Name="ctrltcSTEREOENH" />
+<Field Token="67108939" Name="ctrltcUNSIGNED" />
+<Field Token="67108940" Name="ctrltcUNSIGNEDMETER" />
+<Field Token="67108941" Name="ctrltcVOLUME" />
+<Type Token="33554446" Name="NMixerProNET.CControl/ControlClassConstants" />
+<Field Token="67108942" Name="value__" />
+<Field Token="67108943" Name="cccCLASS_CUSTOM" />
+<Field Token="67108944" Name="cccCLASS_FADER" />
+<Field Token="67108945" Name="cccCLASS_LIST" />
+<Field Token="67108946" Name="cccCLASS_MASK" />
+<Field Token="67108947" Name="cccCLASS_METER" />
+<Field Token="67108948" Name="cccCLASS_NUMBER" />
+<Field Token="67108949" Name="cccCLASS_SLIDER" />
+<Field Token="67108950" Name="cccCLASS_SWITCH" />
+<Field Token="67108951" Name="cccCLASS_TIME" />
+<Type Token="33554448" Name="NMixerProNET.CCoreAudio" />
+<Method Token="100663388" Name=".ctor" Variables="this;mixerPro;" ParamCnt="2" />
+<Method Token="100663389" Name="get_RequiresCoreAudio" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663390" Name="get_Mixers" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663391" Name="EnumDevices" Variables="this;flow;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663392" Name="Dispose" Variables="this;disposing;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663393" Name="Dispose" Variables="this;" ParamCnt="1" />
+<Method Token="100663394" Name="Finalize" Variables="this;" ParamCnt="1" />
+<Field Token="67108953" Name="mMixers" />
+<Field Token="67108954" Name="disposedValue" />
+<Type Token="33554449" Name="NMixerProNET.CCoreAudio/CControl" />
+<Method Token="100663395" Name=".ctor" Variables="this;parent;part;V_0;" ParamCnt="3" />
+<Method Token="100663396" Name=".ctor" Variables="this;parent;session;" ParamCnt="3" />
+<Method Token="100663397" Name=".ctor" Variables="this;device;" ParamCnt="2" />
+<Method Token="100663398" Name="get_Name" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663399" Name="get_ControlTypeName" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663400" Name="get_Control" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663401" Name="get_Parent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663402" Name="get_LastErrorMessage" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663403" Name="IsBasedOnPart" Variables="this;part;V_0;" ParamCnt="2" />
+<Method Token="100663404" Name="GenerateControls" Variables="this;V_0;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663405" Name="UpdateBindings" Variables="this;updateVolume;updateMute;updateLoudness;updatePeakMeter;" ParamCnt="5" />
+<Method Token="100663406" Name="UpdatePeakMeter" Variables="this;state;" ParamCnt="2" />
+<Method Token="100663407" Name="get_ControlType" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663408" Name="get_ControlMute" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663409" Name="get_ControlVolume" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663410" Name="get_ControlLoudness" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663411" Name="get_ControlPeakMeter" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663412" Name="get_SubControls" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663413" Name="ToString" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663414" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663415" Name="Dispose" Variables="this;" ParamCnt="1" />
+<Method Token="100663416" Name="Finalize" Variables="this;" ParamCnt="1" />
+<Method Token="100663417" Name="_Lambda$__5" Variables="this;a0;" ParamCnt="2" />
+<Method Token="100663418" Name="_Lambda$__6" Variables="this;" ParamCnt="1" />
+<Method Token="100663419" Name="_Lambda$__7" Variables="this;a0;" ParamCnt="2" />
+<Method Token="100663420" Name="_Lambda$__8" Variables="this;" ParamCnt="1" />
+<Method Token="100663421" Name="_Lambda$__9" Variables="this;a0;" ParamCnt="2" />
+<Method Token="100663422" Name="_Lambda$__10" Variables="this;" ParamCnt="1" />
+<Method Token="100663423" Name="_Lambda$__11" Variables="this;a0;" ParamCnt="2" />
+<Method Token="100663424" Name="_Lambda$__12" Variables="this;" ParamCnt="1" />
+<Method Token="100663425" Name="_Lambda$__13" Variables="this;a0;a1;a2;" ParamCnt="4" />
+<Method Token="100663426" Name="_Lambda$__14" Variables="this;" ParamCnt="1" />
+<Method Token="100663427" Name="_Lambda$__15" Variables="this;a0;" ParamCnt="2" />
+<Method Token="100663428" Name="_Lambda$__16" Variables="this;" ParamCnt="1" />
+<Field Token="67108955" Name="mName" />
+<Field Token="67108956" Name="mPart" />
+<Field Token="67108957" Name="mParent" />
+<Field Token="67108958" Name="mControl" />
+<Field Token="67108959" Name="mControlType" />
+<Field Token="67108960" Name="mTypeName" />
+<Field Token="67108961" Name="mSubControls" />
+<Field Token="67108962" Name="mControlVolume" />
+<Field Token="67108963" Name="mControlMute" />
+<Field Token="67108964" Name="mControlLoudness" />
+<Field Token="67108965" Name="mControlPeakMeter" />
+<Field Token="67108966" Name="mLastErrorMessage" />
+<Field Token="67108967" Name="timerRefreshPeakMeter" />
+<Field Token="67108968" Name="isInit" />
+<Field Token="67108969" Name="disposedValue" />
+<Type Token="33554450" Name="NMixerProNET.CCoreAudio/CLine" />
+<Method Token="100663429" Name=".ctor" Variables="this;parent;part;flow;lastControl;" ParamCnt="5" />
+<Method Token="100663430" Name=".ctor" Variables="this;parent;mixer;" ParamCnt="3" />
+<Method Token="100663431" Name=".ctor" Variables="this;parent;session;" ParamCnt="3" />
+<Method Token="100663432" Name="GetControls" Variables="this;part;flow;V_0;V_1;V_2;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663433" Name="get_Parent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663434" Name="get_Name" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663435" Name="get_LineType" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663436" Name="get_Controls" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663437" Name="ToString" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663438" Name="Dispose" Variables="this;disposing;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663439" Name="Dispose" Variables="this;" ParamCnt="1" />
+<Method Token="100663440" Name="Finalize" Variables="this;" ParamCnt="1" />
+<Field Token="67108970" Name="mControls" />
+<Field Token="67108971" Name="mPart" />
+<Field Token="67108972" Name="mName" />
+<Field Token="67108973" Name="mSubTypeName" />
+<Field Token="67108974" Name="lastControl" />
+<Field Token="67108975" Name="mParent" />
+<Field Token="67108976" Name="disposedValue" />
+<Type Token="33554452" Name="NMixerProNET.CCoreAudio/CMixer" />
+<Method Token="100663446" Name=".ctor" Variables="this;mixer;flow;V_0;V_1;V_2;V_3;" ParamCnt="3" />
+<Method Token="100663447" Name="add_SessionChanged" Variables="this;obj;" ParamCnt="2" />
+<Method Token="100663448" Name="remove_SessionChanged" Variables="this;obj;" ParamCnt="2" />
+<Method Token="100663449" Name="GetSessions" Variables="this;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;" ParamCnt="1" />
+<Method Token="100663450" Name="GetLines" Variables="this;part;flow;V_0;V_1;V_2;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663451" Name="get_Enabled" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663452" Name="get_Name" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663453" Name="get_DeviceName" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663454" Name="get_DataFlow" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663455" Name="get_Lines" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663456" Name="get_Sessions" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663457" Name="get_Volume" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663458" Name="get_Mute" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663459" Name="get_PeakMeter" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663460" Name="get_Line" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663461" Name="get_Selected" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663462" Name="set_Selected" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663463" Name="ToString" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663464" Name="Dispose" Variables="this;disposing;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663465" Name="Dispose" Variables="this;" ParamCnt="1" />
+<Method Token="100663466" Name="Finalize" Variables="this;" ParamCnt="1" />
+<Method Token="100663467" Name="_Lambda$__1" Variables="this;sender;newDisplayName;V_0;" ParamCnt="3" />
+<Method Token="100663468" Name="_Lambda$__2" Variables="this;sender;disconnectReason;V_0;" ParamCnt="3" />
+<Method Token="100663469" Name="_Lambda$__3" Variables="this;sender;newState;V_0;" ParamCnt="3" />
+<Method Token="100663470" Name="_Lambda$__4" Variables="this;sender;newSession;V_0;" ParamCnt="3" />
+<Field Token="67108982" Name="mLines" />
+<Field Token="67108983" Name="mSessions" />
+<Field Token="67108984" Name="mMixer" />
+<Field Token="67108985" Name="mDeviceName" />
+<Field Token="67108986" Name="mDataFlow" />
+<Field Token="67108987" Name="mIsEnabled" />
+<Field Token="67108988" Name="mName" />
+<Field Token="67108989" Name="mMasterLine" />
+<Field Token="67108990" Name="isFirst" />
+<Field Token="67108991" Name="processesChache" />
+<Field Token="67108992" Name="SessionChangedEvent" />
+<Field Token="67108993" Name="lastControl" />
+<Field Token="67108994" Name="disposedValue" />
+<Type Token="33554453" Name="NMixerProNET.CCoreAudio/CSession" />
+<Method Token="100663471" Name=".ctor" Variables="this;parent;session;" ParamCnt="3" />
+<Method Token="100663472" Name="add_NameChanged" Variables="this;obj;" ParamCnt="2" />
+<Method Token="100663473" Name="remove_NameChanged" Variables="this;obj;" ParamCnt="2" />
+<Method Token="100663474" Name="add_Disconnected" Variables="this;obj;" ParamCnt="2" />
+<Method Token="100663475" Name="remove_Disconnected" Variables="this;obj;" ParamCnt="2" />
+<Method Token="100663476" Name="add_StateChanged" Variables="this;obj;" ParamCnt="2" />
+<Method Token="100663477" Name="remove_StateChanged" Variables="this;obj;" ParamCnt="2" />
+<Method Token="100663478" Name="get_Name" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663479" Name="get_ProcessId" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663480" Name="GetSessionName" Variables="session;errorChar;V_0;V_1;V_2;V_3;V_4;" ParamCnt="2" />
+<Method Token="100663481" Name="get_ControlMute" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663482" Name="get_ControlVolume" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663483" Name="get_ControlPeakMeter" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663484" Name="get_Line" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663485" Name="ToString" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663486" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663487" Name="Dispose" Variables="this;" ParamCnt="1" />
+<Method Token="100663488" Name="_Lambda$__19" Variables="this;sender;newDisplayName;V_0;" ParamCnt="3" />
+<Method Token="100663489" Name="_Lambda$__20" Variables="this;sender;disconnectReason;V_0;" ParamCnt="3" />
+<Method Token="100663490" Name="_Lambda$__21" Variables="this;sender;newState;V_0;" ParamCnt="3" />
+<Field Token="67108995" Name="mParent" />
+<Field Token="67108996" Name="mSession" />
+<Field Token="67108997" Name="mLine" />
+<Field Token="67108998" Name="NameChangedEvent" />
+<Field Token="67108999" Name="DisconnectedEvent" />
+<Field Token="67109000" Name="StateChangedEvent" />
+<Field Token="67109001" Name="disposedValue" />
+<Type Token="33554454" Name="NMixerProNET.CCoreAudio/CControl/ControlTypeConstants" />
+<Field Token="67109002" Name="value__" />
+<Field Token="67109003" Name="Part" />
+<Field Token="67109004" Name="Session" />
+<Field Token="67109005" Name="AudioEndPoint" />
+<Field Token="67109006" Name="Unsupported" />
+<Type Token="33554455" Name="NMixerProNET.CCoreAudio/CMixer/SessionChangedEventHandler" />
+<Method Token="100663491" Name=".ctor" Variables="this;TargetObject;TargetMethod;" ParamCnt="3" />
+<Method Token="100663492" Name="BeginInvoke" Variables="this;sender;session;DelegateCallback;DelegateAsyncState;" ParamCnt="5" />
+<Method Token="100663493" Name="EndInvoke" Variables="this;DelegateAsyncResult;" ParamCnt="2" />
+<Method Token="100663494" Name="Invoke" Variables="this;sender;session;" ParamCnt="3" />
+<Type Token="33554456" Name="NMixerProNET.CCoreAudio/CSession/NameChangedEventHandler" />
+<Method Token="100663495" Name=".ctor" Variables="this;TargetObject;TargetMethod;" ParamCnt="3" />
+<Method Token="100663496" Name="BeginInvoke" Variables="this;sender;newName;DelegateCallback;DelegateAsyncState;" ParamCnt="5" />
+<Method Token="100663497" Name="EndInvoke" Variables="this;DelegateAsyncResult;" ParamCnt="2" />
+<Method Token="100663498" Name="Invoke" Variables="this;sender;newName;" ParamCnt="3" />
+<Type Token="33554457" Name="NMixerProNET.CCoreAudio/CSession/DisconnectedEventHandler" />
+<Method Token="100663499" Name=".ctor" Variables="this;TargetObject;TargetMethod;" ParamCnt="3" />
+<Method Token="100663500" Name="BeginInvoke" Variables="this;sender;reason;DelegateCallback;DelegateAsyncState;" ParamCnt="5" />
+<Method Token="100663501" Name="EndInvoke" Variables="this;DelegateAsyncResult;" ParamCnt="2" />
+<Method Token="100663502" Name="Invoke" Variables="this;sender;reason;" ParamCnt="3" />
+<Type Token="33554458" Name="NMixerProNET.CCoreAudio/CSession/StateChangedEventHandler" />
+<Method Token="100663503" Name=".ctor" Variables="this;TargetObject;TargetMethod;" ParamCnt="3" />
+<Method Token="100663504" Name="BeginInvoke" Variables="this;sender;newState;DelegateCallback;DelegateAsyncState;" ParamCnt="5" />
+<Method Token="100663505" Name="EndInvoke" Variables="this;DelegateAsyncResult;" ParamCnt="2" />
+<Method Token="100663506" Name="Invoke" Variables="this;sender;newState;" ParamCnt="3" />
+<Type Token="33554459" Name="NMixerProNET.CCoreAudio/CControl/CControlLoudness" />
+<Method Token="100663507" Name=".ctor" Variables="this;parent;control;controlType;V_0;" ParamCnt="4" />
+<Method Token="100663508" Name="get_UniformValue" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663509" Name="set_UniformValue" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663510" Name="get_Loudness" Variables="this;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663511" Name="set_Loudness" Variables="this;value;V_0;" ParamCnt="2" />
+<Field Token="67109007" Name="mAudioLoudness" />
+<Field Token="67109008" Name="lastState" />
+<Type Token="33554460" Name="NMixerProNET.CCoreAudio/CControl/CControlMute" />
+<Method Token="100663512" Name=".ctor" Variables="this;parent;control;controlType;V_0;" ParamCnt="4" />
+<Method Token="100663513" Name="get_UniformValue" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663514" Name="set_UniformValue" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663515" Name="get_Mute" Variables="this;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663516" Name="set_Mute" Variables="this;value;V_0;" ParamCnt="2" />
+<Field Token="67109009" Name="mAudioMute" />
+<Field Token="67109010" Name="mSimpleAudioVolume" />
+<Field Token="67109011" Name="mAudioEndpointVolume" />
+<Field Token="67109012" Name="lastState" />
+<Type Token="33554461" Name="NMixerProNET.CCoreAudio/CControl/CControlObject" />
+<Method Token="100663517" Name=".ctor" Variables="this;parent;control;controlType;V_0;" ParamCnt="4" />
+<Method Token="100663518" Name="add_ControlChanged" Variables="this;obj;" ParamCnt="2" />
+<Method Token="100663519" Name="remove_ControlChanged" Variables="this;obj;" ParamCnt="2" />
+<Method Token="100663520" Name="get_Parent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663521" Name="get_Name" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663522" Name="DoRaiseEvent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663523" Name="get_ControlType" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67109013" Name="mControlType" />
+<Field Token="67109014" Name="mTimer" />
+<Field Token="67109015" Name="mName" />
+<Field Token="67109016" Name="mParent" />
+<Field Token="67109017" Name="Binding" />
+<Field Token="67109018" Name="ControlChangedEvent" />
+<Type Token="33554462" Name="NMixerProNET.CCoreAudio/CControl/CControlPeakMeter" />
+<Method Token="100663524" Name=".ctor" Variables="this;parent;control;controlType;V_0;" ParamCnt="4" />
+<Method Token="100663525" Name="get_UniformValue" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663526" Name="get_PeakLevel" Variables="this;V_0;V_1;V_2;V_3;V_4;V_5;" ParamCnt="1" />
+<Method Token="100663527" Name="get_PeakLevel" Variables="this;channel;V_0;" ParamCnt="2" />
+<Method Token="100663528" Name="get_Channels" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67109019" Name="mAudioPeakMeter" />
+<Field Token="67109020" Name="mAudioMeterInformation" />
+<Field Token="67109021" Name="mChannels" />
+<Type Token="33554463" Name="NMixerProNET.CCoreAudio/CControl/CControlVolume" />
+<Method Token="100663529" Name=".ctor" Variables="this;parent;control;controlType;V_0;V_1;V_2;V_3;V_4;V_5;V_6;" ParamCnt="4" />
+<Method Token="100663530" Name="get_Channels" Variables="this;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663531" Name="get_Volume" Variables="this;V_0;V_1;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663532" Name="set_Volume" Variables="this;value;V_0;" ParamCnt="2" />
+<Method Token="100663533" Name="get_Volume" Variables="this;channel;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663534" Name="set_Volume" Variables="this;channel;value;V_0;" ParamCnt="3" />
+<Method Token="100663535" Name="get_UniformValue" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663536" Name="set_UniformValue" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663537" Name="get_Min" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663538" Name="get_Max" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663539" Name="get_Steps" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67109022" Name="mAudioVolumeLevel" />
+<Field Token="67109023" Name="mSimpleAudioVolume" />
+<Field Token="67109024" Name="mAudioEndpointVolume" />
+<Field Token="67109025" Name="mMinValue" />
+<Field Token="67109026" Name="mMaxValue" />
+<Field Token="67109027" Name="mSteps" />
+<Field Token="67109028" Name="mChannels" />
+<Type Token="33554464" Name="NMixerProNET.CCoreAudio/CControl/CControlObject/ControlChangedEventHandler" />
+<Method Token="100663540" Name=".ctor" Variables="this;TargetObject;TargetMethod;" ParamCnt="3" />
+<Method Token="100663541" Name="BeginInvoke" Variables="this;sender;DelegateCallback;DelegateAsyncState;" ParamCnt="4" />
+<Method Token="100663542" Name="EndInvoke" Variables="this;DelegateAsyncResult;" ParamCnt="2" />
+<Method Token="100663543" Name="Invoke" Variables="this;sender;" ParamCnt="2" />
+<Type Token="33554465" Name="NMixerProNET.LineContainer" />
+<Method Token="100663544" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663545" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663546" Name="InitializeComponent" Variables="this;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="1" />
+<Method Token="100663547" Name="get_VfControl" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663548" Name="set_VfControl" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663549" Name="get_CoreAudioControl" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663550" Name="set_CoreAudioControl" Variables="this;value;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663551" Name="get_Value" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663552" Name="set_Value" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663553" Name="MasterVolumeToLinear" Variables="this;V_0;V_1;V_2;V_3;V_4;V_5;" ParamCnt="1" />
+<Method Token="100663554" Name="AdjustVolumeFader" Variables="this;sender;" ParamCnt="2" />
+<Method Token="100663555" Name="SafeAdjustVolumeFader" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663556" Name="OnPaintBackground" Variables="this;pevent;V_0;V_1;" ParamCnt="2" />
+<Field Token="67109029" Name="components" />
+<Field Token="67109030" Name="_VfControl" />
+<Field Token="67109031" Name="masterVolume" />
+<Field Token="67109032" Name="sessionControl" />
+<Field Token="67109033" Name="isSession" />
+<Field Token="67109034" Name="rangeRect" />
+<Type Token="33554466" Name="NMixerProNET.VolumeFader" />
+<Method Token="100663557" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663558" Name=".ctor" Variables="this;coreAudioControl;" ParamCnt="2" />
+<Method Token="100663559" Name=".ctor" Variables="this;coreAudioControl;" ParamCnt="2" />
+<Method Token="100663560" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663561" Name="InitializeComponent" Variables="this;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663562" Name="get_TickStyle" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663563" Name="set_TickStyle" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663564" Name="get_IntegralChanges" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663565" Name="set_IntegralChanges" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663566" Name="get_PeakLevel" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663567" Name="set_PeakLevel" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663568" Name="get_CoreAudioControl" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663569" Name="set_CoreAudioControl" Variables="this;value;V_0;V_1;V_2;V_3;V_4;V_5;" ParamCnt="2" />
+<Method Token="100663570" Name="ForeceRefresh" Variables="this;sender;" ParamCnt="2" />
+<Method Token="100663571" Name="get_Orientation" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663572" Name="set_Orientation" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663573" Name="OnGotFocus" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663574" Name="OnEnabledChanged" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663575" Name="OnPaintBackground" Variables="this;pevent;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663576" Name="OnPaint" Variables="this;e;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663577" Name="DrawThumb" Variables="this;g;r;r1;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="4" />
+<Method Token="100663578" Name="ValueToPercentage" Variables="this;value;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663579" Name="DrawScale" Variables="this;g;r;r1;V_0;V_1;" ParamCnt="4" />
+<Method Token="100663580" Name="DrawVolumeIndicator" Variables="this;g;r;r1;state;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;" ParamCnt="5" />
+<Method Token="100663581" Name="DrawPeakMeter" Variables="this;g;r;state;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;" ParamCnt="4" />
+<Method Token="100663582" Name="VolumeFader_MouseMove" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663583" Name="OnValueChanged" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663584" Name="VolumeFader_ValueChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Field Token="67109035" Name="components" />
+<Field Token="67109036" Name="thumbRect" />
+<Field Token="67109037" Name="isOverThumb" />
+<Field Token="67109038" Name="rangeRect" />
+<Field Token="67109039" Name="cachedValue" />
+<Field Token="67109040" Name="hasPeakMeter" />
+<Field Token="67109041" Name="sessionControl" />
+<Field Token="67109042" Name="parentContainer" />
+<Field Token="67109043" Name="sessionControlHasMute" />
+<Field Token="67109044" Name="ctrlMax" />
+<Field Token="67109045" Name="ctrlMin" />
+<Field Token="67109046" Name="ctrlSteps" />
+<Field Token="67109047" Name="mIntegralChanges" />
+<Field Token="67109048" Name="mPeakLevel" />
+<Field Token="67109049" Name="mControl" />
+<Field Token="67109050" Name="mControlType" />
+<Type Token="33554467" Name="NMixerProNET.VolumeFader/Modes" />
+<Field Token="67109051" Name="value__" />
+<Field Token="67109052" Name="DisabledOrSession" />
+<Field Token="67109053" Name="Normal" />
+<Type Token="33554468" Name="NMixerProNET.VolumeFader/ControlTypes" />
+<Field Token="67109054" Name="value__" />
+<Field Token="67109055" Name="CControlVolume" />
+<Field Token="67109056" Name="CSession" />
+<Type Token="33554469" Name="NMixerProNET.CCtrlItem" />
+<Method Token="100663585" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663586" Name="get_Tag" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663587" Name="set_Tag" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663588" Name="get_Parent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663589" Name="set_Parent" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663590" Name="get_Value" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663591" Name="set_Value" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663592" Name="get_UniformValue" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663593" Name="set_UniformValue" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663594" Name="get_Index" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663595" Name="set_Index" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663596" Name="get_ItemName" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663597" Name="set_ItemName" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663598" Name="GetItemValue" Variables="this;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663599" Name="SetItemValue" Variables="this;vv;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663600" Name="Dispose" Variables="this;" ParamCnt="1" />
+<Method Token="100663601" Name="ToString" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67109057" Name="Key" />
+<Field Token="67109058" Name="mvarControlName" />
+<Field Token="67109059" Name="mvarIndex" />
+<Field Token="67109060" Name="mvarParent" />
+<Field Token="67109061" Name="mvarTag" />
+<Field Token="67109062" Name="Binding" />
+<Type Token="33554470" Name="NMixerProNET.CLine" />
+<Method Token="100663602" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663603" Name="ControlsByClass" Variables="this;controlClass;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663604" Name="ControlsByType" Variables="this;controlType;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663605" Name="get_Tag" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663606" Name="set_Tag" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663607" Name="get_Parent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663608" Name="set_Parent" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663609" Name="set_phmx" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663610" Name="get_Index" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663611" Name="set_Index" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663612" Name="get_DestinationID" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663613" Name="set_DestinationID" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663614" Name="get_ConnectedTo" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663615" Name="set_ConnectedTo" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663616" Name="get_LineType" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663617" Name="set_LineType" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663618" Name="set_LineInfo" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663619" Name="get_LongName" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663620" Name="set_LongName" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663621" Name="get_ShortName" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663622" Name="set_ShortName" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663623" Name="get_Channels" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663624" Name="set_Channels" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663625" Name="get_ComponentType" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663626" Name="set_ComponentType" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663627" Name="get_ID" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663628" Name="set_ID" Variables="this;value;V_0;" ParamCnt="2" />
+<Method Token="100663629" Name="get_Controls" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663630" Name="set_Controls" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663631" Name="Dispose" Variables="this;" ParamCnt="1" />
+<Method Token="100663632" Name="GetControls" Variables="this;col;FlagsOnlyForIndex;CtrlType;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;" ParamCnt="4" />
+<Method Token="100663633" Name="ToString" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67109063" Name="Key" />
+<Field Token="67109064" Name="mvarControls" />
+<Field Token="67109065" Name="mvarID" />
+<Field Token="67109066" Name="mvarComponentType" />
+<Field Token="67109067" Name="mvarChannels" />
+<Field Token="67109068" Name="mvarShortName" />
+<Field Token="67109069" Name="mvarLongName" />
+<Field Token="67109070" Name="mvarlineinfo" />
+<Field Token="67109071" Name="mvarLineType" />
+<Field Token="67109072" Name="mvarConnectedTo" />
+<Field Token="67109073" Name="mvarDestinationID" />
+<Field Token="67109074" Name="mvarIndex" />
+<Field Token="67109075" Name="mvarphmx" />
+<Field Token="67109076" Name="mvarParent" />
+<Field Token="67109077" Name="mvarTag" />
+<Type Token="33554471" Name="NMixerProNET.CLine/ComponentTypeConstants" />
+<Field Token="67109078" Name="value__" />
+<Field Token="67109079" Name="ctcDST_FIRST" />
+<Field Token="67109080" Name="ctcDST_DIGITAL" />
+<Field Token="67109081" Name="ctcDST_HEADPHONES" />
+<Field Token="67109082" Name="ctcDST_LAST" />
+<Field Token="67109083" Name="ctcDST_LINE" />
+<Field Token="67109084" Name="ctcDST_MONITOR" />
+<Field Token="67109085" Name="ctcDST_SPEAKERS" />
+<Field Token="67109086" Name="ctcDST_TELEPHONE" />
+<Field Token="67109087" Name="ctcDST_UNDEFINED" />
+<Field Token="67109088" Name="ctcDST_VOICEIN" />
+<Field Token="67109089" Name="ctcDST_WAVEIN" />
+<Field Token="67109090" Name="ctcSRC_FIRST" />
+<Field Token="67109091" Name="ctcSRC_DIGITAL" />
+<Field Token="67109092" Name="ctcSRC_LINE" />
+<Field Token="67109093" Name="ctcSRC_MICROPHONE" />
+<Field Token="67109094" Name="ctcSRC_SYNTHESIZER" />
+<Field Token="67109095" Name="ctcSRC_COMPACTDISC" />
+<Field Token="67109096" Name="ctcSRC_TELEPHONE" />
+<Field Token="67109097" Name="ctcSRC_PCSPEAKER" />
+<Field Token="67109098" Name="ctcSRC_WAVEOUT" />
+<Field Token="67109099" Name="ctcSRC_AUXILIARY" />
+<Field Token="67109100" Name="ctcSRC_ANALOG" />
+<Field Token="67109101" Name="ctcSRC_LAST" />
+<Field Token="67109102" Name="ctcSRC_UNDEFINED" />
+<Type Token="33554472" Name="NMixerProNET.CLine/LineTypeConstants" />
+<Field Token="67109103" Name="value__" />
+<Field Token="67109104" Name="ltcDestination" />
+<Field Token="67109105" Name="ltcSource" />
+<Type Token="33554473" Name="NMixerProNET.CMixer" />
+<Method Token="100663634" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663635" Name="LinesByConnection" Variables="this;id;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663636" Name="LinesByLineType" Variables="this;lineType;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663637" Name="LinesByComponentType" Variables="this;compType;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663638" Name="get_Tag" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663639" Name="set_Tag" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663640" Name="get_WinHWND" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663641" Name="set_WinHWND" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663642" Name="get_Index" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663643" Name="set_Index" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663644" Name="set_Destinations" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663645" Name="get_mixerHandler" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663646" Name="set_mixerHandler" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663647" Name="get_ProductID" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663648" Name="set_ProductID" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663649" Name="get_ManufacturerID" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663650" Name="set_ManufacturerID" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663651" Name="get_ID" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663652" Name="set_ID" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663653" Name="get_DriverVersion" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663654" Name="set_DriverVersion" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663655" Name="get_DeviceName" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663656" Name="set_DeviceName" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663657" Name="get_Lines" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663658" Name="set_Lines" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663659" Name="Dispose" Variables="this;" ParamCnt="1" />
+<Method Token="100663660" Name="GetLines" Variables="this;col;CompType;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;" ParamCnt="3" />
+<Method Token="100663661" Name="ToString" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67109106" Name="Key" />
+<Field Token="67109107" Name="CALLBACK_WINDOW" />
+<Field Token="67109108" Name="mvarLines" />
+<Field Token="67109109" Name="mvarDeviceName" />
+<Field Token="67109110" Name="mvarDriverVersion" />
+<Field Token="67109111" Name="mvarID" />
+<Field Token="67109112" Name="mvarManufacturerID" />
+<Field Token="67109113" Name="mvarProductID" />
+<Field Token="67109114" Name="mvarDestinations" />
+<Field Token="67109115" Name="mvarIndex" />
+<Field Token="67109116" Name="mvarphmx" />
+<Field Token="67109117" Name="mvarHWND" />
+<Field Token="67109118" Name="mvarTag" />
+<Type Token="33554474" Name="NMixerProNET.CMixerPro" />
+<Method Token="100663662" Name=".ctor" Variables="this;licenseKey;serialNumber;V_0;V_1;V_2;V_3;" ParamCnt="3" />
+<Method Token="100663663" Name="add_Changed" Variables="this;obj;" ParamCnt="2" />
+<Method Token="100663664" Name="remove_Changed" Variables="this;obj;" ParamCnt="2" />
+<Method Token="100663665" Name="add_AudioDevicesChange" Variables="this;obj;" ParamCnt="2" />
+<Method Token="100663666" Name="remove_AudioDevicesChange" Variables="this;obj;" ParamCnt="2" />
+<Method Token="100663667" Name="get_Version" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663668" Name="get_Tag" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663669" Name="set_Tag" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663670" Name="get_Mixers" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663671" Name="set_Mixers" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663672" Name="CheckForDeviceChanges" Variables="this;V_0;V_1;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663673" Name="Init" Variables="this;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663674" Name="Dispose" Variables="this;" ParamCnt="1" />
+<Method Token="100663675" Name="wProc" Variables="this;msg;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;" ParamCnt="2" />
+<Field Token="67109119" Name="mvarMixers" />
+<Field Token="67109120" Name="mvarHWND" />
+<Field Token="67109121" Name="frmMsgHnd" />
+<Field Token="67109122" Name="mvarTag" />
+<Field Token="67109123" Name="licenseKey" />
+<Field Token="67109124" Name="MM_MIXM_CONTROL_CHANGE" />
+<Field Token="67109125" Name="MM_MIXM_LINE_CHANGE" />
+<Field Token="67109126" Name="WM_TIMER" />
+<Field Token="67109127" Name="ChangedEvent" />
+<Field Token="67109128" Name="AudioDevicesChangeEvent" />
+<Type Token="33554475" Name="NMixerProNET.CMixerPro/ChangedEventHandler" />
+<Method Token="100663676" Name=".ctor" Variables="this;TargetObject;TargetMethod;" ParamCnt="3" />
+<Method Token="100663677" Name="BeginInvoke" Variables="this;mixerIndex;lineIndex;controlIndex;DelegateCallback;DelegateAsyncState;" ParamCnt="6" />
+<Method Token="100663678" Name="EndInvoke" Variables="this;DelegateAsyncResult;" ParamCnt="2" />
+<Method Token="100663679" Name="Invoke" Variables="this;mixerIndex;lineIndex;controlIndex;" ParamCnt="4" />
+<Type Token="33554476" Name="NMixerProNET.CMixerPro/AudioDevicesChangeEventHandler" />
+<Method Token="100663680" Name=".ctor" Variables="this;TargetObject;TargetMethod;" ParamCnt="3" />
+<Method Token="100663681" Name="BeginInvoke" Variables="this;DelegateCallback;DelegateAsyncState;" ParamCnt="3" />
+<Method Token="100663682" Name="EndInvoke" Variables="this;DelegateAsyncResult;" ParamCnt="2" />
+<Method Token="100663683" Name="Invoke" Variables="this;" ParamCnt="1" />
+<Type Token="33554477" Name="NMixerProNET.Controls" />
+<Method Token="100663684" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663685" Name="Add" Variables="this;c;" ParamCnt="2" />
+<Method Token="100663686" Name="Add" Variables="this;Key;ctrlinfo;lineinfo;mixerHandler;IsValid;pCtrl;sKey;V_0;V_1;V_2;V_3;" ParamCnt="8" />
+<Method Token="100663687" Name="get_Item" Variables="this;index;V_0;" ParamCnt="2" />
+<Method Token="100663688" Name="GetEnumerator" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663689" Name="Remove" Variables="this;obj;" ParamCnt="2" />
+<Method Token="100663690" Name="Dispose" Variables="this;" ParamCnt="1" />
+<Method Token="100663691" Name="get_Count" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663692" Name="get_IsSynchronized" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663693" Name="get_SyncRoot" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663694" Name="CopyTo" Variables="this;array;index;V_0;V_1;V_2;" ParamCnt="3" />
+<Field Token="67109129" Name="mCol" />
+<Type Token="33554478" Name="NMixerProNET.CtrlItems" />
+<Method Token="100663695" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663696" Name="Add" Variables="this;Key;ctrlName;pCtrl;sKey;V_0;V_1;" ParamCnt="5" />
+<Method Token="100663697" Name="get_Item" Variables="this;vntIndexKey;V_0;" ParamCnt="2" />
+<Method Token="100663698" Name="GetEnumerator" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663699" Name="Remove" Variables="this;obj;" ParamCnt="2" />
+<Method Token="100663700" Name="Dispose" Variables="this;" ParamCnt="1" />
+<Method Token="100663701" Name="get_Count" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663702" Name="get_IsSynchronized" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663703" Name="get_SyncRoot" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663704" Name="CopyTo" Variables="this;array;index;V_0;V_1;V_2;" ParamCnt="3" />
+<Field Token="67109130" Name="mCol" />
+<Type Token="33554479" Name="NMixerProNET.CCrypt" />
+<Method Token="100663705" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663706" Name="Decrypt" Variables="this;licenseKey;Password;SerialNumber;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;" ParamCnt="4" />
+<Method Token="100663707" Name="get_HashIt" Variables="this;sKey;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663708" Name="Hex2Byte" Variables="this;h;V_0;V_1;V_2;V_3;V_4;" ParamCnt="2" />
+<Type Token="33554480" Name="NMixerProNET.CDynCompile" />
+<Method Token="100663709" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663710" Name="Compile" Variables="this;sCode;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663711" Name="CreateObject" Variables="this;sCode;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663712" Name="CompileCode" Variables="this;sCode;" ParamCnt="2" />
+<Method Token="100663713" Name="ExecuteCode" Variables="this;V_0;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663714" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663715" Name="Dispose" Variables="this;" ParamCnt="1" />
+<Field Token="67109131" Name="CodeProvider" />
+<Field Token="67109132" Name="CompParams" />
+<Field Token="67109133" Name="Obj" />
+<Field Token="67109134" Name="disposedValue" />
+<Type Token="33554481" Name="NMixerProNET.Lines" />
+<Method Token="100663716" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663717" Name="Add" Variables="this;l;" ParamCnt="2" />
+<Method Token="100663718" Name="Add" Variables="this;Key;lineinfo;lType;ConnTo;mixerHandler;pCtrl;sKey;V_0;V_1;V_2;" ParamCnt="8" />
+<Method Token="100663719" Name="get_Item" Variables="this;index;V_0;" ParamCnt="2" />
+<Method Token="100663720" Name="GetEnumerator" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663721" Name="Remove" Variables="this;obj;" ParamCnt="2" />
+<Method Token="100663722" Name="Dispose" Variables="this;" ParamCnt="1" />
+<Method Token="100663723" Name="get_Count" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663724" Name="get_IsSynchronized" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663725" Name="get_SyncRoot" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663726" Name="CopyTo" Variables="this;array;index;V_0;V_1;V_2;" ParamCnt="3" />
+<Field Token="67109135" Name="mCol" />
+<Type Token="33554482" Name="NMixerProNET.Mixers" />
+<Method Token="100663727" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663728" Name="Add" Variables="this;Key;ID;mvarHWND;sKey;V_0;V_1;V_2;" ParamCnt="5" />
+<Method Token="100663729" Name="get_Item" Variables="this;index;V_0;" ParamCnt="2" />
+<Method Token="100663730" Name="GetEnumerator" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663731" Name="Remove" Variables="this;obj;" ParamCnt="2" />
+<Method Token="100663732" Name="Finalize" Variables="this;" ParamCnt="1" />
+<Method Token="100663733" Name="get_Count" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663734" Name="get_IsSynchronized" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663735" Name="get_SyncRoot" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663736" Name="CopyTo" Variables="this;array;index;V_0;V_1;V_2;" ParamCnt="3" />
+<Method Token="100663737" Name="Dispose" Variables="this;" ParamCnt="1" />
+<Field Token="67109136" Name="mCol" />
+<Type Token="33554483" Name="NMixerProNET.modAPI" />
+<Method Token="100663738" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663739" Name="mixerOpen" Variables="phmx;uMxId;dwCallback;dwInstance;fdwOpen;" ParamCnt="5" />
+<Method Token="100663740" Name="mixerClose" Variables="hmx;" ParamCnt="1" />
+<Method Token="100663741" Name="mixerGetID" Variables="hmxobj;puMxId;fdwId;" ParamCnt="3" />
+<Method Token="100663742" Name="mixerGetLineControls" Variables="hmxobj;pmxlc;fdwControls;" ParamCnt="3" />
+<Method Token="100663743" Name="mixerGetDevCaps" Variables="uMxId;pmxcaps;cbmxcaps;" ParamCnt="3" />
+<Method Token="100663744" Name="mixerGetLineInfo" Variables="hmxobj;pmxl;fdwInfo;" ParamCnt="3" />
+<Method Token="100663745" Name="mixerGetControlDetails" Variables="hmxobj;pmxcd;fdwDetails;" ParamCnt="3" />
+<Method Token="100663746" Name="mixerSetControlDetails" Variables="hmxobj;pmxcd;fdwDetails;" ParamCnt="3" />
+<Method Token="100663747" Name="mixerGetNumDevs" Variables="" ParamCnt="0" />
+<Method Token="100663748" Name="GlobalAlloc" Variables="wFlags;dwBytes;" ParamCnt="2" />
+<Method Token="100663749" Name="GlobalLock" Variables="hMem;" ParamCnt="1" />
+<Method Token="100663750" Name="GlobalFree" Variables="hMem;" ParamCnt="1" />
+<Method Token="100663751" Name="GlobalUnlock" Variables="hMem;" ParamCnt="1" />
+<Method Token="100663752" Name="SetTimer" Variables="hWnd;nIDEvent;uElapse;lpTimerFunc;" ParamCnt="4" />
+<Method Token="100663753" Name="KillTimer" Variables="hWnd;nIDEvent;" ParamCnt="2" />
+<Method Token="100663754" Name="StripNull" Variables="s;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663755" Name="VarPtr" Variables="o;V_0;V_1;V_2;V_3;" ParamCnt="1" />
+<Field Token="67109137" Name="MAXPNAMELEN" />
+<Field Token="67109138" Name="MIXER_SHORT_NAME_CHARS" />
+<Field Token="67109139" Name="MIXER_LONG_NAME_CHARS" />
+<Field Token="67109140" Name="MIXER_OBJECTF_AUX" />
+<Field Token="67109141" Name="MIXER_OBJECTF_HANDLE" />
+<Field Token="67109142" Name="MIXER_OBJECTF_MIXER" />
+<Field Token="67109143" Name="MIXER_OBJECTF_WAVEIN" />
+<Field Token="67109144" Name="MIXER_OBJECTF_WAVEOUT" />
+<Field Token="67109145" Name="MIXER_OBJECTF_HMIXER" />
+<Field Token="67109146" Name="MIXER_OBJECTF_HWAVEIN" />
+<Field Token="67109147" Name="MIXER_OBJECTF_HWAVEOUT" />
+<Field Token="67109148" Name="MIXERCONTROL_CT_CLASS_CUSTOM" />
+<Field Token="67109149" Name="MIXERCONTROL_CT_CLASS_FADER" />
+<Field Token="67109150" Name="MIXERCONTROL_CT_CLASS_LIST" />
+<Field Token="67109151" Name="MIXERCONTROL_CT_CLASS_MASK" />
+<Field Token="67109152" Name="MIXERCONTROL_CT_CLASS_METER" />
+<Field Token="67109153" Name="MIXERCONTROL_CT_CLASS_NUMBER" />
+<Field Token="67109154" Name="MIXERCONTROL_CT_CLASS_SLIDER" />
+<Field Token="67109155" Name="MIXERCONTROL_CT_CLASS_SWITCH" />
+<Field Token="67109156" Name="MIXERCONTROL_CT_CLASS_TIME" />
+<Field Token="67109157" Name="MIXERCONTROL_CT_UNITS_BOOLEAN" />
+<Field Token="67109158" Name="MIXERCONTROL_CT_UNITS_CUSTOM" />
+<Field Token="67109159" Name="MIXERCONTROL_CT_UNITS_DECIBELS" />
+<Field Token="67109160" Name="MIXERCONTROL_CT_UNITS_MASK" />
+<Field Token="67109161" Name="MIXERCONTROL_CT_UNITS_PERCENT" />
+<Field Token="67109162" Name="MIXERCONTROL_CT_UNITS_SIGNED" />
+<Field Token="67109163" Name="MIXERCONTROL_CT_UNITS_UNSIGNED" />
+<Field Token="67109164" Name="MIXERCONTROL_CT_SC_LIST_MULTIPLE" />
+<Field Token="67109165" Name="MIXERCONTROL_CT_SC_LIST_SINGLE" />
+<Field Token="67109166" Name="MIXERCONTROL_CT_SC_METER_POLLED" />
+<Field Token="67109167" Name="MIXERCONTROL_CT_SC_SWITCH_BOOLEAN" />
+<Field Token="67109168" Name="MIXERCONTROL_CT_SC_SWITCH_BUTTON" />
+<Field Token="67109169" Name="MIXERCONTROL_CT_SC_TIME_MICROSECS" />
+<Field Token="67109170" Name="MIXERCONTROL_CT_SC_TIME_MILLISECS" />
+<Field Token="67109171" Name="MIXERCONTROL_CONTROLF_DISABLED" />
+<Field Token="67109172" Name="MIXERCONTROL_CONTROLF_MULTIPLE" />
+<Field Token="67109173" Name="MIXERCONTROL_CONTROLF_UNIFORM" />
+<Field Token="67109174" Name="MIXERCONTROL_CONTROLTYPE_FADER" />
+<Field Token="67109175" Name="MIXERCONTROL_CONTROLTYPE_BASS" />
+<Field Token="67109176" Name="MIXERCONTROL_CONTROLTYPE_TREBLE" />
+<Field Token="67109177" Name="MIXERCONTROL_CONTROLTYPE_BOOLEAN" />
+<Field Token="67109178" Name="MIXERCONTROL_CONTROLTYPE_BOOLEANMETER" />
+<Field Token="67109179" Name="MIXERCONTROL_CONTROLTYPE_BUTTON" />
+<Field Token="67109180" Name="MIXERCONTROL_CONTROLTYPE_CUSTOM" />
+<Field Token="67109181" Name="MIXERCONTROL_CONTROLTYPE_DECIBELS" />
+<Field Token="67109182" Name="MIXERCONTROL_CONTROLTYPE_EQUALIZER" />
+<Field Token="67109183" Name="MIXERCONTROL_CONTROLTYPE_LOUDNESS" />
+<Field Token="67109184" Name="MIXERCONTROL_CONTROLTYPE_MICROTIME" />
+<Field Token="67109185" Name="MIXERCONTROL_CONTROLTYPE_MILLITIME" />
+<Field Token="67109186" Name="MIXERCONTROL_CONTROLTYPE_MULTIPLESELECT" />
+<Field Token="67109187" Name="MIXERCONTROL_CONTROLTYPE_MIXER" />
+<Field Token="67109188" Name="MIXERCONTROL_CONTROLTYPE_MONO" />
+<Field Token="67109189" Name="MIXERCONTROL_CONTROLTYPE_MUTE" />
+<Field Token="67109190" Name="MIXERCONTROL_CONTROLTYPE_SINGLESELECT" />
+<Field Token="67109191" Name="MIXERCONTROL_CONTROLTYPE_MUX" />
+<Field Token="67109192" Name="MIXERCONTROL_CONTROLTYPE_ONOFF" />
+<Field Token="67109193" Name="MIXERCONTROL_CONTROLTYPE_SLIDER" />
+<Field Token="67109194" Name="MIXERCONTROL_CONTROLTYPE_PAN" />
+<Field Token="67109195" Name="MIXERCONTROL_CONTROLTYPE_SIGNEDMETER" />
+<Field Token="67109196" Name="MIXERCONTROL_CONTROLTYPE_PEAKMETER" />
+<Field Token="67109197" Name="MIXERCONTROL_CONTROLTYPE_PERCENT" />
+<Field Token="67109198" Name="MIXERCONTROL_CONTROLTYPE_QSOUNDPAN" />
+<Field Token="67109199" Name="MIXERCONTROL_CONTROLTYPE_SIGNED" />
+<Field Token="67109200" Name="MIXERCONTROL_CONTROLTYPE_STEREOENH" />
+<Field Token="67109201" Name="MIXERCONTROL_CONTROLTYPE_UNSIGNED" />
+<Field Token="67109202" Name="MIXERCONTROL_CONTROLTYPE_UNSIGNEDMETER" />
+<Field Token="67109203" Name="MIXERCONTROL_CONTROLTYPE_VOLUME" />
+<Field Token="67109204" Name="MIXERLINE_TARGETTYPE_AUX" />
+<Field Token="67109205" Name="MIXERLINE_TARGETTYPE_MIDIIN" />
+<Field Token="67109206" Name="MIXERLINE_TARGETTYPE_MIDIOUT" />
+<Field Token="67109207" Name="MIXERLINE_TARGETTYPE_UNDEFINED" />
+<Field Token="67109208" Name="MIXERLINE_TARGETTYPE_WAVEIN" />
+<Field Token="67109209" Name="MIXERLINE_TARGETTYPE_WAVEOUT" />
+<Field Token="67109210" Name="MIXERLINE_COMPONENTTYPE_DST_FIRST" />
+<Field Token="67109211" Name="MIXERLINE_COMPONENTTYPE_DST_DIGITAL" />
+<Field Token="67109212" Name="MIXERLINE_COMPONENTTYPE_DST_HEADPHONES" />
+<Field Token="67109213" Name="MIXERLINE_COMPONENTTYPE_DST_LAST" />
+<Field Token="67109214" Name="MIXERLINE_COMPONENTTYPE_DST_LINE" />
+<Field Token="67109215" Name="MIXERLINE_COMPONENTTYPE_DST_MONITOR" />
+<Field Token="67109216" Name="MIXERLINE_COMPONENTTYPE_DST_SPEAKERS" />
+<Field Token="67109217" Name="MIXERLINE_COMPONENTTYPE_DST_TELEPHONE" />
+<Field Token="67109218" Name="MIXERLINE_COMPONENTTYPE_DST_UNDEFINED" />
+<Field Token="67109219" Name="MIXERLINE_COMPONENTTYPE_DST_VOICEIN" />
+<Field Token="67109220" Name="MIXERLINE_COMPONENTTYPE_DST_WAVEIN" />
+<Field Token="67109221" Name="MIXERLINE_COMPONENTTYPE_SRC_FIRST" />
+<Field Token="67109222" Name="MIXERLINE_COMPONENTTYPE_SRC_DIGITAL" />
+<Field Token="67109223" Name="MIXERLINE_COMPONENTTYPE_SRC_LINE" />
+<Field Token="67109224" Name="MIXERLINE_COMPONENTTYPE_SRC_MICROPHONE" />
+<Field Token="67109225" Name="MIXERLINE_COMPONENTTYPE_SRC_SYNTHESIZER" />
+<Field Token="67109226" Name="MIXERLINE_COMPONENTTYPE_SRC_COMPACTDISC" />
+<Field Token="67109227" Name="MIXERLINE_COMPONENTTYPE_SRC_TELEPHONE" />
+<Field Token="67109228" Name="MIXERLINE_COMPONENTTYPE_SRC_PCSPEAKER" />
+<Field Token="67109229" Name="MIXERLINE_COMPONENTTYPE_SRC_WAVEOUT" />
+<Field Token="67109230" Name="MIXERLINE_COMPONENTTYPE_SRC_AUXILIARY" />
+<Field Token="67109231" Name="MIXERLINE_COMPONENTTYPE_SRC_ANALOG" />
+<Field Token="67109232" Name="MIXERLINE_COMPONENTTYPE_SRC_LAST" />
+<Field Token="67109233" Name="MIXERLINE_COMPONENTTYPE_SRC_UNDEFINED" />
+<Field Token="67109234" Name="MIXER_GETCONTROLDETAILSF_VALUE" />
+<Field Token="67109235" Name="MIXER_GETCONTROLDETAILSF_LISTTEXT" />
+<Field Token="67109236" Name="MIXER_GETCONTROLDETAILSF_QUERYMASK" />
+<Field Token="67109237" Name="MIXER_SETCONTROLDETAILSF_VALUE" />
+<Field Token="67109238" Name="MIXER_SETCONTROLDETAILSF_CUSTOM" />
+<Field Token="67109239" Name="MIXER_SETCONTROLDETAILSF_QUERYMASK" />
+<Field Token="67109240" Name="MIXER_GETLINECONTROLSF_ALL" />
+<Field Token="67109241" Name="MIXER_GETLINECONTROLSF_ONEBYID" />
+<Field Token="67109242" Name="MIXER_GETLINECONTROLSF_ONEBYTYPE" />
+<Field Token="67109243" Name="MIXER_GETLINECONTROLSF_QUERYMASK" />
+<Field Token="67109244" Name="MIXER_GETLINEINFOF_COMPONENTTYPE" />
+<Field Token="67109245" Name="MIXER_GETLINEINFOF_DESTINATION" />
+<Field Token="67109246" Name="MIXER_GETLINEINFOF_LINEID" />
+<Field Token="67109247" Name="MIXER_GETLINEINFOF_QUERYMASK" />
+<Field Token="67109248" Name="MIXER_GETLINEINFOF_SOURCE" />
+<Field Token="67109249" Name="MIXER_GETLINEINFOF_TARGETTYPE" />
+<Field Token="67109250" Name="MIXERR_BASE" />
+<Field Token="67109251" Name="MIXERR_INVALCONTROL" />
+<Field Token="67109252" Name="MIXERR_INVALLINE" />
+<Field Token="67109253" Name="MIXERR_INVALVALUE" />
+<Field Token="67109254" Name="MIXERR_LASTERROR" />
+<Field Token="67109255" Name="MMSYSERR_BASE" />
+<Field Token="67109256" Name="MMSYSERR_ALLOCATED" />
+<Field Token="67109257" Name="MMSYSERR_BADDEVICEID" />
+<Field Token="67109258" Name="MMSYSERR_BADERRNUM" />
+<Field Token="67109259" Name="MMSYSERR_ERROR" />
+<Field Token="67109260" Name="MMSYSERR_HANDLEBUSY" />
+<Field Token="67109261" Name="MMSYSERR_INVALFLAG" />
+<Field Token="67109262" Name="MMSYSERR_INVALHANDLE" />
+<Field Token="67109263" Name="MMSYSERR_INVALIDALIAS" />
+<Field Token="67109264" Name="MMSYSERR_INVALPARAM" />
+<Field Token="67109265" Name="MMSYSERR_LASTERROR" />
+<Field Token="67109266" Name="MMSYSERR_NODRIVER" />
+<Field Token="67109267" Name="MMSYSERR_NOERROR" />
+<Field Token="67109268" Name="MMSYSERR_NOMEM" />
+<Field Token="67109269" Name="MMSYSERR_NOTENABLED" />
+<Field Token="67109270" Name="MMSYSERR_NOTSUPPORTED" />
+<Type Token="33554484" Name="NMixerProNET.modAPI/MIXERCONTROLDETAILS_UNSIGNED" />
+<Field Token="67109271" Name="dwValue" />
+<Type Token="33554485" Name="NMixerProNET.modAPI/MIXERCONTROLDETAILS_SIGNED" />
+<Field Token="67109272" Name="lValue" />
+<Type Token="33554486" Name="NMixerProNET.modAPI/MIXERCONTROLDETAILS_BOOLEAN" />
+<Field Token="67109273" Name="fValue" />
+<Type Token="33554487" Name="NMixerProNET.modAPI/MIXERCONTROLDETAILS_LISTTEXT" />
+<Field Token="67109274" Name="dwParam1" />
+<Field Token="67109275" Name="dwParam2" />
+<Field Token="67109276" Name="szName" />
+<Type Token="33554488" Name="NMixerProNET.modAPI/MIXERCONTROL" />
+<Field Token="67109277" Name="cbStruct" />
+<Field Token="67109278" Name="dwControlID" />
+<Field Token="67109279" Name="dwControlType" />
+<Field Token="67109280" Name="fdwControl" />
+<Field Token="67109281" Name="cMultipleItems" />
+<Field Token="67109282" Name="szShortName" />
+<Field Token="67109283" Name="szName" />
+<Field Token="67109284" Name="lMinimum" />
+<Field Token="67109285" Name="lMaximum" />
+<Field Token="67109286" Name="dwMinimum" />
+<Field Token="67109287" Name="dwMaximum" />
+<Field Token="67109288" Name="cSteps" />
+<Field Token="67109289" Name="cbCustomData" />
+<Field Token="67109290" Name="reserved" />
+<Type Token="33554489" Name="NMixerProNET.modAPI/MIXERCAPS" />
+<Field Token="67109291" Name="wMid" />
+<Field Token="67109292" Name="wPid" />
+<Field Token="67109293" Name="vDriverVersion" />
+<Field Token="67109294" Name="szPname" />
+<Field Token="67109295" Name="fdwSupport" />
+<Field Token="67109296" Name="cDestinations" />
+<Type Token="33554490" Name="NMixerProNET.modAPI/MIXERLINECONTROLS" />
+<Field Token="67109297" Name="cbStruct" />
+<Field Token="67109298" Name="dwLineID" />
+<Field Token="67109299" Name="dwControl" />
+<Field Token="67109300" Name="cControls" />
+<Field Token="67109301" Name="cbmxctrl" />
+<Field Token="67109302" Name="pamxctrl" />
+<Type Token="33554491" Name="NMixerProNET.modAPI/Target" />
+<Field Token="67109303" Name="dwType" />
+<Field Token="67109304" Name="dwDeviceID" />
+<Field Token="67109305" Name="wMid" />
+<Field Token="67109306" Name="wPid" />
+<Field Token="67109307" Name="vDriverVersion" />
+<Field Token="67109308" Name="szPname" />
+<Type Token="33554492" Name="NMixerProNET.modAPI/MIXERLINE" />
+<Field Token="67109309" Name="cbStruct" />
+<Field Token="67109310" Name="dwDestination" />
+<Field Token="67109311" Name="dwSource" />
+<Field Token="67109312" Name="dwLineID" />
+<Field Token="67109313" Name="fdwLine" />
+<Field Token="67109314" Name="dwUser" />
+<Field Token="67109315" Name="dwComponentType" />
+<Field Token="67109316" Name="cChannels" />
+<Field Token="67109317" Name="cConnections" />
+<Field Token="67109318" Name="cControls" />
+<Field Token="67109319" Name="szShortName" />
+<Field Token="67109320" Name="szName" />
+<Field Token="67109321" Name="lpTarget" />
+<Type Token="33554493" Name="NMixerProNET.modAPI/MIXERCONTROLDETAILS" />
+<Field Token="67109322" Name="cbStruct" />
+<Field Token="67109323" Name="dwControlID" />
+<Field Token="67109324" Name="cChannels" />
+<Field Token="67109325" Name="Item" />
+<Field Token="67109326" Name="cbDetails" />
+<Field Token="67109327" Name="paDetails" />
+<Type Token="33554494" Name="NMixerProNET.MsgHnd" />
+<Method Token="100663756" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663757" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663758" Name="InitializeComponent" Variables="this;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663759" Name="WndProc" Variables="this;m;" ParamCnt="2" />
+<Field Token="67109328" Name="components" />
+<Field Token="67109329" Name="mxp" />
+<Type Token="33554495" Name="NMixerProNET.My.Resources.Resources" />
+<Method Token="100663760" Name="get_ResourceManager" Variables="V_0;V_1;" ParamCnt="0" />
+<Method Token="100663761" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663762" Name="set_Culture" Variables="Value;" ParamCnt="1" />
+<Method Token="100663763" Name="get_knob_v_disabled" Variables="V_0;V_1;" ParamCnt="0" />
+<Method Token="100663764" Name="get_knob_v_normal_focus" Variables="V_0;V_1;" ParamCnt="0" />
+<Method Token="100663765" Name="get_knob_v_normal_unfocus" Variables="V_0;V_1;" ParamCnt="0" />
+<Method Token="100663766" Name="get_knob_v_over" Variables="V_0;V_1;" ParamCnt="0" />
+<Field Token="67109330" Name="resourceMan" />
+<Field Token="67109331" Name="resourceCulture" />
+<Type Token="33554496" Name="VB$AnonymousDelegate_4" />
+<Method Token="100663767" Name=".ctor" Variables="this;TargetObject;TargetMethod;" ParamCnt="3" />
+<Method Token="100663768" Name="BeginInvoke" Variables="this;DelegateCallback;DelegateAsyncState;" ParamCnt="3" />
+<Method Token="100663769" Name="EndInvoke" Variables="this;DelegateAsyncResult;" ParamCnt="2" />
+<Method Token="100663770" Name="Invoke" Variables="this;" ParamCnt="1" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663299" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>
